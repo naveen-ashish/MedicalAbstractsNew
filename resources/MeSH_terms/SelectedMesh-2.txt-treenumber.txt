@@ -1,0 +1,904 @@
+pseudopregnancy: G08.686.785.760.769.887
+longevity: G07.540, G07.700.320.124.519
+rats, inbred shr: B01.050.050.157.760.300, B01.050.050.199.520.760.300, B01.050.150.900.649.865.635.505.700.400.300
+prone: 
+spontaneously: 
+cleft palate: C05.500.460.185, C05.660.207.540.460.185, C07.320.440.185, C07.465.525.185, C07.650.500.460.185, C07.650.525.185, C16.131.621.207.540.460.185, C16.131.850.500.460.185, C16.131.850.525.185
+kestrels: 
+kidneys: 
+rats, inbred dahl: B01.050.050.157.760.165, B01.050.050.199.520.760.165, B01.050.150.900.649.865.635.505.700.400.165
+dahl: 
+tract: 
+gull: 
+nerve regeneration: G11.561.600.615, G16.100.856.611
+olfactory bulb: A08.186.211.464.699.573, A08.186.211.730.885.600.573
+olfactory receptor neurons: A04.531.520.573.580, A04.760.600.640.640, A08.663.650.915.500.540, A08.800.950.500.540, A09.531.623.580, A10.615.550.760.600.640.640, A11.671.650.915.500.540
+regeneration: G16.100.856
+copper sulfate: D01.875.800.800.850.150
+estrus: G08.686.195.500
+subchronic: 
+bbp: 
+copepod: 
+avoidance learning: F02.463.425.097
+oligochaeta: B01.050.500.091.657
+minnows: 
+pimephales: 
+promelas: 
+cytochrome p-450 cyp2b1: D08.244.453.040.888, D08.811.682.690.708.170.040.499, D12.776.422.220.453.040.777
+uction: 
+lactational: 
+bufonidae: B01.050.150.900.090.180.210
+hindlimb: A13.473
+amphibians: B01.050.150.900.090
+pipiens: 
+hypoglycemic agents: D27.505.696.422
+dams: 
+cochlea: A09.246.631.246
+hair cells, auditory, outer: A08.663.650.250.315, A08.663.650.915.750.600.350.365, A08.800.950.750.600.350.365, A09.246.631.246.577.325.380, A11.671.650.250.315, A11.671.650.915.750.600.350.365
+organ of corti: A09.246.631.246.577
+dibutyl: 
+cypermethrin: 
+specific pathogen-free organisms: G06.320.676
+estrous cycle: G08.686.195
+pups: 
+litter size: G08.686.530, G08.686.785.760.769.498.300
+f344: 
+biogenic monoamines: D02.092.211.215
+locomotion: G07.700.560.500, G11.427.590.530.568
+sexual behavior, animal: F01.145.113.252.748
+organogenesis: G07.700.320.500.325.377, G08.686.785.760.170.450
+dinp: 
+fed: 
+transgenic: 
+din: 
+nephrons: A05.810.453.736
+intoxicated: 
+elopmental: 
+gerbillinae: B01.050.150.900.649.865.635.300
+gerbil: 
+paracentrotus: B01.050.500.408.578.600
+forestomach: 
+butylated: 
+strains: 
+dbp: 
+shr: 
+conditioning, operant: F02.463.425.179.509
+reinforcement schedule: F02.463.425.770.644
+carcinogen: 
+28: 
+9,10-dimethyl-1,2-benzanthracene: D02.455.426.559.847.149.301, D04.615.149.301
+weeks: 
+testicular diseases: C12.294.829, C19.391.829
+copulation: F01.145.113.252.748.200
+preoptic area: A08.186.211.730.317.357.342.450
+synapses: A08.850, A11.284.149.165.420.780
+cholinergic: 
+accumulation: 
+limb deformities, congenital: C05.660.585, C16.131.621.585
+pesticide synergists: D27.720.031.700.748, D27.720.723.748, D27.888.723.748
+fibronectins: D12.776.377.715.390, D12.776.395.550.350, D12.776.543.550.350, D12.776.860.300.450
+fatty acids, nonesterified: D10.251.310
+protective agents: D27.505.696.706, D27.720.799
+population dynamics: I01.240.600, N01.224.625, N06.850.505.400.700
+instillation, drug: E02.319.267.641
+autoradiography: E01.370.225.750.132, E05.200.750.132, E05.799.256
+radiation injuries, experimental: C26.733.720, E05.598.500.750, N06.850.810.300.360.285
+whole-body irradiation: E02.815.814, E05.980
+f344/n: 
+albino: 
+nerve fibers, myelinated: A08.663.542.512, A11.671.514
+hyperinsulinism: C18.452.394.968
+chironomidae: B01.050.500.131.617.289.260
+chironomus: 
+animals]: 
+cattle diseases: C22.196
+exploratory behavior: F01.145.387, F01.658.370
+breeding: E05.820.150, G05.355.090
+sperm-ovum interactions: G08.686.785.760.277.800
+polychaeta: B01.050.500.091.700
+zygote: A05.360.490.690.970, A11.497.497.950, A16.950
+elegans: 
+ovo: 
+ketoconazole: D03.383.606.560
+linuron: D02.455.426.559.389.703.515, D02.948.681.515
+dentate gyrus: A08.186.211.464.405.200, A08.186.211.730.885.287.500.345.200
+nitrosamines: D02.654.442
+sexual: 
+weaning: G07.610.220.500.750, G07.610.593.762, G07.700.620.762
+muscle relaxation: G11.427.590.540.554
+conditioning: 
+gait: E01.370.600.250, G11.427.590.530.389
+experimentally: 
+flounder: B01.050.150.900.493.418.438
+crosses, genetic: E05.393.281
+l-iditol 2-dehydrogenase: D08.811.682.047.150.700.475
+neural inhibition: G07.265.337.615, G07.700.240.615, G11.561.600.625
+rana pipiens: B01.050.150.900.090.180.708.310
+tadpoles: 
+rare: 
+gobiocypris: 
+rarus: 
+catfishes: B01.050.150.900.493.080
+magna: 
+puberty: G08.686.760, G08.686.785.880.374
+prepubertal: 
+genes, dominant: G05.360.340.024.340.240, G05.420.320
+translocation, genetic: C23.550.210.870, G05.355.600.860, G05.365.590.175.870
+anura: B01.050.150.900.090.180
+administration, intranasal: E02.319.267.080, E02.319.267.120.080
+azoxymethane: D02.172.080
+mink: B01.050.150.900.649.147.550.500
+genitalia, female: A05.360.319
+penis: A05.360.444.492
+caenorhabditis elegans: B01.050.500.500.294.700.700.660.250.250
+caenorhabditis: B01.050.500.500.294.700.700.660.250
+perinatally: 
+cyprinodontiformes: B01.050.150.900.493.850.280
+growth and development: G07.700.320
+xiphophorus: 
+vinclozolin: 
+conditioning, classical: F02.463.425.179.308
+week: 
+icr: 
+generations: 
+waterborne: 
+hbcd: 
+latipes: 
+feminization: C23.888.378
+clawed: 
+frogs: 
+pbde: 
+injections: E02.319.267.530
+rhubarb: 
+sublethal: 
+inatal: 
+impairs: 
+fetuses: 
+egg yolk: A16.690.325, J02.500.470.800
+coast: 
+swimming: G11.427.590.530.568.800, G11.427.590.530.698.277.875, I03.450.642.845.869
+adulthood: 
+diuron: D02.455.426.559.389.703.397, D02.948.681.397
+hexabromocyclododecane: 
+ultidisciplinary: 
+drug carriers: D26.255.260, D27.720.280.260, E02.319.300.380
+discrimination learning: F02.463.425.280
+juvenile: 
+blood urea nitrogen: E01.370.225.124.100.115, E01.370.390.400.100, E05.200.124.100.115
+urchin: 
+pubertal: 
+whales: B01.050.150.900.649.189.865
+bloch: 
+evans: 
+protocol: 
+north sea: Z01.756.092.650
+phocoena: B01.050.150.900.649.189.566.600
+harbor: 
+feathers: A13.370
+lakes: G01.311.580, G16.500.275.280.500, N06.230.232.500
+gonadal: 
+genomic imprinting: G05.355.315.203.500
+otters: B01.050.150.900.649.147.550.600
+wild: 
+altered: 
+gland: 
+manner: 
+morphogenesis: G07.700.320.500
+parasitology: H01.158.273.688
+animals, genetically modified: B01.050.050.136, B05.620.136
+microdialysis: E05.196.353.500
+zebrafish proteins: D12.776.325.500
+disrupts: 
+channa: 
+punctatus: 
+eagles: B01.050.150.900.248.250.200, B01.050.150.900.248.815.350.200
+f1: 
+larval: 
+metamorphosis: 
+taurine: D02.455.326.146.100.850, D02.886.645.600.055.850
+phoca: B01.050.150.900.649.147.600.700.600
+raptors: B01.050.150.900.248.815
+ventricular dysfunction, left: C14.280.945.900
+mollusca: B01.050.500.644
+pigs: 
+ethane: D02.455.326.146.379
+catfish: 
+gavage: 
+antifungal agents: D27.505.954.122.136
+ribs: A02.835.232.904.567
+riparius: 
+dysgenesis: 
+fetal weight: C23.888.144.300, E01.370.600.115.100.160.120.300, E05.041.124.160.750.300, G07.100.100.160.120.300, G07.700.320.249.314.120.300, G07.700.320.500.325.235.937, G08.686.280
+seals: 
+propoxur: D02.241.081.251.583.788
+atogenic: 
+larus: 
+nsgenerational: 
+intraperitoneal: 
+amphibian: 
+porpoises: B01.050.150.900.649.189.566
+adiposity: E01.370.600.115.100.062.500, G02.111.097.134.500, G03.180.134.500, G07.100.049.134.500
+earthworm: 
+uteri: 
+crustacea: B01.050.500.131.365
+blotting, southern: E05.196.401.114, E05.301.300.087, E05.393.525.150, E05.601.150
+poecilia: B01.050.150.900.493.850.280.680
+teleost: 
+habituation, psychophysiologic: F02.463.425.393, F02.830.422, G11.561.600.360
+lipase: D08.811.277.352.100.400
+lipid peroxides: D02.389.338.450, D02.737.450, D10.440
+null: 
+c57bl/6: 
+diverse: 
+lymnaea: B01.050.500.644.400.750.645
+lethal: 
+monkey: 
+baltic states: Z01.542.248.136, Z01.586.950.140
+guillemot: 
+baltic: 
+subacute: 
+perinatal: 
+escape reaction: F01.145.113.448, F01.145.367
+embryogenesis: 
+mytilus: B01.050.500.644.080.537.500
+metaphase: G04.299.134.220.220.750, G04.299.134.220.220.781.625, G05.355.105.220.750, G05.355.105.220.781.625
+animal husbandry: J01.040.090
+food, organic: J02.500.519
+yolks: 
+alation: 
+given: 
+tbbpa: 
+synaptophysin: D12.776.543.488.875, D12.776.543.990.840, D12.776.641.800, D23.101.840.800
+&quot;antiandrogens&quot;: 
+vitulina: 
+brown: 
+aorta, thoracic: A07.231.114.056.372
+rats, inbred bn: B01.050.050.157.760.110, B01.050.050.199.520.760.110, B01.050.150.900.649.865.635.505.700.400.110
+gulls: 
+pacific: 
+seals, earless: B01.050.150.900.649.147.600.700
+nitrogen isotopes: D01.496.586
+orally: 
+cynomolgus: 
+macaca: B01.050.150.900.649.801.400.112.199.120.510
+startle reaction: E01.370.376.550.650.800, E01.370.600.550.650.800, F02.830.702.807, G11.561.600.765.869
+route: 
+carboxy-lyases: D08.811.520.224.125
+lake: 
+perimental: 
+pentylenetetrazole: D03.383.066.600
+glucose-6-phosphatase: D08.811.277.352.650.225
+porphobilinogen synthase: D08.811.520.241.300.550
+cottonseed oil: D10.212.302.380.380, D10.212.507.350, D10.627.700.263, D20.215.784.750.263, J02.500.375.400.300
+cottonseed: 
+kidney tubular necrosis, acute: C12.777.419.780.050.500, C13.351.968.419.780.050.500
+vegetable: 
+cinogenicity: 
+macaca mulatta: B01.050.150.900.649.801.400.112.199.120.510.550
+hamsters: 
+instillation: 
+substantia nigra: A08.186.211.132.659.822.731, A08.186.211.653.822.731
+infusions, intravenous: E02.319.267.082.500, E02.319.267.510.590
+gonads: A05.360.576, A06.407.312
+intratracheal: 
+retina: A09.371.729
+blood cell count: E01.370.225.500.195.107, E01.370.225.625.107, E05.200.500.195.107, E05.200.625.107, E05.242.195.107, G04.170.107, G09.188.105
+monkeys: 
+macaca fascicularis: B01.050.150.900.649.801.400.112.199.120.510.520
+four: 
+half-life: G01.910.405
+administration: 
+birds: B01.050.150.900.248
+oral: 
+feeding behavior: F01.145.113.547, F01.145.407
+fetal resorption: C13.703.243.300, C23.550.260.460.260
+innervation: 
+medaka: 
+histocytochemistry: E01.370.225.500.607, E01.370.225.750.551, E05.200.500.607, E05.200.750.551, H01.158.100.656.234, H01.158.201.344, H01.181.122.573
+cardiomegaly: C14.280.195, C23.300.775.250
+administered: 
+stages: 
+in situ hybridization, fluorescence: E01.370.225.500.620.670.325.350, E01.370.225.750.600.670.325.350, E05.200.500.620.670.325.350, E05.200.750.600.670.325.350, E05.393.285.350, E05.393.661.475.350
+vasodilation: G09.330.190.400.925
+injections, intraperitoneal: E02.319.267.530.490
+papilloma: C04.557.470.700.600
+utero: 
+stachybotrys: B01.300.381.840
+b6c3f1: 
+metamorphosis, biological: G07.700.320.500.550
+prenatal: 
+mesenteric arteries: A07.231.114.565
+nose neoplasms: C04.588.149.721.600, C04.588.443.665.650, C05.116.231.754.600, C08.460.669, C08.785.600, C09.603.669, C09.647.685
+days: 
+erythrocyte count: E01.370.225.500.195.107.330, E01.370.225.625.107.330, E05.200.500.195.107.330, E05.200.625.107.330, E05.242.195.107.330, G04.170.107.330, G09.188.105.330
+sex: G08.686.810
+respiratory system: A04
+approach: 
+charadriiformes: B01.050.150.900.248.150
+goldfish: B01.050.150.900.493.200.244.248.480
+drinking behavior: F01.145.317
+hypertriglyceridemia: C18.452.584.500.500.851
+hypospadias: C12.294.494.400, C12.706.516, C13.351.875.466, C16.131.939.516
+brain chemistry: G02.111.100, G03.200
+mice, inbred c3h: B01.050.050.157.520.388, B01.050.050.199.520.520.388, B01.050.150.900.649.865.635.505.500.400.388
+clofibrate: D02.241.081.114.968.500.500.195, D02.355.726.305.500.195, D02.455.426.559.389.657.654.305.500.195
+pregnancy, animal: G08.686.785.760.769.498
+ranidae: B01.050.150.900.090.180.708
+seawater: G16.500.275.810, N06.230.580
+mammary glands, animal: A10.336.482, A13.589
+testes: 
+olfactory: 
+hepatomegaly: C06.552.416, C23.300.775.525
+tibial nerve: A08.800.800.720.450.760.820
+bone development: G07.700.320.500.325.377.625.100, G11.427.590.560.100
+vitamin a: D02.455.326.271.665.202.495.818, D02.455.426.392.368.367.379.249.700.860, D02.455.849.131.495.818, D23.767.261.700.860
+feeding: 
+changes: 
+quail: B01.050.150.900.248.350.650
+corticosterone: D04.808.745.745.654.237, D06.472.040.585.353.237
+butoxyethanol: 
+siloxanes: D01.837.800, D02.715.650, D05.750.900, D25.720.900, J01.637.051.720.900
+vas deferens: A05.360.444.930
+pituitary gland, anterior: A06.407.747.500, A06.688.357.750.500, A08.186.211.730.317.357.352.435.500.500, A08.713.357.750.500
+deltamethrin: 
+epigenetic: 
+papio: B01.050.150.900.649.801.400.112.199.120.610
+no-observed-adverse-effect level: E05.940.600, G07.690.620
+adjuvants, immunologic: D27.505.696.477.067
+lesions: 
+spine: A02.835.232.834
+great: 
+vascular resistance: G09.330.380.921
+butylated hydroxytoluene: D02.455.426.559.389.657.239.216
+hematologic tests: E01.370.225.625, E05.200.625
+cocarcinogenesis: C04.697.098.875, C23.550.727.098.750
+motor activity: F01.145.632, G11.427.590.530.698
+sea: 
+butylated hydroxyanisole: D02.355.601.200.324, D02.355.726.158.324, D02.455.426.559.389.657.654.158.324
+drug administration schedule: E02.319.283
+coastal: 
+gamma-glutamyltransferase: D08.811.913.050.200.500
+arctic: 
+late: 
+leptin: D06.472.699.042.500, D12.644.276.024.500, D12.644.548.011.500, D12.776.467.024.500, D23.529.024.500
+ammonium: 
+social behavior: F01.145.813
+nephrectomy: E04.950.774.435
+genital diseases, male: C12.294
+fusarium: B01.300.381.366
+rana: 
+oviposition: G08.686.785.760.480
+ocrine: 
+cas: 
+peroxidase: D08.811.682.732.700
+phytoestrogens: D27.505.696.399.472.277.540.500
+toxicity tests, chronic: E05.940.800
+hypertensive: 
+thyroid hormones: D06.472.931
+arginine: D12.125.068.050, D12.125.095.104, D12.125.142.087
+evoked potentials, auditory: G07.265.500.370, G11.561.270.370
+chronically: 
+fatty liver: C06.552.241
+receptor, angiotensin, type 1: D12.776.543.750.100.047.625, D12.776.543.750.720.600.150.625, D12.776.543.750.750.130.750, D12.776.543.750.750.555.150.750
+hypertension, renal: C12.777.419.331, C13.351.968.419.331, C14.907.489.631
+pre: 
+lymph nodes: A10.549.400, A15.382.520.604.412
+histopathological: 
+fatty acids, omega-3: D10.212.302.380.410, D10.251.355.337, D10.627.430.450
+tetrazoles: D03.383.129.617
+snails: B01.050.500.644.400.750
+vivo: 
+molting: G07.700.320.500.550.750
+hershberger: 
+malathion: D02.705.400.625.500, D02.705.539.345.500, D02.886.300.692.500
+animal: 
+orchiectomy: E04.270.282.679, E04.950.165.679, E04.950.774.860.618
+femur: A02.835.232.043.650.247
+bass: B01.050.150.900.493.602.105
+tail: A13.895
+experimental: 
+coturnix: B01.050.150.900.248.350.650.350
+properties: 
+marrow: 
+hippocampal: 
+prenatally: 
+postnatal: 
+starch: D05.750.078.562.855, D09.698.365.855
+chemically: 
+cryptorchidism: C12.294.829.258, C12.706.258, C16.131.939.258, C19.391.829.258
+drug toxicity: 
+vasodilator agents: D27.505.954.411.918
+receptor, angiotensin, type 2: D12.776.543.750.100.047.687, D12.776.543.750.720.600.150.687, D12.776.543.750.750.130.875, D12.776.543.750.750.555.150.875
+glucose tolerance test: E01.370.225.124.100.355, E01.370.374.355, E05.200.124.100.355
+northern: 
+great lakes region: Z01.107.567.875.350
+injected: 
+nitric oxide synthase type iii: D08.811.682.664.500.772.750
+ostreidae: B01.050.500.644.080.643
+acrylate: 
+cerebellar cortex: A08.186.211.132.810.428.200.212, A08.186.211.865.428.200.212
+sea urchins: B01.050.500.408.578
+peroxisomes: A11.284.430.214.190.500.585.600, A11.284.430.214.190.875.190.190.755.600
+hydroxyanisole: 
+anisoles: D02.355.601.200, D02.355.726.158, D02.455.426.559.389.657.654.158
+bromodeoxyuridine: D03.383.742.680.852.300.150, D13.570.230.430.196, D13.570.685.852.300.150
+disorders of sex development: C12.706.316, C13.351.875.253, C16.131.939.316, C19.391.119, F03.800.399
+androgens: D27.505.696.399.472.161
+sperm: 
+receptors, steroid: D12.776.260.698.750, D12.776.826.750, D12.776.930.669.750
+administration, cutaneous: E02.319.267.120.060
+ovum: A05.360.490.690, A11.497.497, A16.690
+newborn: 
+microsomes: A11.284.835.540
+arctic regions: Z01.208
+fungicide: 
+phenylephrine: D02.033.100.291.617, D02.092.063.291.617
+oceans and seas: G01.311.625, G16.500.275.810.650, Z01.756
+intubation, gastrointestinal: E02.585.412, E05.497.412
+smegmamorpha: B01.050.150.900.493.850
+egg: 
+hypothalamus: A08.186.211.464.482, A08.186.211.730.317.357
+behavior, animal: F01.145.113
+sulfates: D01.248.497.158.845, D01.875.800.800.850
+butyl: 
+veterinary: 
+toxicity tests, acute: E05.940.790
+behavioral: 
+laevis: 
+larvae: 
+aspartate aminotransferases: D08.811.913.477.700.225
+nanostructures: J01.637.512
+particle: 
+cytochrome: 
+organ: 
+receptors, aryl hydrocarbon: D12.776.260.698.209.715, D12.776.826.209.715, D12.776.930.662, D12.776.930.669.209.715
+aromatase: D08.244.453.915.099, D08.811.682.690.708.170.915.099, D08.811.682.690.708.783.099, D12.776.422.220.453.915.099
+diethylhexyl: 
+and/or: 
+angiotensin: 
+iodine radioisotopes: D01.496.448.496, D01.496.749.474
+zea mays: B01.650.940.800.575.100.822.966, J02.500.200.909, J02.500.300.100.977
+virology: H01.158.273.540.859
+receptors, angiotensin: D12.776.543.750.100.047, D12.776.543.750.720.600.150, D12.776.543.750.750.130, D12.776.543.750.750.555.150
+ejaculation: G08.686.785.760.084
+endothelins: D12.644.276.400, D12.776.467.400, D23.529.400
+angiotensin ii type 1 receptor blockers: D27.505.519.162.500
+fathead: 
+seminal vesicles: A05.360.444.713
+freshwater: 
+muscle, smooth, vascular: A02.633.570.491, A07.231.491, A10.690.467.491
+glycogen: D05.750.078.562.388, D09.698.365.388
+mice, inbred dba: B01.050.050.157.520.500, B01.050.050.199.520.520.500, B01.050.150.900.649.865.635.505.500.400.500
+diabetes mellitus, experimental: C18.452.394.750.074, C19.246.240, E05.598.500.374
+affects: 
+heavy: 
+ganglia, spinal: A08.340.390.340, A08.800.350.340, A08.800.800.720.725.350
+guinea: Z01.058.290.190.375
+rainbow: 
+falconiformes: B01.050.150.900.248.250, B01.050.150.900.248.815.350
+interaction: 
+mammals: B01.050.150.900.649
+gonadotropin-releasing hormone: D06.472.699.327.740.320, D12.644.400.400.740.320, D12.644.456.460, D12.644.548.365.740.320, D12.776.641.650.405.740.320
+endpoint determination: E05.315
+vasoconstriction: G09.330.190.400.920
+piperonyl butoxide: D03.383.246.118.600, D03.438.115.600
+mammary neoplasms, animal: C04.588.531, C22.520
+dolphins: B01.050.150.900.649.189.267
+weight gain: C23.888.144.243.926, G07.700.320.249.314.120.200.926
+cadmium chloride: D01.142.175, D01.210.450.150.125
+leydig cells: A05.360.444.849.513, A06.407.312.782.513, A11.382.906, A11.436.513
+auditory threshold: F02.463.593.071.173, F02.463.593.710.190
+genes, reporter: G05.360.340.024.340.435
+gene expression regulation, enzymologic: G05.355.315.320
+ethylene dichlorides: D02.455.326.146.379.350, D02.455.526.439.458
+blood glucose: D09.546.359.448.500
+fertilization: G08.686.785.760.277
+free radical scavengers: D27.505.519.217.500
+chorionic gonadotropin: D06.472.699.322.326, D06.472.699.649.367, D12.644.548.726.367, D12.776.780.400
+thrombosis: C14.907.355.830
+onic: 
+porphyria: 
+ultrafine: 
+sexually: 
+nerve fibers: A08.663.542
+aorta: A07.231.114.056
+ng-nitroarginine methyl ester: D12.125.068.050.525, D12.125.095.104.525
+minnow: 
+falco: 
+animals, wild: B01.050.050.300
+corpus luteum: A05.360.319.114.630.278, A06.407.312.497.278
+antioxidant: 
+glycol: 
+gastropoda: B01.050.500.644.400
+placenta: A16.710
+cholinesterases: D08.811.277.352.100.170
+icity: 
+ovariectomy: E04.270.282.685, E04.950.165.685, E04.950.300.680
+fullerenes: D01.268.150.250, J01.637.512.600.612.350
+bile: A12.200.087
+energy metabolism: G03.495.335
+activated: 
+ferential: 
+activities: 
+toxicogenetics: H01.158.273.343.750.850, H01.158.703.052.850, H01.158.703.795.850, H02.628.479.850, H02.628.795.850
+dichloroethane: 
+drug tolerance: G07.690.812.260, G07.700.680.260
+american: 
+hematocrit: E01.370.225.625.400, E05.200.625.400, G09.188.370.374
+antibody formation: G12.425.071
+disease susceptibility: C23.550.291.687, G07.100.250
+gestation: 
+proteinuria: C12.777.934.734, C13.351.968.934.734, C23.888.942.750
+atherosclerosis: C14.907.137.126.307
+mitochondrial: 
+frog: 
+vitellogenesis: G04.299.151.650.249.880, G08.686.785.760.310.500.880
+ursidae: B01.050.150.900.649.147.890
+ducks: B01.050.150.900.248.050.200, B01.050.150.900.248.617.345
+rheum: B01.650.940.800.575.100.825.700, J02.500.850.700
+plant roots: A18.400
+mancozeb: 
+sex determination processes: G05.355.865, G07.700.320.500.325.377.812, G07.700.320.750.437, G08.686.785.880.437
+dna, complementary: D13.444.308.497.220, D13.444.600.223.500, D27.720.470.530.600.223.260
+bioassay: 
+receptors, muscarinic: D12.776.543.750.100.475, D12.776.543.750.720.360.500
+mice, transgenic: B01.050.050.136.500, B01.050.150.900.649.865.635.505.500.800
+insulin resistance: C18.452.394.968.500, G07.690.320.617
+organotin compounds: D02.691.850
+thyroxine: D06.472.931.812, D12.125.072.050.767
+genitalia: A05.360
+cell size: G04.325
+bromobenzenes: D02.455.426.559.389.220, D02.455.526.368.150
+life: K01.752.400
+xenopus: B01.050.150.900.090.180.610.500
+subcellular fractions: A11.284.835
+endoplasmic reticulum: A11.284.430.214.190.875.248
+embryo, nonmammalian: A13.350, A16.331
+endothelin-1: D12.644.276.400.225, D12.776.467.400.225, D23.529.400.225
+sympathetic nervous system: A08.800.050.800
+glucose intolerance: C18.452.394.952.500
+dietary supplements: J02.500.456
+status: 
+acute kidney injury: C12.777.419.780.050, C13.351.968.419.780.050
+hyperkinesis: C10.597.350.350, C23.888.592.350.350
+hypertrophy: C23.300.775
+fatty: 
+killer cells, natural: A11.118.637.555.567.537, A15.145.229.637.555.567.537, A15.382.490.555.567.537
+f: 
+uroporphyrinogen decarboxylase: D08.811.520.224.125.900
+transforming growth factor beta1: D12.644.276.374.687.100, D12.644.276.954.800.720.100, D12.644.276.963.720.100, D12.776.467.374.687.100, D12.776.467.942.800.720.100, D12.776.467.960.720.100, D23.529.374.687.100, D23.529.942.800.720.100, D23.529.960.720.100
+oncorhynchus: B01.050.150.900.493.817.750.705.580, B01.050.150.900.493.817.750.825.580
+tri: 
+oreochromis: 
+mice]: 
+continuous: 
+genes, ras: G05.360.340.024.340.375.500.791.550
+invertebrates: B01.050.500
+carassius: 
+auratus: 
+mixtures: 
+embryo: 
+bicyclo compounds: D02.455.426.100.080, D04.075.080
+olfactory mucosa: A04.531.520.573, A04.760.600.640, A09.531.623, A10.615.550.760.600.640
+cycle: 
+spermatogonia: A05.360.490.890.900, A11.497.760.800
+mesocricetus: B01.050.150.900.649.865.635.150.500
+ethinyl estradiol: D04.808.668.651.568.291, D06.472.334.851.437.968.500
+renin-angiotensin system: G03.495.805, G09.330.190.400.750
+oil: 
+diethylnitrosamine: D02.654.442.200
+danio: 
+rerio: 
+receptors, progesterone: D12.776.260.698.750.765, D12.776.826.750.765, D12.776.930.669.750.765
+proteome: D12.776.817
+alter: 
+transcriptome: G02.111.087.847.750, G02.149.115.847.750, G05.355.310.700.750, G05.360.920
+succinate dehydrogenase: D05.500.562.750.249.500, D08.811.600.250.500.750.500, D08.811.600.250.875.249.500, D08.811.682.660.385.500, D08.811.682.660.750, D08.811.682.830.249.500, D12.776.157.427.374.375.909.500, D12.776.331.199.750.500, D12.776.543.277.500.750.500, D12.776.543.277.875.249.500, D12.776.556.579.374.375.141.500
+soot: D20.633.937.339
+lysosomes: A11.284.430.214.190.875.190.550
+electron spin resonance spectroscopy: E05.196.867.519.274
+heterozygote: G05.380.383
+fibers: 
+fenvalerate: 
+recovery of function: G16.757
+alcohol: 
+mature: 
+recovery: 
+embryos: 
+methylnitrosourea: D02.654.692.480, D02.948.594.490
+acetate: 
+rana catesbeiana: B01.050.150.900.090.180.708.180
+methyl parathion: D02.705.400.625.600.500, D02.705.539.345.600.500, D02.886.300.692.600.500
+disruptor: 
+fundulidae: B01.050.150.900.493.850.280.214
+nesting behavior: F01.145.113.252.478
+somatic: 
+chromosome mapping: E05.393.183
+blood platelets: A11.118.188, A15.145.229.188
+glucuronosyltransferase: D08.811.913.400.450.480
+offspring: 
+ethyl: 
+oils: D10.627
+hyperplasia: C23.550.444
+spermatids: A05.360.490.890.860, A11.497.760.600
+captan: D03.438.513.124
+birth weight: C23.888.144.186, E01.370.600.115.100.160.120.186, E05.041.124.160.750.149, G07.100.100.160.120.186, G07.700.320.249.314.120.186
+hemolysis: C23.550.403, G12.425.143.545
+alpha: 
+water pollution, chemical: N06.850.460.790.410
+kidney glomerulus: A05.810.453.324.359, A05.810.453.736.520
+alters: 
+mykiss: 
+life cycle stages: B05.500, G07.700.320.500.550.500
+leukemia, experimental: C04.557.337.372, C04.619.531, E05.598.500.496.500
+triiodothyronine: D06.472.931.740.385, D12.125.072.050.767.741.894
+repeated: 
+genitalia, male: A05.360.444
+estrone: D04.808.365.415.414, D04.808.578.502.497, D06.472.040.502.497, D06.472.334.851.437.996
+ppar gamma: D12.776.260.698.239.588, D12.776.826.239.588, D12.776.930.669.239.588
+luence: 
+trout: B01.050.150.900.493.817.750.825
+transfer: 
+laboratory: 
+cyprinidae: B01.050.150.900.493.200.244
+salmo salar: B01.050.150.900.493.817.750.705.790
+chicken: 
+salmo: 
+glutathione disulfide: D12.644.456.448.500
+sediment: 
+transport: 
+systemic: 
+administration, topical: E02.319.267.120
+loaded: 
+hearing loss, noise-induced: C09.218.458.341.887.460, C10.597.751.418.341.887.460, C23.888.592.763.393.341.887.460
+tests: 
+phytotherapy: E02.190.755
+learning disorders: C10.597.606.150.550, C23.888.592.604.150.550, F03.550.350.500, F03.550.450
+hypothalamo-hypophyseal system: A06.688.357, A08.186.211.730.317.357.352.435, A08.713.357
+stress, psychological: F01.145.126.990, F02.830.900
+anesthesia: E03.155
+nitroprusside: D01.248.497.158.291.350.550, D01.490.100.300.550, D01.625.400.100.325.550
+developmental: 
+nerve growth factors: D12.644.276.860, D12.776.467.860, D12.776.641.600, D23.529.850
+herring: 
+probenecid: D02.065.884.625, D02.886.590.700.625
+immunity, cellular: G12.450.050.400
+microsomal: 
+relevant: 
+sheep: B01.050.150.900.649.077.380.791
+oecd: 
+morphology: 
+rodent: 
+alaska: Z01.107.567.875.580.100
+neurogenesis: G04.299.151.912, G07.700.320.500.325.377.687, G08.686.785.760.170.450.500
+hatchlings: 
+cichlids: B01.050.150.900.493.602.200
+carboxylic acids: D02.241
+cloning, molecular: E05.393.220
+3,4-dihydroxyphenylacetic acid: D02.241.223.601.220
+targets: 
+steroid: 
+melanogaster: 
+turtles: B01.050.150.900.833.848
+heptachlor: D02.455.526.439.516
+spinal cord: A08.186.854
+stress: 
+glutamic acid: D12.125.067.625.349, D12.125.119.409.349, D12.125.427.300
+adenosine triphosphatases: D08.811.277.040.025
+motor: 
+glomerular filtration rate: E01.370.390.400.300, G08.852.357
+rate: 
+failure: 
+wistar: 
+genes, lethal: G05.360.340.024.340.350
+congenital abnormalities: C16.131
+blood chemical analysis: E01.370.225.124.100, E05.200.124.100
+salmon: B01.050.150.900.493.817.750.705
+diphenyl: 
+electrophoresis: E05.196.401, E05.301.300
+sciatic nerve: A08.800.800.720.450.760
+lungs: 
+blotting, northern: E05.196.401.095, E05.301.300.074, E05.393.525.100, E05.601.140
+glial fibrillary acidic protein: D05.750.078.593.400, D12.776.220.475.400
+ppar alpha: D12.776.260.698.239.500, D12.776.826.239.500, D12.776.930.669.239.500
+teratogenic: 
+circadian rhythm: G07.180.562.190
+evoked potentials, auditory, brain stem: G07.265.500.370.300, G11.561.270.370.300
+parathion: D02.705.400.625.600, D02.705.539.345.600, D02.886.300.692.600
+drosophila: B01.050.500.131.617.289.310.250
+natal: 
+acoustic stimulation: E02.037, E02.190.888.030, E05.723.136
+phosphorus: D01.268.666
+chick: 
+biocompatible materials: D25.130, D27.720.102.130, J01.637.051.130
+synaptosomes: A11.284.835.859
+contaminants: 
+vitamin e: D03.438.150.909, D03.830.219.909
+sucrose: D09.698.629.305.770
+african: 
+paternal exposure: N06.850.460.350.700
+methoxychlor: D02.455.526.439.610
+ovarian follicle: A05.360.319.114.630.535, A06.407.312.497.535
+motor neurons: A08.663.655.500, A11.671.655.500
+parameters: 
+carbon tetrachloride: D02.455.526.439.150
+maze learning: F02.463.425.507
+rabbit: 
+survival analysis: E05.318.740.998, N05.715.360.750.795, N06.850.520.830.998
+seminiferous tubules: A05.360.444.849.700
+renin: D08.811.277.656.074.500.780, D08.811.277.656.300.048.780, D08.811.277.656.837.750
+ethylhexylphthalate: 
+molecular sequence data: L01.453.245.667
+thiobarbituric acid reactive substances: D02.047.700.700, D27.720.470.410.750
+hydrocortisone: D04.808.745.745.654.600, D06.472.040.585.353.476, D06.472.040.585.478.392
+carbon isotopes: D01.496.123
+embryonic: 
+sexual maturation: G07.700.320.750.750, G08.686.785.880.750
+proliferating cell nuclear antigen: D12.776.660.740, D23.050.290.750, D23.101.840.600
+pyridines: D03.383.725
+receptors, nicotinic: D12.776.157.530.400.400.100.500, D12.776.543.550.425.500.100.500, D12.776.543.585.400.500.100.500, D12.776.543.750.051.687, D12.776.543.750.720.360.550
+transforming growth factor beta: D12.644.276.374.687, D12.644.276.954.800.720, D12.644.276.963.720, D12.776.467.374.687, D12.776.467.942.800.720, D12.776.467.960.720, D23.529.374.687, D23.529.942.800.720, D23.529.960.720
+cavity: 
+gallus: 
+dichloroacetic acid: D02.241.081.018.214.500, D02.455.526.439.196.500
+root: 
+vacuoles: A11.284.430.214.190.875.190.920
+arteries: A07.231.114
+bone marrow cells: A11.148, A15.378.316
+tilapia: B01.050.150.900.493.602.200.800
+glutamate-ammonia ligase: D08.811.464.259.200.600
+stromal cells: A11.329.830
+electron transport complex iv: D05.500.562.374, D08.811.600.250.687, D08.811.682.285, D12.776.157.530.450.250.875.304, D12.776.543.277.687, D12.776.543.585.450.250.875.484
+onset: 
+depression: F01.145.126.350
+ethylene: 
+swiss: 
+patterns: 
+eggs: J02.500.470
+german: 
+melatonin: D03.438.473.914.481, D06.472.506
+regions: 
+canadian: 
+uterus: A05.360.319.679
+tributyltin: 
+hyperglycemia: C18.452.394.952
+species: 
+germ: 
+amino acid sequence: G02.111.570.060, L01.453.245.667.060
+androgen: 
+aromatic: 
+spermatocytes: A05.360.490.890.880, A11.497.760.700
+calcium-transporting atpases: D08.811.277.040.025.125, D12.776.157.530.450.250.500, D12.776.543.585.450.250.500
+seizures: C10.228.140.490.631, C10.597.742, C23.888.592.742
+dna replication: G02.111.087.222, G02.149.115.222, G05.355.200
+neurotransmitter agents: D27.505.519.625, D27.505.696.577
+anxiety: F01.470.132
+regional blood flow: G09.330.190.163.780
+bromides: D01.139.300.050, D01.248.497.158.125
+alanine transaminase: D08.811.913.477.700.100
+perchloroethylene: 
+renal circulation: G08.852.796.700, G09.330.190.163.812
+gestational: 
+postural balance: G11.427.690, G11.561.600.810.541.595
+glutathione reductase: D08.811.682.667.092
+noise: G01.750.770.776.567, G16.500.275.600, N06.230.400, N06.850.460.610
+superoxides: D01.248.497.158.685.750.850, D01.339.431.374.850, D01.339.431.750, D01.650.550.750.800
+acid phosphatase: D08.811.277.352.650.025
+benzo(a)pyrene: D02.455.426.559.847.799.306.300, D04.615.799.306.300
+nicotine: D03.132.760.570, D03.383.725.518
+intubation, intratracheal: E02.041.500, E02.585.578, E05.497.578
+animal feed: J02.500.300.100
+smell: F02.830.816.643, G11.561.600.810.643
+embryo loss: C13.703.039.711, C23.550.260.440
+methyl ethers: D02.355.601
+brain edema: C10.228.140.187
+identification: 
+egg proteins: D12.776.290
+diets: 
+proto-oncogene proteins: D12.776.624.664.700
+peptides: D12.644
+toxicities: 
+cyclophosphamide: D02.455.526.728.650.730.243, D02.705.672.500.243
+but: 
+inhibins: D06.472.334.968, D06.472.699.337, D12.644.548.387, D12.776.395.439
+sperm head: A05.360.490.890.820, A11.497.760.400
+adrenal: 
+fas ligand protein: D12.644.276.374.750.249, D12.644.276.972.249, D12.776.395.550.312, D12.776.467.374.750.249, D12.776.467.972.249, D12.776.543.550.312, D23.050.301.264.035.284, D23.101.100.110.283, D23.529.374.750.249, D23.529.972.249
+green fluorescent proteins: D12.776.532.265
+p-aminohippuric acid: D02.065.277.431.192.100, D02.241.223.100.050.500.650, D02.241.223.100.100.100.100, D02.241.755.360.192.100, D02.455.426.559.389.127.020.937.650, D02.455.426.559.389.127.085.067.100
+immunoglobulin m: D12.776.124.486.485.114.619.574, D12.776.124.790.651.114.619.574, D12.776.377.715.548.114.619.574
+populations: 
+aquatic: 
+3-hydroxysteroid dehydrogenases: D08.811.682.047.436.350
+axonal transport: G03.495.166.355.040, G04.299.418.040, G11.561.600.085
+cd: 
+gills: A13.421
+angiotensin-converting enzyme inhibitors: D27.505.519.389.745.085
+bronchial hyperreactivity: C08.127.210
+brain stem: A08.186.211.132
+polybrominated: 
+peripheral nerves: A08.800.800
+nitric oxide synthase: D08.811.682.664.500.772
+iodide peroxidase: D08.811.682.732.525
+proliferator: 
+metabolic detoxication, drug: G03.495.244.820, G07.690.812.097.600, G07.700.680.097.600
+2,4-dichlorophenoxyacetic acid: D02.241.081.018.386.682.224, D02.241.511.316.682.149
+microscopy: E01.370.350.515, E05.595, H01.671.617.562
+immunoenzyme techniques: E05.478.566.350, E05.478.583.400, E05.601.495.350
+fish proteins: D12.776.325
+indoles: D03.438.473
+nerve: 
+quartz: D01.578.750.600, D01.650.550.825.600, D01.837.725.600
+livers: 
+choline o-acetyltransferase: D08.811.913.050.134.180
+atlantic: 
+phosphoproteins: D12.776.744
+models, animal: E05.598
+kidney tubules: A05.810.453.736.560
+luteinizing hormone: D06.472.699.322.576.463, D06.472.699.631.525.343.463, D12.644.548.691.525.343.463
+injections, intravenous: E02.319.267.082.750, E02.319.267.530.540
+sperm count: E01.370.225.500.195.870, E01.370.225.992.624, E05.200.500.195.870, E05.200.992.624, E05.242.195.870, G04.170.870
+ions: D01.248.497
+eating: G07.610.593.260, G07.700.620.260, G10.261.326.240
+gene expression profiling: E05.393.332
+anti-infective agents, local: D27.505.954.122.187
+feces: A12.459
+phospholipids: D10.570.755, D10.695
+butyltin: 
+endocrine glands: A06.407
+receptors, cytoplasmic and nuclear: D12.776.260.698, D12.776.826, D12.776.930.669
+acute: 
+deficiency: 
+phenyl ethers: D02.355.726, D02.455.426.559.389.657.654
+esters: D02.241.400
+haplorhini: B01.050.150.900.649.801.400
+carcinoma, hepatocellular: C04.557.470.200.025.255, C04.588.274.623.160, C06.301.623.160, C06.552.697.160
+fetal death: C13.703.243, C23.550.260.460
+glycoproteins: D09.400.430, D12.776.395
+ddt: D02.455.526.439.255
+testicular: 
+chickens: B01.050.150.900.248.350.150, B01.050.150.900.248.617.192
+sex differentiation: G07.700.320.500.325.377.843, G07.700.320.750.500, G08.686.785.880.500
+meiosis: G04.299.134.220.220.687, G05.355.105.220.687
+electrophoresis, gel, two-dimensional: E05.196.401.250, E05.196.401.402.250, E05.301.300.230, E05.301.300.319.450
+day: 
+blood proteins: D12.776.124
+phosphate: 
+e: 
+steroid hydroxylases: D08.244.453.915, D08.811.682.690.708.170.915, D08.811.682.690.708.783, D12.776.422.220.453.915
+acyl-coa oxidase: D08.811.682.660.150.200, D12.776.331.149
+uterotrophic: 
+models: 
+sd: 
+blastocyst: A16.254.500
+drug-induced liver injury: C06.552.195, C25.100.562, C25.723.260
+halogenated: 
+dietary fats: D10.212.302, J02.500.375
+cytosol: A11.284.430.214.200, A11.284.430.429.200, A11.284.835.450.200
+phenotype: G05.695
+permethrin: D02.455.849.575.812.636
+sulfonamides: D02.065.884, D02.886.590.700
+triglycerides: D10.351.801
+carps: B01.050.150.900.493.200.244.248
+fresh water: G16.500.275.280, N06.230.232
+estrogenic: 
+gestational age: G07.700.320.500.325.235.968, G08.686.320
+organs: 
+zebrafish: B01.050.150.900.493.200.244.828
+injuries: 
+in situ hybridization: E01.370.225.500.620.670.325, E01.370.225.750.600.670.325, E05.200.500.620.670.325, E05.200.750.600.670.325, E05.393.661.475
+ecosystem: G16.500.275.157, N06.230.124
+food chain: G16.500.275.157.250, N06.230.124.250
+immune system: A15.382
+inhalation exposure: N06.850.460.350.112
+flutamide: D02.065.199.420
+brominated: 
+hepatic: 
+thiocarbamates: D02.241.081.251.869, D02.886.706
+hydrocarbon: 
+thyroid gland: A06.407.900
+comet: 
+drinking: G07.610.593.260.249, G07.700.620.260.249, G10.261.326.240.249
+lipid peroxidation: G02.111.087.520, G02.149.115.520, G03.495.335.531.587
+drosophila melanogaster: B01.050.500.131.617.289.310.250.500
+thyroid: 

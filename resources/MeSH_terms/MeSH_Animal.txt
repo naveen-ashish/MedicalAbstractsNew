@@ -1,0 +1,505 @@
+Acanthocephala
+Acari
+Acaridae
+Adenophorea
+Aedes
+Agapornis
+Agelas
+Agkistrodon
+Alligators and Crocodiles
+Amazona
+Amblycera
+Ambystoma
+Ambystoma mexicanum
+Ambystomatidae
+Amphibians
+Amphipoda
+Ancylostoma
+Ancylostomatoidea
+Angiostrongylus
+Angiostrongylus cantonensis
+Anguilla
+Animal Population Groups
+Animals
+Animals, Congenic
+Animals, Domestic
+Animals, Genetically Modified
+Animals, Inbred Strains
+Animals, Laboratory
+Animals, Newborn
+Animals, Outbred Strains
+Animals, Poisonous
+Animals, Suckling
+Animals, Wild
+Animals, Zoo
+Anisakis
+Annelida
+Anodonta
+Anomura
+Anopheles
+Anopheles gambiae
+Anoplura
+Anostraca
+Anseriformes
+Anthocidaris
+Anthozoa
+Ants
+Anura
+Aphids
+Aplysia
+Arachnida
+Arbacia
+Arcidae
+Argas
+Argasidae
+Arguloida
+Artemia
+Arthropods
+Ascaridia
+Ascaridida
+Ascaridoidea
+Ascaris
+Ascaris lumbricoides
+Ascaris suum
+Astacoidea
+Asterias
+Asterina
+Axinella
+Bass
+Batrachoidiformes
+Bedbugs
+Bees
+Beetles
+Beloniformes
+Biomphalaria
+Birds
+Bivalvia
+Black Widow Spider
+Blattellidae
+Boidae
+Bombyx
+Bothrops
+Brachyura
+Brugia
+Brugia malayi
+Brugia pahangi
+Bryozoa
+Bufo arenarum
+Bufo bufo
+Bufo marinus
+Bufonidae
+Bulinus
+Bungarus
+Butterflies
+Caenorhabditis
+Caenorhabditis elegans
+Callyspongia
+Camallanina
+Canaries
+Capillaria
+Cardiidae
+Carps
+Catfishes
+Cephalopoda
+Ceratitis capitata
+Ceratopogonidae
+Cestoda
+Characidae
+Characiformes
+Charadriiformes
+Chickens
+Chimera
+Chironomidae
+Chordata
+Chordata, Nonvertebrate
+Cichlids
+Cimicidae
+Ciona intestinalis
+Cladocera
+Clione
+Clonorchis sinensis
+Cnidaria
+Cobra
+Cockatoos
+Cockroaches
+Colinus
+Colubridae
+Columbidae
+Columbiformes
+Conus Snail
+Copepoda
+Corbicula
+Coturnix
+Crambe Sponge
+Crangonidae
+Crassostrea
+Crotalus
+Crows
+Crustacea
+Ctenocephalides
+Ctenophora
+Cubozoa
+Cucumaria
+Culex
+Culicidae
+Cyprinidae
+Cypriniformes
+Cyprinodontiformes
+Cysticercus
+Daphnia
+Decapoda (Crustacea)
+Decapodiformes
+Dermacentor
+Dermatophagoides farinae
+Dermatophagoides pteronyssinus
+Dicrocoeliidae
+Dicrocoelium
+Dictyocaulus
+Dinosaurs
+Dioctophymatoidea
+Dipetalonema
+Diphyllobothrium
+Diptera
+Dirofilaria
+Dirofilaria immitis
+Dirofilaria repens
+Dogfish
+Dracunculoidea
+Dracunculus Nematode
+Dreissena
+Dromaiidae
+Drosophila
+Drosophila melanogaster
+Drosophilidae
+Ducks
+Dysidea
+Eagles
+Echinococcus
+Echinococcus granulosus
+Echinococcus multilocularis
+Echinodermata
+Echinostoma
+Echinostomatidae
+Eels
+Elapidae
+Elasmobranchii
+Electric Fish
+Electrophorus
+Endangered Species
+Enoplida
+Enterobius
+Esocidae
+Esociformes
+Euphausiacea
+Falconiformes
+Fasciola
+Fasciola hepatica
+Fasciolidae
+Filarioidea
+Finches
+Fireflies
+Fishes
+Fishes, Poisonous
+Flatfishes
+Flounder
+Fundulidae
+Gadiformes
+Gadus morhua
+Galliformes
+Gastropoda
+Geese
+Geodia
+Glossinidae
+Gnathostoma
+Goldfish
+Grasshoppers
+Gryllidae
+Gymnotiformes
+Haemonchus
+Hagfishes
+Haliclona
+Hawks
+Heligmosomatoidea
+Helix (Snails)
+Helminths
+Hemicentrotus
+Hemiptera
+Hermissenda
+Heterophyidae
+Heteroptera
+Hirudo medicinalis
+Holothuria
+Horseshoe Crabs
+Houseflies
+Hydra
+Hydrophidae
+Hydrozoa
+Hymenolepis
+Hymenolepis diminuta
+Hymenolepis nana
+Hymenoptera
+Hyperotreti
+Ictaluridae
+Iguanas
+Insects
+Introduced Species
+Invertebrates
+Ischnocera
+Isopoda
+Isoptera
+Ixodes
+Ixodidae
+Killifishes
+Lampreys
+Leeches
+Lepidoptera
+Livestock
+Lizards
+Loa
+Locusta migratoria
+Loligo
+Lymnaea
+Lytechinus
+Manduca
+Mansonella
+Mantodea
+Melopsittacus
+Mercenaria
+Mermithoidea
+Mesocestoides
+Metastrongyloidea
+Microfilaria
+Mites
+Molineoidae
+Mollusca
+Moniliformis
+Moths
+Muscidae
+Mya
+Mytilidae
+Mytilus
+Mytilus edulis
+Myxobolus
+Myxozoa
+Nautilus
+Necator
+Necator americanus
+Necturus
+Necturus maculosus
+Nematoda
+Nematodirus
+Nematospiroides
+Nematospiroides dubius
+Nephropidae
+Nippostrongylus
+Notophthalmus
+Notophthalmus viridescens
+Ochlerotatus
+Octopodiformes
+Oesophagostomum
+Oligochaeta
+Onchocerca
+Onchocerca volvulus
+Oncorhynchus
+Oncorhynchus keta
+Oncorhynchus kisutch
+Oncorhynchus mykiss
+Opisthorchidae
+Opisthorchis
+Ornithodoros
+Orthoptera
+Oryzias
+Osmeriformes
+Ostertagia
+Ostrea
+Ostreidae
+Oxyurida
+Oxyuroidea
+Palaemonidae
+Palaeognathae
+Palinuridae
+Pandalidae
+Panstrongylus
+Paracentrotus
+Paragonimus
+Paragonimus westermani
+Parakeets
+Paramphistomatidae
+Parasites
+Parrots
+Passeriformes
+Pecten
+Pectinidae
+Pediculus
+Penaeidae
+Pentastomida
+Perches
+Perciformes
+Periplaneta
+Perna
+Petromyzon
+Petrosia
+Pets
+Phlebotomus
+Phthiraptera
+Phthirus
+Pinctada
+Pipidae
+Placozoa
+Plakortis
+Planarians
+Planococcus Insect
+Platyhelminths
+Pleurobranchaea
+Pleurodeles
+Poecilia
+Polychaeta
+Polyplacophora
+Porifera
+Poultry
+Proteidae
+Psittaciformes
+Psittacula
+Psoroptidae
+Psychodidae
+Pyroglyphidae
+Quail
+Rana catesbeiana
+Rana esculenta
+Rana pipiens
+Rana ridibunda
+Rana temporaria
+Ranidae
+Raptors
+Reduviidae
+Renilla
+Reptiles
+Rhabdiasoidea
+Rhabditida
+Rhabditoidea
+Rheiformes
+Rhipicephalus
+Rhipicephalus sanguineus
+Rhodnius
+Rotifera
+Russell's Viper
+Salamandra
+Salamandridae
+Salmo salar
+Salmon
+Salmonidae
+Salmoniformes
+Sarcophagidae
+Sarcoptes scabiei
+Sarcoptidae
+Scapharca
+Schistosoma
+Schistosoma haematobium
+Schistosoma japonicum
+Schistosoma mansoni
+Schistosomatidae
+Scorpions
+Scyphozoa
+Sea Anemones
+Sea Bream
+Sea Cucumbers
+Sea Nettle, East Coast
+Sea Urchins
+Secernentea
+Sepia
+Setaria Nematode
+Sharks
+Simuliidae
+Siphonaptera
+Skates (Fish)
+Smegmamorpha
+Snails
+Snakes
+Songbirds
+Sparganum
+Sparrows
+Spheniscidae
+Spiders
+Spirometra
+Spirurida
+Spirurina
+Spiruroidea
+Spisula
+Spodoptera
+Squalus
+Squalus acanthias
+Starfish
+Starlings
+Stichopus
+Strigiformes
+Strongylida
+Strongylocentrotus
+Strongylocentrotus purpuratus
+Strongyloidea
+Strongyloides
+Strongyloides ratti
+Strongyloides stercoralis
+Strongylus
+Struthioniformes
+Suberites
+Swallows
+Taenia
+Taenia saginata
+Taenia solium
+Takifugu
+Tardigrada
+Tenebrio
+Tephritidae
+Tetranychidae
+Tetraodontiformes
+Thelazioidea
+Theonella
+Thoracica
+Thysanoptera
+Ticks
+Tilapia
+Torpedo
+Toxascaris
+Toxocara
+Toxocara canis
+Trematoda
+Triatoma
+Triatominae
+Tribolium
+Trichinella
+Trichinella spiralis
+Trichostrongyloidea
+Trichostrongylus
+Trichuris
+Trichuroidea
+Trimeresurus
+Tritonia Sea Slug
+Triturus
+Troglotrematidae
+Trombiculidae
+Trout
+Tsetse Flies
+Tuna
+Tunga
+Turbellaria
+Turkeys
+Turtles
+Tylenchida
+Tylenchoidea
+Umbridae
+Unio
+Unionidae
+Urochordata
+Urodela
+Varroidae
+Vertebrates
+Viperidae
+Wasps
+Weevils
+Wuchereria
+Wuchereria bancrofti
+Xenopsylla
+Xenopus
+Xenopus laevis
+Xestospongia
+Zebrafish

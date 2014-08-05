@@ -1,0 +1,63 @@
+[1563-66-2]_[Carbofuran] 	bof	carbofuran
+[25013-16-5]_[butylated hydroxyanisole] 	anisol	bha	bht	spf	hydroxytoluen	hydroxyanisol
+[UnknownCAS]_[aloe emodin] 	emodin
+[335-67-1]_[perfluorooctanoic acid] 	apfo
+[1763-23-1]_[perfluorooctane sulfonic acid] 	acox
+[unknowncas]_[emf not rf] 	milligauss	kv	alzheim
+[unknowncas]_[aloe emodin] 	rhein	anthron	danthron
+[131-57-7]_[oxybenzone] 	photopatch	photocontact	methoxycinnam	dibenzoylmethan	sunscreen	benzoyl	photoallergi	oxybenzon	benzophenon
+[60-51-5]_[dimethoate] 	dimetho
+[87-68-3]_[hexachlorobutadiene] 	hexachlorobutadien	hcbd
+[79-01-6]_[trichloroethylene] 	trichloroethanol	tce	tca	chloroacet	chloroethanol
+[UnknownCAS]_[Pyrethrins] 	cyhalothrin	permethrin
+"[8016-94-2]_[Fats and Glyceridic oils, veget	sunflow
+[100-42-5]_[styrene] 	cochlea	styren	fiberglass	ototox	khz
+[unknowncas]_[nano_titanium dioxide] 	rutil	tio2	anata
+[822-36-6]_[4-methylimidazole] 	methylimidazol
+[116-14-3]_[tetrafluoroethylene] 	tetrafluoroethylen
+[111-76-2]_[n-butoxyethanol] 	thrombosi	baa	butoxyethanol	hemolysi
+[unknowncas]_[nano_silver] 	agnp
+[50-00-0]_[formaldehyde] 	hcho	formaldehyd
+[7440-48-4]_[cobalt] 	balt	cocl2	molybdenum	hypoxia	osteolysi	prosthesi	tungsten	carbid	prosth	cocl	cobalt	diamond	wear	nicl	loosen
+[12108-13-3]_[2-methylcyclopentadienyl mangan	mmt
+[unknowncas]_[sugar] 	fructo	hypertriglyceridemia	hyperinsulinemia	fru	sucro
+[32534-81-9]_[pentabromodiphenyl ether] 	pentabromodiphenyl
+[unknowncas]_[mold] 	mycotoxin	trichothecen	fusarium	mold	moniliform	satratoxin
+[unknowncas]_[nano_silicon dioxide] 	silica
+[688-73-3]_[tributyltin] 	organotin	tbtc	tbto	tbtcl	foul	dibutyltin	tbt	tpht	tributyltin	imposex	dbt	trimethyltin	phenyltin
+[133-06-2]_[captan] 	captan
+[79-06-1]_[acrylamide] 	neuropathi	neurofila
+[unknowncas]_[pyrethrins] 	deltamethrin	esfenval	cypermethrin
+[unknownCAS]_[dietary salt] 	aldo	angioten	aldosteron	pylori	stroke	helicobact	salt	shrsp	nacl	diuresi	mineralocorticoid	renin	arginin	sbp	dahl	angiotensin	nitroprussid	hyperten
+fullerenes 	fulleren	c60
+[115-96-8]_[tris(chloroethyl)phosphate] 	trcp
+[7440-43-9]_[cadmium] 	cdcl2	fractur
+[51-03-6]_[piperonyl butoxide] 	butoxid	piperonyl
+[127-18-4]_[tetrachloroethylene] 	perchlor	cleaner	tetrachloroethylen	perchloroethylen
+"[126-72-7]_[tris(2,3-dibromopropyl)phosphate	dibromopropyl	bromopropyl
+[117-81-7]_[diethylhexyl phthalate] 	dehp
+[14807-96-6]_[talc] 	talc
+"[101-68-8]_[4,4'-diphenylmethane diisocyanat	mdi	diphenylmethan
+[80-05-7]_[bisphenol a] 	ps2
+[1912-24-9]_[atrazine] 	chlorotriazin	triazin	atrazin
+[118-74-1]_[hexachlorobenzene] 	porphyrin	porphyria	uroporphyrinogen	cutanea	porphyrinogen	uroporphyrin	hexachlorobenzen	hcb
+[UnknownCAS]_[Carbon nanotubes] 	tube	nanotub	mwcnt	swcnt	cnt	wc
+[1934-21-0]_[tartrazine] 	tartrazin	aspirin
+[1071-83-6]_[glyphosate] 	glypho	dup	roundup
+[7439-91-0]_[Lanthanum] 	lanthanum
+[7439-97-6]_[mercury] 	hgcl	mercuri	amalgam	amazon	mercur	hgcl2	hgc	hg0	hg2	mehg
+[22839-47-0]_[aspartame] 	phenylalanin	aspartam	sweeten
+[2921-88-2]_[chlorpyrifos] 	paraoxon	oxon	pn1	gd17	tcp	organophosphoru	cpo	cpf	chlorpyrifo
+[111-77-3]_[diethylene glycol monomethyl ethe	diethylen
+[3380-34-5]_[triclosan] 	soap	triclosan
+[7440-43-9]_[Cadmium] 	cdcl	osteoporosi	cdc	cadmium
+[74-83-9]_[methyl bromide] 	meb	mebr
+[79-06-1]_[Acrylamide] 	rotarod	acryl	glycidamid
+[80-05-7]_[bisphenol A] 	bpa
+[12427-38-2]_[maneb] 	maneb
+[106-89-8]_[epichlorohydrin] 	epichlorohydrin	chlorohydrin
+[104-76-7]_[2-ethylhexanol] 	ethylhexanol
+[1634-04-4]_[methyl tert-butyl ether] 	mtbe	etb	monoxid
+[54-64-8]_[thimerosal] 	vaccin	autism	thimero
+[84-74-2]_[dibutyl phthalate] 	mbup
+[18540-29-9]_[chromium hexavalent ion] 	k2cr2o7	plater	dichrom	chromium

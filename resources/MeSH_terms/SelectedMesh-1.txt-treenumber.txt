@@ -1,0 +1,614 @@
+utility: 
+taiwan: Z01.252.474.872, Z01.639.850
+multiple myeloma: C04.557.595.500, C14.907.454.460, C15.378.147.780.650, C15.378.463.515.460, C20.683.515.845, C20.683.780.650
+epidemiologic studies: E05.318.760.500, N05.715.360.775.175, N06.850.520.450.500
+color vision defects: C10.597.751.941.256, C11.966.256, C23.888.592.763.941.256
+color: G01.590.540.199
+steel: D01.490.800, D01.552.033.847, D25.058.807, J01.637.051.058.807
+dermatitis, occupational: C17.800.174.255.700, C17.800.815.255.700, C24.270
+upational: 
+forced expiratory volume: E01.370.386.700.660.230, G09.772.650.430
+vital capacity: E01.370.386.700.485.750.900, G09.772.850.970
+isocyanate: 
+suicide, attempted: F01.145.126.980.875.600, I01.880.735.856.600
+rectal neoplasms: C04.588.274.476.411.307.790, C06.301.371.411.307.790, C06.405.249.411.307.790, C06.405.469.491.307.790, C06.405.469.860.180.500
+perineum: A01.719
+patients: M01.643
+institute: 
+registries: E05.318.308.970, L01.280.950, N04.452.859.819, N05.715.360.300.715.700, N06.850.520.308.970
+residence characteristics: N01.224.791, N06.850.505.400.800
+cause of death: E05.318.308.985.550.250, L01.280.975.550.250, N01.224.935.698.100, N06.850.505.400.975.550.250, N06.850.520.308.985.550.250
+health surveys: E05.318.308.250, N05.715.360.300.375, N06.850.520.308.250
+patient: 
+age distribution: I01.240.050, N01.224.033, N06.850.505.400.050
+dyspnea: C08.618.326, C23.888.852.371
+median nerve: A08.800.800.720.050.500
+sensation disorders: C10.597.751, C23.888.592.763
+power plants: E07.305.437, J01.780
+sex distribution: I01.240.800, N01.224.803, N06.850.505.400.850
+educational status: N01.824.196
+maternal age: G08.686.560, N05.715.350.075.550, N06.850.490.250.550
+child behavior: F01.145.179
+intelligence: F01.752.543
+neurologic examination: E01.370.376.550, E01.370.600.550
+sarcoidosis: C15.604.515.827
+psychometrics: F04.711.780
+prognosis: E01.789
+dentists: M01.526.485.330, N02.360.330
+ketoprofen: D02.241.223.701.480
+tact: 
+benzophenone: 
+new zealand: Z01.639.760.747, Z01.678.100.747
+zealand: 
+antiprotozoal agents: D27.505.954.122.250.100
+amyotrophic lateral sclerosis: C10.228.854.139, C10.574.562.250, C10.574.950.050, C10.668.467.250, C18.452.845.800.050
+poisson distribution: E05.318.740.994.750, G17.820.750, N05.715.360.750.750.620, N06.850.520.830.994.750
+population surveillance: E05.318.308.250.700, N05.715.360.300.375.625, N06.850.520.308.250.700, N06.850.780.675
+urban health: N01.400.800
+tality: 
+diagnosis, differential: E01.171
+facial dermatoses: C17.800.271
+toallergic: 
+suicide: F01.145.126.980.875, I01.880.735.856
+ase: 
+eruption: 
+fatigue: C23.888.369
+occupations: N01.824.547
+hazardous waste: D20.944.380, D27.888.426.500, N06.850.460.710.380
+school: 
+sclerosis: C23.550.823
+polyneuropathies: C10.668.829.800
+railroads: J01.937.690
+diagnosed: 
+ethnic groups: M01.686.754, N01.224.317
+attention deficit disorder with hyperactivity: F03.550.150.150
+meningioma: C04.557.580.520, C04.557.645.520, C04.588.614.250.580.500, C10.551.240.500.500
+neuroma, acoustic: C04.557.465.625.650.595.610, C04.557.580.600.610.595.610, C04.557.580.625.650.595.610, C04.588.614.596.240.015, C09.218.807.800.675, C09.647.675, C10.292.225.750, C10.292.910.600
+telephone: L01.178.847.698
+telephones: 
+germany, west: Z01.542.315.440, Z01.586.315.440
+infant, small for gestational age: M01.060.703.520.460.560
+sampling studies: E05.318.760.875, N05.715.360.775.700, N06.850.520.450.875
+infants: 
+us: 
+experience: 
+pancreatic neoplasms: C04.588.274.761, C04.588.322.475, C06.301.761, C06.689.667, C19.344.421
+cancers: 
+psychological tests: F04.711
+rural health: N01.400.650
+children: 
+survey: 
+hodgkin disease: C04.557.386.355, C15.604.515.569.355, C20.683.515.761.355
+lymphoma, non-hodgkin: C04.557.386.480, C15.604.515.569.480, C20.683.515.761.480
+lip: A01.456.505.631.515, A14.549.336
+cosmetic: 
+chloralkali: 
+update: 
+noise, occupational: N06.230.400.500, N06.850.460.610.526
+intelligence tests: F04.711.141.493
+manufacturing: 
+european continental ancestry group: M01.686.508.400
+postmenopausal: 
+utilization: 
+thimerosal: D02.691.750.100.347.850
+developmental disabilities: F03.550.362
+reoperation: E04.690
+vision disorders: C10.597.751.941, C11.966, C23.888.592.763.941
+systematic: 
+review: V02.600.500, V02.912
+infant, low birth weight: M01.060.703.520.460
+premature birth: C13.703.420.491.500
+near: 
+connecticut: Z01.107.567.875.550.200
+polymorphism, single nucleotide: G05.365.795.598
+prospective: 
+factory: 
+smelter: 
+facility: 
+subjects: 
+mobile: 
+stations: 
+comorbidity: N05.715.350.225, N06.850.490.687
+sweetened: 
+sources: 
+child development: F01.525.200, G07.700.320.374.750
+fatal outcome: E05.318.308.985.550.325, L01.280.975.550.325, N01.224.935.698.201, N06.850.505.400.975.550.325, N06.850.520.308.985.550.325
+renal dialysis: E02.870.300, E02.912.800
+alveolitis, extrinsic allergic: C08.381.483.125, C08.674.055, C20.543.480.680.075
+retrospective: 
+family: F01.829.263, I01.880.225
+powder: 
+obstetric labor, premature: C13.703.420.491
+carbon monoxide poisoning: C25.723.455.245
+dizziness: C10.597.751.237, C23.888.592.763.237
+breast neoplasms, male: C04.588.180.260, C17.800.090.500.260
+causality: N05.715.350.200, N06.850.490.625
+children's: 
+interviews as topic: E05.318.308.420, L01.280.520, N05.715.360.300.400, N06.850.520.308.420
+phones: 
+cordless: 
+coma: C10.597.606.358.800.200, C23.888.592.604.359.800.200
+community: 
+swedish: 
+cleaning: 
+child welfare: I01.880.787.293
+vaccines: D20.215.894
+sectional: 
+transmission: 
+dentistry: E06, H02.163
+carbonated beverages: J02.200.300
+pulmonary embolism: C08.381.746, C14.907.355.350.700
+morbidity: E05.318.308.985.525, L01.280.975.525, N01.224.935.597, N06.850.505.400.975.525, N06.850.520.308.985.525
+sensitized: 
+legislation &amp; jurisprudence: 
+color perception: F02.463.593.932.217
+pneumonitis: 
+employees: 
+asthmatic: 
+resin: 
+dye: 
+intraoperative complications: C23.550.505
+diamond: D01.268.150.200
+maldehyde: 
+surveillance: 
+umbilical cord: A16.378.693
+contrast sensitivity: E01.370.380.850.950.500, F02.463.593.932.869.435.110, F02.463.593.932.901.500, G14.940.500
+photocontact: 
+physical examination: E01.370.600
+cases]: 
+rehabilitation: E02.831, H02.403.680.600, N02.421.784
+dental restoration, permanent: E06.323.428, E06.780.345.737, E07.695.190.190
+kidney calculi: C12.777.419.600.500, C12.777.967.249.500, C12.777.967.500.503, C13.351.968.419.600.500, C13.351.968.967.249.500, C13.351.968.967.500.503, C23.300.175.850.550
+neuropsychological: 
+social class: I01.880.552, I01.880.840.755, N01.824.782
+acidosis: C18.452.076.176
+resins, plant: D05.750.078.840, D20.215.721.500
+mdi: 
+clinical trials as topic: E05.318.760.535, E05.337.250, N05.715.360.775.235, N06.850.520.450.535
+pharyngeal neoplasms: C04.588.443.665.710, C07.550.745, C09.647.710, C09.775.549
+polymerization: G02.149.883
+control: 
+dermatitis, photoallergic: C17.800.174.255.100.600, C17.800.600.325, C17.800.815.255.100.600, C20.543.418.150.600
+double-blind method: E05.318.780.300, E05.581.500.300, N05.715.360.780.320, N06.850.520.445.300
+pneumoconiosis: C08.381.483.581, C08.381.520.702, C24.800
+dermatitis: C17.800.174
+follow: 
+headache: C10.597.617.470, C23.888.592.612.441, C23.888.646.487
+odds ratio: E05.318.740.600.600, G17.680.500, N05.715.360.750.625.590, N06.850.520.830.600.600
+city: 
+electric: 
+birth: 
+neuropsychological tests: F04.711.513
+robehavioral: 
+new york city: Z01.107.567.875.350.530.530, Z01.107.567.875.500.530.530, Z01.433.741
+poland: Z01.542.248.679
+prevalence: E05.318.308.985.525.750, L01.280.975.525.750, N01.224.935.597.750, N06.850.505.400.975.525.750, N06.850.520.308.985.525.750
+retrospective studies: E05.318.760.500.500.500, E05.318.760.500.750.750, N05.715.360.775.175.200.710, N05.715.360.775.175.250.815, N06.850.520.450.500.500.500, N06.850.520.450.500.750.825
+substance-related disorders: C25.775, F03.900
+visual acuity: E01.370.380.850.950, F02.463.593.932.901, G14.940
+years: 
+allergy: 
+updated: 
+questionnaires: E05.318.308.750, L01.280.800, N05.715.360.300.695, N06.850.520.308.750
+urban population: N01.600.900
+parkinson disease, secondary: C10.228.140.079.862.800, C10.228.662.600.700
+central nervous system neoplasms: C04.588.614.250, C10.551.240
+case: 
+confidence intervals: E05.318.740.275, N05.715.360.750.220, N06.850.520.830.275
+indoor: 
+cross-over studies: E05.318.780.150, N05.715.360.780.150, N06.850.520.445.150
+ventilation: N06.230.150.520
+symptoms: 
+hematologic neoplasms: C04.588.448, C15.378.400
+spirometry: E01.370.386.700.750
+immunization: E02.095.465.425.400, E05.478.550, N02.421.726.758.310, N06.850.780.200.425, N06.850.780.680.310
+paresthesia: C10.597.751.791.875, C23.888.592.763.770.875
+rural population: N01.600.725
+hard: 
+precursor cell lymphoblastic leukemia-lymphoma: C04.557.337.428.600, C15.604.515.560.600, C20.683.515.528.600
+england: Z01.542.363.300, Z01.639.280.300
+gastrointestinal diseases: C06.405
+fetal blood: A12.207.152.200, A15.145.300, A16.378.200
+incidence: E05.318.308.985.525.375, L01.280.975.525.375, N01.224.935.597.500, N06.850.505.400.975.525.375, N06.850.520.308.985.525.375
+health status: I01.240.425, N01.224.425, N06.850.505.400.425
+new jersey: Z01.107.567.875.500.525
+peak expiratory flow rate: E01.370.386.700.660.225.600, G09.772.650.300.790
+findings: 
+reactions: 
+italy: Z01.542.489
+occupational diseases: C24
+attention: F02.830.104.214
+dermatitis, allergic contact: C17.800.174.255.100, C17.800.815.255.100, C20.543.418.150
+trichloroethanes: D02.455.526.439.927
+milk, human: A12.200.467, J02.200.700.500, J02.500.350.525.500
+prospective studies: E05.318.760.500.750.500.650, N05.715.360.775.175.250.630, N06.850.520.450.500.750.650
+anti-inflammatory agents, non-steroidal: D27.505.696.663.850.014.040.500, D27.505.954.158.030, D27.505.954.329.030
+cognitive: 
+birth rate: E05.318.308.985.775.500, L01.280.975.775.500, N01.224.935.849.500, N06.850.505.400.975.775.500, N06.850.520.308.985.775.500
+psychomotor disorders: C10.597.606.881, C23.888.592.604.882, F01.700.875
+healthy: 
+socioeconomic factors: I01.880.840, N01.824
+cases: 
+pregnancy outcome: E01.789.700, G08.686.785.760.769.530
+men: M01.390
+new: 
+environment: G16.500.275, N06.230
+hair: A17.360
+cross reactions: G12.425.143.281
+south africa: Z01.058.290.175.735
+lung diseases, obstructive: C08.381.495
+autopsy: E01.370.060, E05.070, I01.198.780.937.120
+cross-sectional studies: E05.318.760.500.875, N05.715.360.775.175.275, N06.850.520.450.500.875
+hip prosthesis: E07.695.400.400
+meta: 
+beta 2-microglobulin: D12.776.124.790.223.100, D12.776.377.715.182.100
+longitudinal studies: E05.318.760.500.750.500, N05.715.360.775.175.250.450, N06.850.520.450.500.750.500
+cord: 
+respiratory function tests: E01.370.386.700
+metallurgy: J01.576.370.400
+cohort: 
+abortion, spontaneous: C13.703.039
+vision: 
+neck: A01.598
+silicosis: C08.381.483.581.760, C08.381.520.702.760, C24.800.834
+sensory thresholds: F02.463.593.710
+colostrum: A12.200.194
+radiometry: E05.799
+nutrition: 
+functional laterality: F02.830.297.425, G11.561.225.425
+sugar: 
+respiration disorders: C08.618
+cough: C08.618.248, C23.888.852.293
+2000: 
+pennsylvania: Z01.107.567.875.075.550, Z01.107.567.875.350.550, Z01.107.567.875.500.550
+breast feeding: F01.145.407.199, G07.610.220.500.500, G07.610.593.185, G07.700.620.185
+foam: 
+vibration: G01.374.676.930, G01.595.540.930
+erythema: C17.800.229
+schistosomiasis: C03.335.865.859
+finland: Z01.542.267
+france: Z01.542.286
+bronchial provocation tests: E01.370.386.700.125
+therapy: 
+epidemiologic methods: E05.318, N06.850.520
+mandelic acids: D02.241.223.475, D02.241.511.536
+outcomes: 
+dermatitis, contact: C17.800.174.255, C17.800.815.255
+aged, 80 and over: M01.060.116.100.080
+motor skills: F02.808.260
+epidemiology: H02.403.720.500
+phone: 
+dry: 
+perception: F02.463.593
+esophageal neoplasms: C04.588.274.476.205, C04.588.443.353, C06.301.371.205, C06.405.117.430, C06.405.249.205
+tumours: 
+congenital: 
+breath tests: E01.370.100
+follow-up studies: E05.318.760.500.750.500.350, N05.715.360.775.175.250.350, N06.850.520.450.500.750.350
+young adult: M01.060.116.815
+hip: A01.378.610.400
+urticaria: C17.800.862.945, C20.543.480.904
+treatment outcome: E01.789.800, N04.761.559.590.800, N05.715.360.575.575.800
+proportional hazards models: E05.318.740.500.700, E05.318.740.600.700, E05.318.740.750.725, E05.318.740.998.825, E05.599.835.900, N05.715.360.750.530.650, N05.715.360.750.625.650, N05.715.360.750.695.650, N05.715.360.750.795.825, N06.850.520.830.500.700, N06.850.520.830.600.700, N06.850.520.830.750.725
+national: 
+man: 
+infant, newborn: M01.060.703.520
+carbon disulfide: D01.200.210, D01.875.350.850.074
+danish: 
+task performance and analysis: F02.784.412.846, F02.784.692.746, F02.808.600
+mental disorders: F03
+ethnology: I01.076.201.450.457
+results: 
+laundering: J01.576.549
+pilot: 
+cardiovascular diseases: C14
+mortality: E05.318.308.985.550, L01.280.975.550, N01.224.935.698, N06.850.505.400.975.550, N06.850.520.308.985.550
+radiography: E01.370.350.700
+multivariate analysis: E05.318.740.150.500, N05.715.360.750.125.500, N06.850.520.830.150.500
+massachusetts: Z01.107.567.875.550.510
+smoking: F01.145.466.349.750, F01.145.928.500
+examination: 
+ships: J01.937.817
+drug eruptions: C17.800.174.600, C20.543.206.380, C25.100.468.380
+anatomy: H01.158.100
+lung volume measurements: E01.370.386.700.485
+drug hypersensitivity: C20.543.206, C25.100.468
+psychomotor performance: F02.808, G11.427.700, G11.561.623
+electric power supplies: E07.305.124
+construction materials: J01.637.241
+cosmetics: D27.720.269, J01.516.213
+occupational: 
+cognition: F02.463.188
+chemical industry: J01.576.207
+neurodegenerative diseases: C10.574
+well: 
+electromyography: E01.370.405.255, E01.370.530.255
+elemental: 
+australia: Z01.338, Z01.639.100, Z01.678.100.373
+tary: 
+parkinsonian disorders: C10.228.140.079.862, C10.228.662.600
+disorders: 
+mental recall: F02.463.425.540.641
+vapour: 
+methacholine compounds: D02.092.877.883.555, D02.675.276.534
+ultrasonography: E01.370.350.850
+alzheimer disease: C10.228.140.380.100, C10.574.945.249, F03.087.400.100
+welders: 
+agricultural workers' diseases: C24.080
+mining: J01.576.370.500
+netherlands: Z01.542.651
+radionuclide imaging: E01.370.350.710, E01.370.384.730
+adverse: 
+exercise: G11.427.590.530.698.277, I03.350
+industrial: 
+california: Z01.107.567.875.580.200, Z01.107.567.875.760.200
+new york: Z01.107.567.875.075.437, Z01.107.567.875.350.530, Z01.107.567.875.500.530
+epidemiologic: 
+tungsten: D01.268.556.887, D01.268.956.882, D01.552.544.887
+body mass index: E01.370.600.115.100.125, E05.041.124.125, G07.100.100.125, N06.850.505.200.100.175
+cyanates: D02.262
+seafood: J02.500.600.875
+overweight: C23.888.144.699, E01.370.600.115.100.160.120.699, G07.100.100.160.120.699
+tobacco smoke pollution: D20.633.937.680, N06.850.460.100.555
+ernal: 
+north carolina: Z01.107.567.875.075.475, Z01.107.567.875.750.530
+kidney failure, chronic: C12.777.419.780.750.500, C13.351.968.419.780.750.500
+neonates: 
+korean: 
+cesarean section: E04.520.252.500
+posture: G11.427.695
+semen: A12.200.732
+electricity: G01.358.500.249
+among: 
+report: 
+beverages: J02.200
+history: K01.400
+life style: F01.829.458
+logistic models: E05.318.740.500.525, E05.318.740.600.800.450, E05.318.740.750.450, E05.599.835.875, N05.715.360.750.530.480, N05.715.360.750.625.700.450, N05.715.360.750.695.470, N06.850.520.830.500.525, N06.850.520.830.600.800.450, N06.850.520.830.750.450
+talc: D01.524.500.850, D01.578.725.500.800, D01.837.725.700.760.535.800
+occupationally: 
+women: M01.975
+cardiovascular: 
+fumigation: N06.850.780.200.300
+styrenes: D02.455.426.559.389.150.750
+dental amalgam: D25.339.208.291, J01.637.051.339.208.291
+alcohol drinking: F01.145.317.269
+food hypersensitivity: C20.543.480.370
+pilot projects: E05.318.760.750, E05.337.737, N05.715.360.775.625, N06.850.520.450.720
+memory disorders: C10.597.606.525, C23.888.592.604.529, F01.700.625
+cellular phone: L01.178.847.698.300
+poisoning]: 
+denmark: Z01.542.808.224
+aged: M01.060.116.100
+magnetic resonance imaging: E01.370.350.500, E01.370.350.825.500
+up: 
+child: M01.060.406
+urinary: 
+peripheral nervous system diseases: C10.668.829
+brain neoplasms: C04.588.614.250.195, C10.228.140.211, C10.551.240.250
+trends: 
+bone cements: D05.750.716.822.300, D25.720.716.822.300, D27.720.102.158, J01.637.051.720.716.822.300
+confounding factors: 
+aircraft: J01.937.285.100
+base: 
+african americans: M01.686.508.100.100, M01.686.754.100
+asian continental ancestry group: M01.686.508.200
+polyurethanes: D02.241.081.251.944.750, D05.750.716.650, D25.720.327.782, D25.720.716.650, J01.637.051.720.327.782, J01.637.051.720.716.650, J01.637.412.700
+individuals: 
+clinical: 
+epidemiological monitoring: E05.318.375, N06.850.520.460
+granuloma, foreign-body: C23.550.382.437, C26.392.560.325
+neurobehavioral: 
+echocardiography: E01.370.350.130.750, E01.370.350.850.220, E01.370.370.380.220
+turkey: Z01.252.245.500.850, Z01.586.500.850
+psychology: F04.096.628
+population: N01.600
+african continental ancestry group: M01.686.508.100
+parity: G08.686.677, G08.686.785.760.769.472, N06.850.490.812.600
+reaction time: F02.830.650, F04.669.817, G11.561.677
+kidney function tests: E01.370.390.400
+urinary bladder neoplasms: C04.588.945.947.960, C12.758.820.968, C12.777.829.813, C13.351.937.820.945, C13.351.968.829.707
+trigeminal nerve: A08.800.800.120.760
+contact: 
+paint: J01.637.597
+styrene: D02.455.426.559.389.150.750.800
+tetrachloroethylene: D02.455.526.439.880
+age: 
+worker: 
+data collection: E05.318.308, L01.280, N05.715.360.300, N06.850.520.308
+rospective: 
+french: 
+switzerland: Z01.542.883
+occupational health: N01.400.525
+child, preschool: M01.060.406.448
+childhood: 
+mercury poisoning: C25.723.647
+patch tests: E01.370.225.812.871.610, E05.200.812.871.610, E05.478.594.890.610
+respiratory tract diseases: C08
+absorptiometry, photon: E01.370.350.700.024, E05.196.712.224.187
+movement disorders: C10.228.662
+diabetes: 
+air pollutants: D27.888.284.101
+electrocardiography: E01.370.370.380.240, E01.370.405.240
+methylmethacrylates: D02.241.081.069.800.550, D05.750.716.822.111.650.605, D25.720.716.822.111.650.605, J01.637.051.720.716.822.111.650.605
+infant: M01.060.703
+brain diseases: C10.228.140
+bias: 
+extended: 
+colombia: Z01.107.757.284
+hispanic americans: M01.686.754.441
+postmenopause: G08.686.157.500.625, G08.686.785.880.249.500.625
+health behavior: F01.145.488
+chronic disease: C23.550.291.500
+europe: Z01.542
+ingestion: 
+eye diseases: C11
+toluene: D02.455.426.559.389.832
+cognition disorders: F03.087.250
+cer: 
+chi-square distribution: E05.318.740.994.300, G17.820.300, N05.715.360.750.750.200, N06.850.520.830.994.300
+methacholine chloride: D02.092.877.883.555.500, D02.675.276.534.500
+autistic disorder: F03.550.325.125
+food habits: F01.145.407.432, F01.145.466.349
+neoplasms: C04
+physical: 
+emf: 
+who: 
+alloys: D01.552.033, D25.058, J01.637.051.058
+vapors]: 
+photosensitivity disorders: C17.800.600
+neurodegenerative: 
+sick building syndrome: C20.543.312.750, C21.223.750
+epidemiological: 
+essential: 
+national institute for occupational safety and health: 
+persons: M01
+diet therapy: E02.642.249
+air pollution, indoor: N06.850.460.100.080
+cadmium poisoning: C25.723.165
+research design: E05.581.500, H01.770.644.728
+odors: G16.500.275.640, N06.230.480
+substances: 
+head: A01.456
+2003: 
+visual perception: F02.463.593.932
+health: N01.400
+nasopharyngeal neoplasms: C04.588.443.665.710.650, C07.550.350.650, C07.550.745.650, C09.647.710.650, C09.775.350.650, C09.775.549.650
+arthroplasty, replacement, hip: E04.555.110.110.110, E04.650.110.110
+bone density: G11.427.100
+liver function tests: E01.370.372.460
+granuloma: C15.604.515.292, C23.550.382
+ohio: Z01.107.567.875.075.512, Z01.107.567.875.350.540, Z01.107.567.875.510.540
+disease: C23.550.288
+complications: 
+isocyanates: D02.500
+regression analysis: E05.318.740.750, N05.715.360.750.695, N06.850.520.830.750
+disease progression: C23.550.291.656
+mexico: Z01.107.567.589
+pressure: G01.374.715
+belgium: Z01.542.115
+leukaemia: 
+memory: F02.463.425.540
+michigan: Z01.107.567.875.350.500, Z01.107.567.875.510.500
+solvent: 
+diet surveys: E05.318.308.250.600.350, E05.318.308.585.550.350, N05.715.360.300.375.560.300, N05.715.360.300.560.565.300, N06.850.520.308.250.600.350, N06.850.520.308.585.550.350
+containing: 
+areas: 
+aldosterone: D04.808.745.745.654.062, D06.472.040.585.353.118
+evoked potentials, somatosensory: G07.265.500.400, G11.561.270.400
+liver diseases: C06.552
+surgery: 
+young: 
+cohort studies: E05.318.760.500.750, N05.715.360.775.175.250, N06.850.520.450.500.750
+tremor: C10.597.350.850, C23.888.592.350.850
+intakes: 
+bromide: 
+risk factors: E05.318.740.600.800.725, N05.715.350.200.700, N05.715.360.750.625.700.700, N06.850.490.625.750, N06.850.520.830.600.800.725
+food coloring agents: D27.720.233.674, D27.720.368.355
+sweden: Z01.542.808.843
+south: 
+hearing: F02.830.816.263, G11.561.600.810.263
+natriuresis: G08.852.796.241.557
+hearing loss: C09.218.458.341, C10.597.751.418.341, C23.888.592.763.393.341
+pulmonary edema: C08.381.742
+multiple: 
+audiometry: E01.370.382.375.060
+risk: E05.318.740.600.800, G17.680.750, N05.715.360.750.625.700, N06.850.520.830.600.800
+glioma: C04.557.465.625.600.380, C04.557.470.670.380, C04.557.580.625.600.380
+toluene 2,4-diisocyanate: D02.455.426.559.389.832.500, D02.500.800
+personal: 
+spectrum analysis: E05.196.867
+rubber: D25.720.099.750, D25.720.327.840, J01.637.051.720.099.750, J01.637.051.720.327.840, J01.637.412.767
+great britain: Z01.542.363, Z01.639.280
+quebec: Z01.107.567.176.791
+diphenylmethane: 
+wood: A18.700.888, J01.637.241.900
+tomography, x-ray computed: E01.370.350.350.810, E01.370.350.600.350.700.810, E01.370.350.700.700.810, E01.370.350.700.810.810, E01.370.350.825.810.810
+like: 
+groups: 
+oryza sativa: B01.650.940.800.575.100.822.616, J02.500.200.700
+flavoring agents: D27.720.364, J02.500.512.400
+risks: 
+osteolysis: C05.116.264.579, G11.427.590.195.150.570
+diabetes mellitus: C18.452.394.750, C19.246
+idential: 
+prosthesis design: E05.320.550, E07.695.680
+potassium, dietary: D01.745.660
+prostatic neoplasms: C04.588.945.440.770, C12.294.260.750, C12.294.565.625, C12.758.409.750
+year: 
+arsenic: D01.268.067, D01.268.513.249
+residential: 
+housing: N01.224.791.400, N06.230.150.360, N06.850.505.400.800.400
+relation: 
+aspirin: D02.455.426.559.389.657.410.595.176
+sensitization: 
+electric wiring: E07.305.245
+occupational medicine: H02.403.720.750.510
+radio waves: G01.358.500.505.810, G01.750.250.810, G01.750.770.721
+asbestosis: C08.381.483.581.125, C08.381.520.702.125, C24.800.127
+outcome: 
+syndrome: C23.550.288.500
+immunoglobulin e: D12.776.124.486.485.114.619.312, D12.776.124.790.651.114.619.312, D12.776.377.715.548.114.619.312
+nervous system diseases: C10
+nutrition surveys: E05.318.308.250.600, E05.318.308.585.550, N05.715.360.300.375.560, N05.715.360.300.560.565, N06.850.520.308.250.600, N06.850.520.308.585.550
+urban: 
+leukemia, myeloid, acute: C04.557.337.539.275
+data: 
+area: 
+calcium, dietary: D01.146.315
+leukemia, myeloid: C04.557.337.539
+extremely: 
+pleural neoplasms: C04.588.894.797.640, C08.528.694, C08.785.640
+industry: J01.576
+chlorine: D01.268.380.150, D01.362.225
+allergic: 
+biopsy: E01.370.225.500.384.100, E01.370.225.998.054, E01.370.388.100, E04.074, E05.200.500.384.100, E05.200.998.054, E05.242.384.100
+asthma: C08.127.108, C08.381.495.108, C08.674.095, C20.543.480.680.095
+metallic: 
+welding: J01.576.370.400.900
+oxybenzone: 
+lead poisoning: C25.723.589
+diisocyanate: 
+middle aged: M01.060.116.630
+sunscreening agents: D27.505.696.706.776.800, D27.505.954.444.695, D27.720.269.800, D27.720.799.763.764
+infertility, male: C12.294.365.700
+adults: 
+benzophenones: D02.455.426.559.389.115.124, D02.522.223
+air pollution: N06.850.460.100
+allergens: D23.050.063
+cause: 
+reference standards: E05.978.808
+poisoning: C25.723
+carcinoma, renal cell: C04.557.470.200.025.390, C04.588.945.947.535.160, C12.758.820.750.160, C12.777.419.473.160, C13.351.937.820.535.160, C13.351.968.419.473.160
+electroencephalography: E01.370.376.300, E01.370.405.245
+electromagnetic: 
+preliminary: 
+dental: 
+statistics &amp; numerical data: 
+petroleum: D20.345.630, N06.230.132.258.630
+workplace: N01.824.245.925, N04.452.677.975
+quantitative: 
+chromate: 
+battery: 
+radio: J01.897.280.500.739, L01.178.590.700, L01.178.820.090.739, L01.178.847.514
+severity of illness index: E05.318.308.250.475.456.500, N05.715.360.300.375.375.364.500, N06.850.520.308.250.475.364.500
+tartrazine: D02.172.950
+prosthesis failure: C23.550.767.865, E05.325.771
+visual: 
+brazil: Z01.107.757.176
+workers: 
+living: 
+group: 
+plant: 
+electromagnetic fields: G01.358.500.260, G01.358.750.500
+plants: B01.650
+glass: J01.637.241.400, J01.637.437
+germany: Z01.542.315, Z01.586.315
+diagnosis: E01
+energy intake: G07.610.240.340
+mothers: F01.829.263.500.320.200, I01.880.225.500.340.270, M01.620.630
+electroplating: E05.301.250.348
+hazards: 
+plastics: D05.750.716, D25.720.716, J01.637.051.720.716
+power: 
+association: F02.463.425.069, F04.754.720.346

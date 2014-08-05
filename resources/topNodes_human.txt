@@ -1,0 +1,23 @@
+Persons: M01
+Geographic Locations: Z01
+Data Collection: E05.318.308
+Epidemiologic Study Characteristics as Topic: E05.318.760
+dermatitis, occupational: C17.800.174.255.700, C17.800.815.255.700
+suicide: F01.145.126.980.875
+Population Characteristics: N01
+Environment and Public Health: N06
+Health Care Quality, Access, and Evaluation: N05
+Social Sciences: I01
+Behavior: F01.145
+Personality: F01.752
+Psychological Tests: F04.711
+Education: I02
+attention deficit disorder with hyperactivity: F03.550.150.150
+milk, human: A12.200.467, J02.200.700.500, J02.500.350.525.500
+Air Pollutants, Occupational: D27.888.284.101.268
+sick building syndrome: C20.543.312.750, C21.223.750
+Asthma, Occupational: C08.127.108.495, C08.674.095.495, C20.543.480.680.095.495, C24.102
+Occupational Diseases: C24
+Occupational Injuries: C26.716
+Occupational Therapy: E02.831.489, H02.010.500
+Humans: B01.050.150.900.649.801.400.112.400.400

@@ -1,0 +1,211 @@
+Abortion Applicants
+Administrative Personnel
+Adolescent
+Adolescent, Hospitalized
+Adolescent, Institutionalized
+Adult
+Adult Children
+Adult Survivors of Child Abuse
+African Americans
+African Continental Ancestry Group
+Age Groups
+Aged
+Aged, 80 and over
+Alcoholics
+Allied Health Personnel
+American Native Continental Ancestry Group
+Amish
+Amputees
+Anatomists
+Animal Technicians
+Arabs
+Asian Americans
+Asian Continental Ancestry Group
+Astronauts
+Athletes
+Battered Women
+Blood Donors
+Caregivers
+Chief Executive Officers, Hospital
+Child
+Child of Impaired Parents
+Child, Abandoned
+Child, Exceptional
+Child, Gifted
+Child, Hospitalized
+Child, Institutionalized
+Child, Orphaned
+Child, Preschool
+Child, Unwanted
+Clergy
+Community Health Workers
+Consultants
+Continental Population Groups
+Coroners and Medical Examiners
+Crime Victims
+Criminals
+Dental Assistants
+Dental Auxiliaries
+Dental Hygienists
+Dental Staff
+Dental Staff, Hospital
+Dental Technicians
+Dentists
+Dentists, Women
+Denturists
+Disabled Children
+Disabled Persons
+Doulas
+Drug Users
+Emergency Medical Technicians
+Emergency Responders
+Emigrants and Immigrants
+Ethicists
+Ethnic Groups
+European Continental Ancestry Group
+Faculty
+Faculty, Dental
+Faculty, Medical
+Faculty, Nursing
+Famous Persons
+Fathers
+Firefighters
+Foreign Medical Graduates
+Foreign Professional Personnel
+Frail Elderly
+Friends
+General Practitioners
+Gypsies
+HIV Long-Term Survivors
+Health Educators
+Health Facility Administrators
+Health Personnel
+Hearing Impaired Persons
+Hispanic Americans
+Home Health Aides
+Homebound Persons
+Homeless Persons
+Homeless Youth
+Hospital Administrators
+Hospital Auxiliaries
+Hospital Volunteers
+Hospitalists
+Humans
+Indians, Central American
+Indians, North American
+Indians, South American
+Infant
+Infant, Extremely Low Birth Weight
+Infant, Low Birth Weight
+Infant, Newborn
+Infant, Postmature
+Infant, Premature
+Infant, Small for Gestational Age
+Infant, Very Low Birth Weight
+Infection Control Practitioners
+Inpatients
+Inuits
+Jehovah's Witnesses
+Jews
+Laboratory Personnel
+Lawyers
+Legal Guardians
+Librarians
+Living Donors
+Medical Chaperones
+Medical Laboratory Personnel
+Medical Receptionists
+Medical Record Administrators
+Medical Secretaries
+Medical Staff
+Medical Staff, Hospital
+Medically Uninsured
+Men
+Mentally Disabled Persons
+Mentally Ill Persons
+Mentors
+Mexican Americans
+Middle Aged
+Military Personnel
+Minors
+Missions and Missionaries
+Mothers
+Multiple Birth Offspring
+Nurse Administrators
+Nurse Anesthetists
+Nurse Clinicians
+Nurse Midwives
+Nurse Practitioners
+Nurses
+Nurses' Aides
+Nurses, Male
+Nursing Staff
+Nursing Staff, Hospital
+Occupational Groups
+Occupational Health Physicians
+Oceanic Ancestry Group
+Operating Room Technicians
+Ophthalmic Assistants
+Osteopathic Physicians
+Outpatients
+Parents
+Patient Dropouts
+Patients
+Pediatric Assistants
+Personnel, Hospital
+Persons
+Pharmacists
+Pharmacists' Aides
+Physical Therapists
+Physician Assistants
+Physician Executives
+Physicians
+Physicians, Family
+Physicians, Primary Care
+Physicians, Women
+Police
+Population Groups
+Pregnant Women
+Prisoners
+Proxy
+Psychiatric Aides
+Quadruplets
+Quintuplets
+Refugees
+Research Personnel
+Research Subjects
+Sex Workers
+Sexual Partners
+Siblings
+Single Parent
+Single Person
+Spouses
+Student Dropouts
+Students
+Students, Dental
+Students, Health Occupations
+Students, Medical
+Students, Nursing
+Students, Pharmacy
+Students, Premedical
+Students, Public Health
+Surrogate Mothers
+Survivors
+Terminally Ill
+Tissue Donors
+Transients and Migrants
+Triplets
+Trustees
+Twins
+Twins, Dizygotic
+Twins, Monozygotic
+Unrelated Donors
+Veterans
+Veterinarians
+Visitors to Patients
+Visually Impaired Persons
+Voluntary Workers
+Vulnerable Populations
+Women
+Women, Working
+Young Adult

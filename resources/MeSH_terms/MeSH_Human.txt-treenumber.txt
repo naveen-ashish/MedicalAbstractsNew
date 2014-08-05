@@ -1,0 +1,211 @@
+abortion applicants: M01.050
+administrative personnel: M01.526.070
+adolescent: M01.060.057
+adolescent, hospitalized: M01.643.050
+adolescent, institutionalized: M01.643.154
+adult: M01.060.116
+adult children: F01.829.263.065, I01.880.225.281, M01.055
+adult survivors of child abuse: M01.135.500, M01.643.836.199
+african americans: M01.686.508.100.100, M01.686.754.100
+african continental ancestry group: M01.686.508.100
+age groups: M01.060
+aged: M01.060.116.100
+aged, 80 and over: M01.060.116.100.080
+alcoholics: M01.066
+allied health personnel: M01.526.485.067, N02.360.067
+american native continental ancestry group: M01.686.508.150
+amish: M01.686.754.133
+amputees: M01.150.100
+anatomists: M01.526.485.133, N02.360.133
+animal technicians: M01.526.485.067.040, N02.360.067.040
+arabs: M01.686.754.167
+asian americans: M01.686.508.200.100, M01.686.754.225
+asian continental ancestry group: M01.686.508.200
+astronauts: M01.770.100
+athletes: M01.072
+battered women: M01.975.155
+blood donors: M01.898.313
+caregivers: M01.085, M01.526.485.200, N02.360.200
+chief executive officers, hospital: M01.526.070.490.490.100, M01.526.485.430.490.100, M01.526.485.740.380.100, N02.360.430.490.100, N02.360.740.380.100
+child: M01.060.406
+child of impaired parents: M01.106
+child, abandoned: M01.097
+child, exceptional: F02.784.629.228, M01.102
+child, gifted: F02.784.629.228.350, M01.102.350
+child, hospitalized: M01.643.259
+child, institutionalized: M01.643.364
+child, orphaned: M01.108
+child, preschool: M01.060.406.448
+child, unwanted: M01.111
+clergy: M01.526.213
+community health workers: M01.526.485.067.080, N02.360.067.080
+consultants: M01.120
+continental population groups: M01.686.508
+coroners and medical examiners: M01.526.485.230, N02.360.230
+crime victims: M01.135
+criminals: M01.142
+dental assistants: M01.526.485.067.105.250, N02.360.067.105.250
+dental auxiliaries: M01.526.485.067.105, N02.360.067.105
+dental hygienists: M01.526.485.067.105.376, N02.360.067.105.376
+dental staff: M01.526.485.290, N02.360.290
+dental staff, hospital: M01.526.485.290.490, M01.526.485.740.322, N02.360.290.490, N02.360.740.322
+dental technicians: M01.526.485.067.105.503, N02.360.067.105.503
+dentists: M01.526.485.330, N02.360.330
+dentists, women: M01.526.485.330.310, M01.975.310, N02.360.330.310
+denturists: M01.526.485.067.105.751, N02.360.067.105.751
+disabled children: M01.150.200
+disabled persons: M01.150
+doulas: M01.526.244
+drug users: M01.169
+emergency medical technicians: M01.526.373.250, M01.526.485.067.150, N02.360.067.150
+emergency responders: M01.526.373
+emigrants and immigrants: M01.189
+ethicists: K01.559.411.171, M01.526.276, N05.350.262
+ethnic groups: M01.686.754, N01.224.317
+european continental ancestry group: M01.686.508.400
+faculty: I02.463, M01.526.339
+faculty, dental: I02.463.273, M01.526.339.273, M01.526.485.360, N02.360.360
+faculty, medical: I02.463.373, M01.526.339.373, M01.526.485.375, N02.360.375
+faculty, nursing: I02.463.473, M01.526.339.473, M01.526.485.390, N02.360.390
+famous persons: K01.517.211.506, M01.228
+fathers: F01.829.263.500.320.100, I01.880.225.500.340.210, M01.620.390
+firefighters: M01.526.373.400
+foreign medical graduates: M01.526.407.435, M01.526.485.810.390, N02.360.810.390
+foreign professional personnel: M01.526.407
+frail elderly: M01.060.116.100.540
+friends: M01.252
+general practitioners: M01.526.485.810.485, N02.360.810.485
+gypsies: M01.686.754.283
+hiv long-term survivors: M01.643.836.400, M01.860.400
+health educators: M01.526.485.410
+health facility administrators: M01.526.070.490, M01.526.485.430, N02.360.430
+health personnel: M01.526.485, N02.360
+hearing impaired persons: 
+hispanic americans: M01.686.754.441
+home health aides: M01.526.485.067.350, N02.360.067.350
+homebound persons: M01.276
+homeless persons: M01.325
+homeless youth: M01.325.400
+hospital administrators: M01.526.070.490.490, M01.526.485.430.490, M01.526.485.740.380, N02.360.430.490, N02.360.740.380
+hospital auxiliaries: M01.526.485.740.400.375, M01.955.473.375, N02.360.740.400.375
+hospital volunteers: M01.526.485.740.400, M01.955.473, N02.360.740.400
+hospitalists: M01.526.485.630.490.400, M01.526.485.740.422.400, M01.526.485.810.580, N02.360.630.490.400, N02.360.740.422.400, N02.360.810.580
+humans: B01.050.150.900.649.801.400.112.400.400
+indians, central american: M01.686.508.150.575
+indians, north american: M01.686.508.150.600
+indians, south american: M01.686.508.150.625
+infant: M01.060.703
+infant, extremely low birth weight: M01.060.703.520.460.600.500
+infant, low birth weight: M01.060.703.520.460
+infant, newborn: M01.060.703.520
+infant, postmature: M01.060.703.520.500
+infant, premature: M01.060.703.520.520
+infant, small for gestational age: M01.060.703.520.460.560
+infant, very low birth weight: M01.060.703.520.460.600
+infection control practitioners: M01.526.485.490, N02.360.490
+inpatients: M01.643.470
+inuits: M01.686.508.150.675, M01.686.754.520
+jehovah's witnesses: K01.844.188.573, M01.352
+jews: M01.686.754.600
+laboratory personnel: M01.526.502
+lawyers: M01.526.520
+legal guardians: M01.380
+librarians: M01.526.555
+living donors: M01.898.656
+medical chaperones: M01.526.485.500
+medical laboratory personnel: M01.526.485.510, M01.526.502.500, N02.360.510
+medical receptionists: M01.526.485.067.600.630, N02.360.067.600.630
+medical record administrators: M01.526.485.067.550, N02.360.067.550
+medical secretaries: M01.526.485.067.600, N02.360.067.600
+medical staff: M01.526.485.630, N02.360.630
+medical staff, hospital: M01.526.485.630.490, M01.526.485.740.422, N02.360.630.490, N02.360.740.422
+medically uninsured: M01.385
+men: M01.390
+mentally disabled persons: M01.150.600
+mentally ill persons: M01.150.725
+mentors: I02.588, M01.395
+mexican americans: M01.686.754.441.500
+middle aged: M01.060.116.630
+military personnel: M01.526.625
+minors: M01.416
+missions and missionaries: M01.526.682, N02.720
+mothers: F01.829.263.500.320.200, I01.880.225.500.340.270, M01.620.630
+multiple birth offspring: M01.438
+nurse administrators: M01.526.070.670, M01.526.485.650.580, N02.360.650.580
+nurse anesthetists: M01.526.485.650.600, N02.360.650.600
+nurse clinicians: M01.526.485.650.610, N02.360.650.610
+nurse midwives: M01.526.485.650.620, N02.360.650.620
+nurse practitioners: M01.526.485.650.640, N02.360.650.640
+nurses: M01.526.485.650, N02.360.650
+nurses' aides: M01.526.485.067.652, N02.360.067.652
+nurses, male: M01.390.660, M01.526.485.650.670, N02.360.650.670
+nursing staff: M01.526.485.680, N02.360.680
+nursing staff, hospital: M01.526.485.680.490, M01.526.485.740.523, N02.360.680.490, N02.360.740.523
+occupational groups: M01.526
+occupational health physicians: M01.526.485.810.675, N02.360.810.675
+oceanic ancestry group: M01.686.508.600
+operating room technicians: M01.526.485.067.700, N02.360.067.700
+ophthalmic assistants: M01.526.485.067.740.690, N02.360.067.740.690
+osteopathic physicians: M01.526.485.810.722, N02.360.810.722
+outpatients: M01.643.630
+parents: F01.829.263.500.320, I01.880.225.500.340, M01.620
+patient dropouts: M01.643.673
+patients: M01.643
+pediatric assistants: M01.526.485.067.740.750, N02.360.067.740.750
+personnel, hospital: M01.526.485.740, N02.360.740
+persons: M01
+pharmacists: M01.526.485.780, N02.360.780
+pharmacists' aides: M01.526.485.067.735, N02.360.067.730
+physical therapists: M01.526.485.067.739, N02.360.067.735
+physician assistants: M01.526.485.067.740, N02.360.067.740
+physician executives: M01.526.070.700, M01.526.485.800, N02.360.800
+physicians: M01.526.485.810, N02.360.810
+physicians, family: M01.526.485.810.770, N02.360.810.770
+physicians, primary care: M01.526.485.810.800, N02.360.810.795
+physicians, women: M01.526.485.810.820, M01.975.790, N02.360.810.820
+police: I01.880.604.646, M01.526.373.750, M01.526.760
+population groups: M01.686, N01.224.708
+pregnant women: M01.975.807
+prisoners: M01.729
+proxy: M01.380.600
+psychiatric aides: M01.526.485.067.652.628, N02.360.067.652.628
+quadruplets: M01.438.486
+quintuplets: M01.438.587
+refugees: M01.755
+research personnel: M01.526.839, M01.770
+research subjects: M01.774
+sex workers: M01.776
+sexual partners: M01.778
+siblings: F01.829.263.500.490, I01.880.225.500.505, M01.781
+single parent: F01.829.263.315.500.725.700, F01.829.263.500.320.785, I01.240.361.500.725.700, I01.880.225.423.500.725.700, I01.880.225.500.340.785, M01.620.785, N01.224.361.500.725.700, N01.824.308.500.725.700
+single person: F01.829.263.315.500.725, I01.240.361.500.725, I01.880.225.423.500.725, M01.785, N01.224.361.500.725, N01.824.308.500.725
+spouses: F01.829.263.500.660, I01.880.225.500.670, M01.816
+student dropouts: F02.784.629.796, I02.233.748.686, M01.848.602
+students: I02.233.748, I02.851, M01.848
+students, dental: I02.851.686.519, M01.848.769.519
+students, health occupations: I02.851.686, M01.848.769
+students, medical: I02.851.686.602, M01.848.769.602
+students, nursing: I02.851.686.685, M01.848.769.685
+students, pharmacy: I02.851.686.768, M01.848.769.768
+students, premedical: I02.851.686.851, M01.848.769.851
+students, public health: M01.848.769.925
+surrogate mothers: F01.829.263.500.320.892, I01.880.225.500.340.892, M01.620.892
+survivors: M01.643.836, M01.860
+terminally ill: M01.873
+tissue donors: M01.898
+transients and migrants: M01.920
+triplets: M01.438.768
+trustees: M01.526.070.940, N04.452.394.600
+twins: M01.438.873
+twins, dizygotic: M01.438.873.920
+twins, monozygotic: M01.438.873.940
+unrelated donors: M01.898.828
+veterans: M01.930
+veterinarians: M01.526.485.905, N02.360.905
+visitors to patients: M01.935
+visually impaired persons: M01.150.850
+voluntary workers: 
+vulnerable populations: M01.965
+women: M01.975
+women, working: M01.975.825
+young adult: M01.060.116.815

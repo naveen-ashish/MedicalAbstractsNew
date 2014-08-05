@@ -1,0 +1,162 @@
+hl-60 cells: A11.251.210.190.465, A11.251.860.180.465, A11.627.340.360.500
+hl: 
+pc12: 
+rna, small interfering: D13.150.650.700, D13.444.735.150.700, D13.444.735.790.552.875
+trophoblasts: A11.382.992, A16.254.500.766, A16.710.802
+cell line, transformed: A11.251.210.172
+coculture techniques: E05.240.374
+osteoblasts: A11.329.629
+trophoblast: 
+transcriptional: 
+hepg2: 
+a549: 
+otoxicity: 
+cell hypoxia: G03.495.278.300, G04.299.305.300
+rotenone: D03.438.150.266.450.400.843, D03.549.825, D03.830.219.266.450.400.843
+neoplasm proteins: D12.776.624
+benzoquinones: D02.806.250
+u937 cells: A11.251.210.190.880, A11.251.860.180.880, A11.627.482.665.500, A11.627.624.249.500, A11.627.635.675.750.500
+cultures: 
+slices: 
+myocytes: 
+endocytosis: G04.299.482
+adsorption: G02.149.047, G02.149.767.029, G02.842.750.029
+hepatocyte: 
+ca2+: 
+intracellular membranes: A11.284.149.450, A11.284.835.514
+cycloheximide: D03.383.621.808.240
+modeling: 
+p38 mitogen-activated protein kinases: D08.811.913.696.620.682.700.567.878, D08.811.913.696.620.682.700.646.750.843, D12.644.360.450.835, D12.776.476.450.835
+rogenic: 
+neuroblastoma: C04.557.465.625.600.590.650.550, C04.557.470.670.590.650.550, C04.557.580.625.600.590.650.550
+aneuploidy: C23.550.210.050, G05.365.590.175.050, G05.700.131
+culture media: D27.720.470.305, E07.206
+monocytes: A11.118.637.555.652, A11.148.580, A11.627.624, A11.733.547, A15.145.229.637.555.652, A15.378.316.580, A15.382.490.555.652, A15.382.680.547, A15.382.812.547
+recombinant proteins: D12.776.828
+membrane potentials: G01.154.535, G04.580, G07.265.750, G11.561.570
+sulfones: D02.886.590
+pharmacokinetic: 
+cell adhesion: G04.299.117
+nitric oxide synthase type ii: D08.811.682.664.500.772.500
+water purification: N06.850.780.200.800.800.900.900, N06.850.860.510.900.900
+kinase: 
+embryonic stem cells: A11.872.190
+interleukin-8: D12.644.276.374.200.120.800, D12.644.276.374.465.508, D12.776.467.374.200.120.800, D12.776.467.374.465.508, D23.125.300.120.800, D23.469.200.120.800, D23.529.374.200.120.800, D23.529.374.465.508
+primary: 
+patch-clamp techniques: E05.242.800
+cell cycle: G04.299.134
+emodin: D02.455.426.559.847.117.159.205.400, D02.806.100.205.400, D04.615.117.159.205.400
+sewage: D20.944.932.500
+cytotoxic: 
+bcl-2-associated x protein: D12.644.360.075.718.400, D12.776.476.075.718.400
+antineoplastic agents: D27.505.954.248
+cytochromes c: D08.244.286.100, D12.776.422.220.286.100
+computer simulation: L01.224.160
+caspases: D08.811.277.656.262.500.126, D08.811.277.656.300.200.126, D12.644.360.075.405, D12.776.476.075.405
+inflammation mediators: D23.469
+sertoli: 
+glucuronates: D02.241.081.844.915.162, D02.241.152.811.162, D02.241.511.902.915.162, D09.811.922.162
+hydroquinones: D02.455.426.559.389.657.393
+hamster: 
+tumor suppressor proteins: D12.776.624.776
+dental materials: D25.339, D27.720.102.339, J01.637.051.339
+promoter regions, genetic: G02.111.570.080.689.675, G05.360.080.689.675, G05.360.340.024.340.137.750.680
+membrane: 
+heat-shock proteins: D12.776.580.216
+protein kinase c: D08.811.913.696.620.682.700.725
+mitogen-activated protein kinases: D08.811.913.696.620.682.700.567, D08.811.913.696.620.682.700.646.750, D12.644.360.450, D12.776.476.450
+proto-oncogene proteins c-bcl-2: D12.644.360.075.718, D12.776.476.075.718, D12.776.624.664.700.169
+dna-binding proteins: D12.776.260
+extracts: 
+eukaryota: B01
+acetaldehyde: D02.047.064
+retardant: 
+endothelial: 
+butter: D10.212.302.199, J02.500.350.100, J02.500.375.200
+refuse disposal: N06.850.780.200.800.800.700, N06.850.860.510.900.600
+pituitary: 
+deet: D02.065.277.194, D02.241.223.100.100.230, D02.455.426.559.389.127.085.230
+target: 
+biological availability: G03.787.151, G07.690.725.129
+inhibition: 
+chromosomes: A11.284.187, A11.284.430.106.279.345.190, G05.360.162
+hsp70 heat-shock proteins: D12.776.580.216.375
+cell membrane permeability: G03.495.166.335, G04.175
+cytoplasm: A11.284.430.214
+mesencephalon: A08.186.211.132.659, A08.186.211.653
+materials testing: E05.570
+tumor necrosis factor-alpha: D12.644.276.374.500.800, D12.644.276.374.750.626, D12.644.276.972.626, D12.776.124.900, D12.776.395.930, D12.776.467.374.500.800, D12.776.467.374.750.626, D12.776.467.972.626, D23.529.374.500.800, D23.529.374.750.626, D23.529.972.626
+extraction: 
+cricetulus: B01.050.150.900.649.865.635.150.250
+stem: 
+tumor suppressor protein p53: D12.776.260.820, D12.776.624.776.775, D12.776.660.825, D12.776.744.845
+release: 
+carrier proteins: D12.776.157
+nutrition policy: I01.655.500.608.400.650, I01.880.604.825.608.400.650, N03.623.500.608.428.650
+epidermis: A10.272.497, A17.815.250
+binding: 
+lines: 
+dna repair: G02.111.087.219, G02.149.115.219, G05.355.195
+fluorescent dyes: D27.720.233.348, D27.720.470.330.348, D27.720.470.410.505.500
+nanomaterials: 
+leydig: 
+cell culture techniques: E01.370.225.500.223, E05.200.500.223, E05.240.249, E05.242.223
+keratinocytes: A11.436.397
+astrocytoma: C04.557.465.625.600.380.080, C04.557.470.670.380.080, C04.557.580.625.600.380.080
+cultured: 
+alveolar: 
+oxygen: D01.268.185.550, D01.362.670
+waste disposal, fluid: N06.850.780.200.800.800.890, N06.850.860.510.900.600.900, N06.850.860.510.900.800
+cell shape: G04.320
+saccharomyces cerevisiae: B01.300.107.795.785.800, B01.300.930.705.655
+assessed: 
+transcriptional activation: G05.355.315.800
+formation: 
+diffusion: G01.595.200, G02.149.767.560, G02.842.750.560
+cortical: 
+placental: 
+organ culture techniques: E05.240.484
+tetrazolium salts: D03.383.129.617.700
+comet assay: E05.196.401.153.150, E05.301.300.100.150, E05.393.560.150, E05.940.560.150
+mcf: 
+triazines: D03.383.931
+astrocytes: A08.637.200, A11.650.200
+reactive: 
+endothelial cells: A11.436.275
+thiazoles: D02.886.675, D03.383.129.708
+asbestos, crocidolite: D01.578.725.050.050.100, D01.837.725.700.760.070.050.090
+surface: 
+lymphocytes: A11.118.637.555.567, A15.145.229.637.555.567, A15.382.490.555.567
+liquid: 
+neurites: A08.663.256.500, A08.663.542.145.500, A11.284.180.610, A11.671.543
+solubility: G02.842.800
+tumor cells, cultured: A11.251.860
+hep g2 cells: A11.251.860.180.432, A11.436.348.500
+cell survival: G04.299.316
+anthraquinones: D02.455.426.559.847.117.159, D02.806.100, D04.615.117.159
+cytotoxicity: 
+fibroblasts: A11.329.228
+pc12 cells: A11.251.210.190.750, A11.251.860.180.750, A11.299.500
+granulosa cells: A05.360.319.114.630.535.200, A06.407.312.497.535.300, A11.382.812, A11.436.329
+bone resorption: C05.116.264, G11.427.590.195.150
+cell death: G04.299.139
+transfection: E05.393.350.810, G05.355.760.860
+gene expression regulation, neoplastic: G05.355.315.370
+type: 
+cell line, tumor: A11.251.210.190, A11.251.860.180
+models, biological: E05.599.395
+cerium: D01.268.477.249, D01.268.558.362.249, D01.552.550.399.249
+phosphorylation: G02.111.087.677, G02.149.115.677, G02.149.465.700, G02.607.750.700, G03.495.790
+food analysis: E05.362, J01.576.423.850.100
+mesothelial: 
+map kinase signaling system: G02.111.087.800.560, G02.149.115.800.560, G03.495.553.560, G04.299.880.560
+hypoxia-inducible factor 1, alpha subunit: D12.776.260.103.625.750, D12.776.930.125.625.750
+protein: 
+cell line: A11.251.210
+hela cells: A11.251.210.190.400, A11.251.860.180.400, A11.436.340
+line: 
+binding, competitive: E05.196.080, G02.111.087.090, G02.111.570.120.309, G02.149.115.090
+vitro: 
+enzyme activation: G02.111.087.245, G02.149.115.245, G03.495.368
+manganese compounds: D01.530
+respiratory mucosa: A04.760, A10.615.550.760

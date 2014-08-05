@@ -1,0 +1,9 @@
+Animals: B01.050
+Animal Structures: A13
+breeding: E05.820.150, G05.355.090
+animals, genetically modified: B05.620.136
+Mammary Glands, Animal: A10.336.482
+behavior, animal: F01.145.113
+embryo, nonmammalian: A16.331
+Animal Experimentation: E05.017
+Models, Animal: E05.598

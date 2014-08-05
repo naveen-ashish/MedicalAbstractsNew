@@ -1,0 +1,73 @@
+diacetyl:serosal
+ethylene dibromide:EDB
+glyphosate:MCPA
+vinclozolin:V
+epichlorohydrin:ECH
+lead:LTP
+tetrabromobisphenol a:TBBA
+ethyl acrylate:EtAc
+lanthanum:La
+propylparaben:pC
+maneb:PQ
+captan:Hydrophyllaceae
+cadmium:Cd
+decamethylcyclopentasiloxane:D5
+2 bromopropane:2BP
+aspartame:APM
+mercury:Hg
+methylene chloride:MeCl2
+nonylphenol:NP
+diethylene glycol monomethyl ether:diEGME
+styrene:PBMCs
+1 bromopropane:1999
+formaldehyde:HCHO
+2 dichlorobenzene:F344
+tetrafluoroethylene:TFE
+4 tert octylphenol:OP
+diisononyl phthalate:EE
+hexachlorobutadiene:HCBD
+methyl bromide:CH3Br
+bisphenol a:BPA
+atrazine:HEX
+mancozeb:adj
+butylbenzyl phthalate:BBP
+vinylidene chloride:VDC
+pentabromodiphenyl ether:14
+thimerosal:SK
+di n octyl phthalate:DNOP
+cobalt:alone
+aloe emodin:AE
+methyl tert butyl ether:MTBE
+tetrachloroethylene:TCE
+manganese:Mn
+2 ethylhexanol:DEHA
+4 dichlorobenzene:DCB
+octamethylcyclotetrasiloxane:D4
+carbon nanotubes:MWCNT
+tartrazine:5
+butylated hydroxyanisole:BHA
+n butoxyethanol:BE
+hexabromocyclododecane:HBCD
+diisobutyl phthalate:GD
+diisodecyl phthalate:DINP
+acrylamide:MNU
+triclosan:TCC
+benzoquinone:PrSH
+di n pentyl phthalate:DPP
+perfluorooctanoic acid:PFOA
+4 methylimidazole:4MI
+benzene:BZ
+methylparaben:MP
+dibutyl phthalate:DBP
+tributyltin:TBT
+piperonyl butoxide:PBO
+hexachlorobenzene:HCB
+methylmethacrylate:MMA
+ullerenes:60
+diethylhexyl phthalate:DEHP
+trichloroethylene:TCE
+perfluorooctane sulfonic acid:PFOS
+chlorpyrifos:Perrier
+dietary salt:DS
+dimethoate:insecticide
+sugar:HFS

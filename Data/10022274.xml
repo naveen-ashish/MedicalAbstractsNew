@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st May 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130501.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10022274</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2005</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0378-4274</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>102-103</Volume>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Dec</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Toxicology letters</Title>
+                <ISOAbbreviation>Toxicol. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Xenoendocrine disrupters: laboratory studies on male reproductive effects.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>331-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Wildlife from ecosystems contaminated with endocrine disrupting chemicals (EDCs) display a variety of reproductive alterations including cryptorchidism in the Florida panther, small baculum in young male otters, small penises in alligators, sex reversal in fish, and altered social behavior in birds. It has been proposed that EDCs also may have contributed to increases in testicular cancer and hypospadias and the reported decline in human sperm counts. Combined in vivo and in vitro studies are necessary to fully characterize EDC induced alterations of reproduction. We have identified several pesticides (vinclozolin, procymidone, p,p'-DDE) which bind rat and human androgen receptors, block androgen-induced gene expression in vitro and in vivo, delay puberty, reduce sex accessory gland size and alter sex differentiation in the male rat. Some of the phthalates, which are estrogenic in vitro but not in vivo, cause malformations in male rats that appear to result from antagonism of androgens in utero. In contrast, xenoestrogens affect male offspring but they are not malformed or infertile. Prenatal administration of an Ah receptor agonist (2,3,7,8-TCDD or PCB 169) produces a different spectrum of effects including reduced ejaculated sperm numbers in male rats.</AbstractText>
+            </Abstract>
+            <Affiliation>Reproductive Toxicology Division, NHEERL, US Environmental Protection Agency, Research Triangle Park, NC 27711, USA. gray.earl@epamail.epa.gov</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gray</LastName>
+                    <ForeName>L E</ForeName>
+                    <Initials>LE</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>NETHERLANDS</Country>
+            <MedlineTA>Toxicol Lett</MedlineTA>
+            <NlmUniqueID>7709027</NlmUniqueID>
+            <ISSNLinking>0378-4274</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Androgen Antagonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Androgens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Estrogens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pesticides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Aryl Hydrocarbon</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Androgen Antagonists</DescriptorName>
+                <QualifierName MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Androgens</DescriptorName>
+                <QualifierName MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Estrogens</DescriptorName>
+                <QualifierName MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fetus</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genitalia, Male</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pesticides</DescriptorName>
+                <QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Aryl Hydrocarbon</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sex Differentiation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spermatozoa</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>24</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>3</Hour>
+                <Minute>2</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>3</Month>
+                <Day>28</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>3</Hour>
+                <Minute>2</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10022274</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

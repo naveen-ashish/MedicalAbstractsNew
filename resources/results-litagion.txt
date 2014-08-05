@@ -1,0 +1,77 @@
+[106-89-8]_[epichlorohydrin]	chlorohydrin	epichlorohydrin	Epichlorohydrin
+[25013-16-5]_[butylated hydroxyanisole]	hydroxyanisole	hydroxytoluene	anisole	BHT	BHA	hydroxyanisol
+[7439-92-1]_[lead]	lead-in
+[7440-36-0]_[antimony]	antimony	Antimony
+[688-73-3]_[tributyltin]	Nucella	Dibutyltin	butyltin	organotin	biocide	triphenyltin	Organotin	dibutyltin	Imposex	Organotins	TBT	fouling	TPT	Butyltin	gastropods	Tributyltin	tri-n-butyl	Triphenyltin	tri-n-butyltin	monobutyltin	TBTCl	tributyltin	imposex	DBT	TBTC	TBTO	phenyltin	organotins
+[431-03-8]_[Diacetyl]	Bronchiolitis	flavoring	bronchiolitis
+[12427-38-2]_[maneb]	Maneb	MANEB	maneb
+[unknowncas]_[mold]	Mould	mycotoxin	trichothecene	chartarum	Aspergillus	spore	Mold	satratoxin	mould	mold	mycotoxins	Satratoxin	molds	Fungal	spores	fungal	Stachybotrys	Fusarium	Penicillium
+[1934-21-0]_[tartrazine]	tartrazine	Urticaria	Aspirin	Tartrazine	urticaria	aspirin
+[7439-97-6]_[mercury]	feathers	mercurial	Feathers	Tapping	methylmercury	mercury	feather	amalgam	MeHg	gCl2	ethylmercury	U-Hg	Amazon	Mercuric	dentist	Feather	Methylmercury	Mercury	Amalgam	HgCl	chloralkali	HgCL2	HgCl2	Hg0	Hg2	G0	GCL
+[131-57-7]_[oxybenzone]	dibenzoylmethane	Photoallergic	Benzophenones	sunscreen	photocontact	photosensitivity	oxybenzone	Oxybenzone	Sunscreen	Photopatch	photoallergy	photoallergic	Photoallergy	photopatch	Photocontact	methoxycinnamate	benzophenones
+[3380-34-5]_[triclosan]	Triclosan	triclosan
+[74-83-9]_[methyl bromide]	MeBr
+[1634-04-4]_[methyl tert-butyl ether]	tertiary-butyl	ETBE	MtBE	oxygenate	MTBE	ETB
+[7440-48-4]_[cobalt]	Cobalt	Hypoxia	hypoxia	loosening	prosthesis	prostheses	cobalt-chromium	carbide	wear	molybdenum	CoCl2	CoCl	Carbide	Tungsten	cobalt	diamond	HIF-1	BALT	osteolysis	Cobalt-chromium	tungsten	arthroplasty	knee	ventilatory
+[556-67-2]_[octamethylcyclotetrasiloxane]	octamethylcyclotetrasiloxane	Octamethylcyclotetrasiloxane
+[116-14-3]_[tetrafluoroethylene]	tetrafluoroethylene	Tetrafluoroethylene
+[unknownCAS]_[dietary salt]	stroke	Natriuresis	salt	Aldosterone	SHRs	NaCl	mineralocorticoid	high-sodium	renin	L-arginine	aldosterone	telemetry	meq	mEq	hypertension	hypertensive	Angiotensin	diuretic	low-salt	diuresis	SALT	Normotensive	Low-sodium	endothelin	natriuresis	Hypertension	SHRsp	occlusion	SHRSP	low-sodium	Stroke	hypertensives	pylori	mmHg	High-sodium	tensin	ALDO	angiotensin	Whites	hemodynamics	whites	aldo	LVH	Dahl	High-salt	MMHg	Helicobacter	nitroprusside	Salt	renin-angiotensin
+[unknowncas]_[aloe emodin]	aloe-emodin	anthraquinones	rhein	Aloe-emodin	hydroxyanthraquinone	anthraquinone	emodin	Rhein
+[18540-29-9]_[chromium hexavalent ion]	Chromium	chromate	Hexavalent	K2Cr2O7	chromium	2O7	K2Cr	trivalent	dichromate	platers	plater	electroplating	CrVI	Chromate	hexavalent
+[71-43-2]_[benzene]	leukemogen
+fullerenes	fullerene	Fullerene	fullerenes	Fullerenes	C60
+[12108-13-3]_[2-methylcyclopentadienyl manganese tricarbonyl]	tricarbonyl	methylcyclopentadienyl	Methylcyclopentadienyl	MMT
+[140-66-9]_[4-tert-octylphenol]	4-tert-octylphenol	tert-octylphenol	p-tert-octylphenol	4-tert-Octylphenol	tert-octyl	p-tert-Octylphenol
+[75-26-3]_[2-bromopropane]	2-BP	2-Bromopropane
+[unknowncas]_[carbon nanotubes]	SWCNTs	MWCNTs	MWCNT	MWC
+[14807-96-6]_[talc]	Perineal	Talc	talcum	talc
+[106-94-5]_[1-bromopropane]	1-BP	1-Bromopropane
+[104-76-7]_[2-ethylhexanol]	Ethylhexanol	2-Ethylhexanol	ethylhexanol
+[25637-99-4]_[hexabromocyclododecane]	HBCD	hexabromocyclododecane	Hexabromocyclododecane	gamma-HBCD	BCd	HbC
+[75-35-4]_[vinylidene chloride]	1,1-Dichloroethylene	1,1-DCE
+[133-06-2]_[captan]	Captan	captan
+[335-67-1]_[perfluorooctanoic acid]	fluoropolymers	APFO
+[8018-01-7]_[mancozeb]	MANCOZEB	Mancozeb	mancozeb
+[unknowncas]_[sugar]	hyperinsulinemia	Hyperinsulinemia	Sucrose	Fructose	fructose	hypertriglyceridemia	triglyceridemia	sucrose	Fru
+[84-74-2]_[dibutyl phthalate]	Mono-n-butyl	mono-n-butyl	DBP
+[unknowncas]_[nano_silver]	AgNP	AgNPs
+[50-00-0]_[formaldehyde]	HCHO	formaldehyde	Formaldehyde	nasopharyngeal
+[unknowncas]_[emf not rf]	High-voltage	electricity	EMFs	dementia	fields	Fields	magnet	60-Hz	Alzheimer	power-frequency	Nocturnal	Gauss	Low-frequency	Low-Frequency	low-frequency	50-Hz	occupations	ELF-EMF	Occupations	strengths	kV	KV
+[111-76-2]_[n-butoxyethanol]	Thrombosis	BAA	butoxyethanol	thrombosis	Hemolysis	2-Butoxyethanol	hemolysis	Baa
+[60-51-5]_[dimethoate]	Dimethoate	dimethoate
+[87-68-3]_[hexachlorobutadiene]	hexachlorobutadiene	HCBD	nephrotoxicants	nephrotoxicant	S-conjugate	Hexachlorobutadiene	butadienyl	S-conjugates
+[117-81-7]_[Diethylhexyl Phthalate]	DEHP
+[100-42-5]_[styrene]	Hearing	styrene-butadiene	Styrene	fiberglass	Cochlear	colliculus	Audiometry	cochlear	audiometry	cochlea	Fiberglas	styrene	hearing
+[UnknownCAS]_[nano_Titanium dioxide]	nano-TiO	rutile
+[111-77-3]_[diethylene glycol monomethyl ether]	diethylene	Diethylene
+[80-05-7]_[bisphenol a]	bisphenol	carbonate	pS2	Bisphenol	resins	polycarbonate	PS2	PA.	BPA
+[50471-44-8]_[vinclozolin]	Vinclozolin	vinclozolin
+nano_Cerium oxide	Cerium	cerium
+[7439-91-0]_[lanthanum]	lanthanum	Lanthanum
+[1071-83-6]_[glyphosate]	Glyphosate	Roundup	roundup	GLYP	glyphosate	DUP
+[127-18-4]_[tetrachloroethylene]	Perchloroethylene	perchloroethylene	cleaner	Tetrachloroethylene	laundry	cleaners	PCE	tetrachloroethylene
+[unknowncas]_[pyrethrins]	permethrin	pyrethroid	Permethrin	bifenthrin	Bifenthrin	Cypermethrin	cypermethrin
+[unknowncas]_[phone]	neuroma	telephones
+[79-01-6]_[trichloroethylene]	trichloroethylene	Trichloroethylene	TCE	Trichloroethanol	trichloroethanol	TCOH	degreasing
+[80-05-7]_[bisphenol A]	sealant	bisphenol-A	cartridge	containers	Bisphenol-A	sesame	E3
+[118-74-1]_[hexachlorobenzene]	Porphyria	Porphyrin	Uroporphyrin	porphyrins	hexachlorobenzene	cutanea	porphyrinogen	porphyrin	Uroporphyrinogen	porphyria	Hexachlorobenzene	uroporphyrinogen	uroporphyrin	Cutanea	HCB	Porphyrins
+[1912-24-9]_[atrazine]	Atrazine	Chlorotriazine	atrazine	s-triazine	chlorotriazine	Atrazin
+[95-50-1]_[2-dichlorobenzene]	1,2-Dichlorobenzene
+[106-46-7]_[4-dichlorobenzene]	1,4-DCB	monochlorobenzene	p-Dichlorobenzene	p-dichlorobenzene
+[79-06-1]_[Acrylamide]	rotarod	translocations	Rotarod
+[7439-96-5]_[manganese]	Manganism	manganism
+[UnknownCAS]_[nano_titanium dioxide]	TiO2
+[1163-19-5]_[decabromobiphenyl ether]	decabromodiphenyl	Decabromodiphenyl	BDE-209
+[1763-23-1]_[perfluorooctane sulfonic acid]	sulfonamide	PFSAs	sulfonates	perfluorooctane	Perfluorooctane
+[1563-66-2]_[carbofuran]	carbofuran	Carbofuran	BOF
+[unknowncas]_[nano_titanium dioxide]	Anatase	anatase
+[80-62-6]_[methylmethacrylate]	methylmethacrylate	methacrylate
+[32534-81-9]_[pentabromodiphenyl ether]	pentabromodiphenyl	PBDE-99	PBDE-47	PentaBDE	pentaBDE
+[54-64-8]_[thimerosal]	thimerosal	autism	vaccines	Vaccine	Thimerosal	thimerosal-containing	vaccine	vaccination
+[79-06-1]_[acrylamide]	neurofilament	Glycidamide	neurofilaments	glycidamide	neuropathies	acrylamide	PNS	axonopathy	Neurofilaments	Acrylamide
+[UnknownCAS]_[Carbon nanotubes]	Single-wall	mesothelia	single-wall	multiwall	Tube	multi-wall	SWCNT	tubes	tube	CNTs	nanotube	nanotubes	dipalmitoyl	CNT	WC
+[UnknownCAS]_[Pyrethrins]	cyhalothrin	Pyrethroids	fenvalerate	Fenvalerate	pyrethroids	Cyhalothrin	Deltamethrin	deltamethrin
+[2921-88-2]_[chlorpyrifos]	chlorpyrifos	Muscarinic	organophosphorus	Organophosphorus	O,O-diethyl	pyri	muscarinic	phosphorothionate	Chlorpyrifos	oxon	butyrylcholinesterase	butyryl	chlorpyrifos-oxon	GD17-20	paraoxon	GD17	CPO	CPF	trichloro-2-pyridyl	phosphorothioate
+[22839-47-0]_[aspartame]	Aspartame	phenylalanine	aspartame	sweetener	L-phenylalanine
+[7440-43-9]_[cadmium]	CdCl2	cadmium	fracture	osteoporosis	fractures	CdCl	Osteoporosis	CDC	Cadmium
+[79-94-7]_[tetrabromobisphenol a]	Tetrabromobisphenol	tetrabromobisphenol

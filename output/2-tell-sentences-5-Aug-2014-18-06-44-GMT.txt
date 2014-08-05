@@ -1,0 +1,8 @@
+2	6540744	[60-51-5]_[dimethoate]	reproductive	No evidence of potential genetic effects was obtained in a dominant lethal mutation assay|
+
+1	6335754	[131-57-7]_[oxybenzone]	integument	Sunscreen sensitivity appears to be more common than previously reported|
+
+1	12952141	[50-00-0]_[formaldehyde]	lung	Separate analyses for the second time period showed weaker association between these pollutants and the health outcome|This study provides further evidence for short term respiratory health effects of traffic related air pollution|
+
+1	1332651	[131-18-0]_[di-n-pentyl phthalate]	reproductive	We conclude that creatine is associated with the cells of the seminiferous epithelium, and that elevated urinary excretion of creatine may serve as a non invasive marker for damage to these cells in vivo|
+

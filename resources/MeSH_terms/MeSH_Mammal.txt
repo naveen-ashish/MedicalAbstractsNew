@@ -1,0 +1,250 @@
+Acinonyx
+Ailuridae
+Alouatta
+Alouattinae
+Antelopes
+Aotidae
+Aotus trivirgatus
+Armadillos
+Artiodactyla
+Arvicolinae
+Atelidae
+Atelinae
+Balaenoptera
+Beluga Whale
+Bison
+Bottle-Nosed Dolphin
+Bowhead Whale
+Buffaloes
+Callimico
+Callithrix
+Callitrichinae
+Camelids, New World
+Camels
+Canidae
+Carnivora
+Catarrhini
+Cats
+Cattle
+Cebidae
+Cebinae
+Cebus
+Cercocebus
+Cercocebus atys
+Cercopithecidae
+Cercopithecinae
+Cercopithecus
+Cercopithecus aethiops
+Cetacea
+Cheirogaleidae
+Chinchilla
+Chiroptera
+Colobinae
+Colobus
+Common Dolphins
+Coyotes
+Cricetinae
+Cricetulus
+Deer
+Didelphis
+Dipodomys
+Dogs
+Dolphins
+Dugong
+Echidna
+Elephants
+Equidae
+Erythrocebus
+Erythrocebus patas
+Eupleridae
+Felidae
+Felis
+Ferrets
+Fin Whale
+Foxes
+Fur Seals
+Galago
+Gerbillinae
+Goats
+Gophers
+Gorilla gorilla
+Guinea Pigs
+Haplorhini
+Hares
+Hedgehogs
+Herpestidae
+Hominidae
+Horses
+Humpback Whale
+Hyaenidae
+Hylobates
+Hylobatidae
+Hyraxes
+Insectivora
+Jackals
+Lagomorpha
+Lemur
+Lemuridae
+Leontopithecus
+Lions
+Lorisidae
+Lynx
+Macaca
+Macaca fascicularis
+Macaca mulatta
+Macaca nemestrina
+Macaca radiata
+Macropodidae
+Mammals
+Mammoths
+Mandrillus
+Marmota
+Marsupialia
+Mastodons
+Mephitidae
+Mesocricetus
+Mice
+Mice, 129 Strain
+Mice, Biozzi
+Mice, Congenic
+Mice, Hairless
+Mice, Inbred A
+Mice, Inbred AKR
+Mice, Inbred BALB C
+Mice, Inbred C3H
+Mice, Inbred C57BL
+Mice, Inbred CBA
+Mice, Inbred CFTR
+Mice, Inbred DBA
+Mice, Inbred ICR
+Mice, Inbred MRL lpr
+Mice, Inbred NOD
+Mice, Inbred NZB
+Mice, Inbred SENCAR
+Mice, Inbred Strains
+Mice, Inbred mdx
+Mice, Jimpy
+Mice, Knockout
+Mice, Mutant Strains
+Mice, Neurologic Mutants
+Mice, Nude
+Mice, Obese
+Mice, Quaking
+Mice, SCID
+Mice, Transgenic
+Mink
+Minke Whale
+Mole Rats
+Moles
+Monodelphis
+Monotremata
+Muntjacs
+Muridae
+Murinae
+Mustelidae
+Myoxidae
+Nandiniidae
+Neanderthals
+Octodon
+Opossums
+Otters
+Pan paniscus
+Pan troglodytes
+Panthera
+Papio
+Papio anubis
+Papio cynocephalus
+Papio hamadryas
+Papio papio
+Papio ursinus
+Perissodactyla
+Peromyscus
+Phalangeridae
+Phascolarctidae
+Phoca
+Phocoena
+Phodopus
+Pinnipedia
+Pitheciidae
+Platypus
+Platyrrhini
+Pongo
+Pongo abelii
+Pongo pygmaeus
+Porcupines
+Porpoises
+Potoroidae
+Primates
+Proboscidea Mammal
+Procyonidae
+Puma
+Rabbits
+Raccoon Dogs
+Raccoons
+Rats
+Rats, Brattleboro
+Rats, Gunn
+Rats, Hairless
+Rats, Inbred ACI
+Rats, Inbred BB
+Rats, Inbred BN
+Rats, Inbred BUF
+Rats, Inbred Dahl
+Rats, Inbred F344
+Rats, Inbred LEC
+Rats, Inbred Lew
+Rats, Inbred OLETF
+Rats, Inbred SHR
+Rats, Inbred Strains
+Rats, Inbred WF
+Rats, Inbred WKY
+Rats, Long-Evans
+Rats, Mutant Strains
+Rats, Nude
+Rats, Sprague-Dawley
+Rats, Transgenic
+Rats, Wistar
+Rats, Zucker
+Reindeer
+Rodentia
+Ruminants
+Rupicapra
+Saguinus
+Saimiri
+Saimirinae
+Scandentia
+Sciuridae
+Sea Lions
+Seals, Earless
+Sheep
+Sheep, Bighorn
+Sheep, Domestic
+Shrews
+Sigmodontinae
+Sirenia
+Sloths
+Spalax
+Sperm Whale
+Stenella
+Strepsirhini
+Sus scrofa
+Swine
+Swine, Miniature
+Tarsii
+Tarsiidae
+Theropithecus
+Tigers
+Trichechus
+Trichechus inunguis
+Trichechus manatus
+Trichosurus
+Tupaia
+Tupaiidae
+Ursidae
+Viverridae
+Walruses
+Whale, Killer
+Whales
+Whales, Pilot
+Wolves
+Xenarthra
