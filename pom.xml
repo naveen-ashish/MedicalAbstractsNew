@@ -89,7 +89,6 @@
 		<artifactId>slf4j-api</artifactId>
 		<version>1.7.5</version>
 	</dependency>
-	<dependencies>
 <dependency>
     <groupId>edu.stanford.nlp</groupId>
     <artifactId>stanford-corenlp</artifactId>
@@ -101,7 +100,6 @@
     <version>3.4</version>
     <classifier>models</classifier>
 </dependency>
-</dependencies>
 	<dependency>
 		<groupId>org.apache.xmlbeans</groupId>
 		<artifactId>xmlbeans</artifactId>
