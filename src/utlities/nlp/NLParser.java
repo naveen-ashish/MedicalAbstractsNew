@@ -16,7 +16,10 @@ import edu.stanford.nlp.trees.Tree;
 public class NLParser 
 
 {
-	private static LexicalizedParser lp = new LexicalizedParser("models/englishPCFG.ser.gz");
+	//private static LexicalizedParser lp = new LexicalizedParser("models/englishPCFG.ser.gz");
+	
+	private static LexicalizedParser lp;
+	
 	
 	private static Stack stkSuper = new Stack();
 	
@@ -46,9 +49,11 @@ public class NLParser
 		
 		 lp.setOptionFlags(new String[]{"-maxLength", "80", "-retainTmpSubcategories"});
 
-		    Tree parse = (Tree) lp.apply(sent);
+		  //  Tree parse = (Tree) lp.apply(sent);
 		    
-		    return parse.toString();
+		   // return parse.toString();
+		 
+		 return "";
 	}
 	
 	/*
@@ -56,22 +61,24 @@ public class NLParser
 	 * @return	String	with POS tags for sentence
 	 */
 	public static String tagText(String inputSentence){
-		
+		/*
 	    lp.setOptionFlags(new String[]{"-maxLength", "80", "-retainTmpSubcategories"});
 
-	    Tree parse = (Tree) lp.apply(inputSentence);
+	   // Tree parse = (Tree) lp.apply(inputSentence);
 	    
 	    stkSuper.clear();
 	    
 	    stkMaster.clear();
 	
-	    ArrayList<String> nounsList = chunkSentence(parse);
+	 //   ArrayList<String> nounsList = chunkSentence(parse);
 	    
 	    //printPhrases();
 	    
 	    String nounsChunckedSentence = chunkNouns(inputSentence, nounsList);
 	    
 	    return chunkRemaining(inputSentence, nounsList, nounsChunckedSentence);
+	    */
+		return "";
 	}
 
 	private static void printPhrases() {

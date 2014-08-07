@@ -5,7 +5,7 @@
  * @lastupdated: 07/08/2014
  */
 
-package utilities.mesh;
+package mesh;
 import java.util.*;
 
 public class MeSHTrees{
