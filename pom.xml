@@ -3,10 +3,10 @@
   <groupId>MedicalAbstracts2</groupId>
   <artifactId>MedicalAbstracts2</artifactId>
   <version>0.0.1</version>
+  <packaging>jar</packaging>
   <name>com.cognie.medicalabstracts</name>
   <description>medical-abstracts</description>
   <build>
-    <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
