@@ -5,13 +5,17 @@ import java.util.*;
 
 public class WriteResults{
 	
-	public static void writeTells(Integer tType, String pass, Vector vTells){
+	public static void writeTells(boolean mutexTells, Vector vTells){
 		
 		Date myDate = new Date();
 		
 		String mdt = myDate.toGMTString().replaceAll("[ :]","-");
+		
+		String tType="NoMutex";
+		
+		if (mutexTells) tType="YesMutex";
 				
-		String tfname="output/"+tType+"-tell-sentences-"+pass+"-"+mdt+".txt";
+		String tfname="output/"+tType+"-tell-sentences-"+mdt+".txt";
 		
 		System.out.println(">>>> "+tfname);
 		

@@ -81,6 +81,7 @@ public class TellSentenceGenerator {
 	//HashMap<String, ArrayList<String>> dictionaryMap = loadDataDictionary();
 	HashMap<String, ArrayList<String>> dictionaryMap ;
 	
+	private static boolean mutexTells=true;
 	
 	/*
 	 * @functionality main execution steps 
@@ -109,15 +110,15 @@ public class TellSentenceGenerator {
 		
 		replaceContentFirstPass(abstractMap, trainingInfoMap);
 		
-		System.out.println("------------------");
+		//System.out.println("------------------");
 		
-		System.out.println(abstractMap.size());
+		//System.out.println(abstractMap.size());
 		
-		replaceContentSecondPass(trainingInfoMap);
+		//replaceContentSecondPass(trainingInfoMap);
 		
 		//replaceContentThirdPass(trainingInfoMap);
 		
-		replaceContentFourthPass(trainingInfoMap);
+		//replaceContentFourthPass(trainingInfoMap);
 	}
 	
 	
@@ -139,11 +140,14 @@ public class TellSentenceGenerator {
 			
 			Iterator it = abstractMap.entrySet().iterator();
 			
-			//while ((it.hasNext()) ){
-		    while ((it.hasNext()) && (K<100)){
+			while ((it.hasNext()) ){
+		    //while ((it.hasNext()) && (K<100)){
+		    	
 		    	++K;
 		    	
 		    	boolean titleOnly=false;
+		    	
+		    	boolean hasConfound=false;
 		    	
 		        Map.Entry pairs = (Map.Entry)it.next();
 		    
@@ -152,7 +156,9 @@ public class TellSentenceGenerator {
 		        String id = pairs.getValue().toString().split("##")[0];
 		        
 		        String abstractText = pairs.getValue().toString().split("##")[1];
-		            
+		           
+		      
+		        
 		        //abstractText="Modulation of renal CNG-A3 sodium channel in rats subjected to low- and high-sodium diets.                 In this work, we studied the mRNA distribution of CNG-A3, an amiloride-sensitive sodium channel that belongs to the cyclic nucleotide-gated (CNG) family of channels, along the rat nephron. The possible involvement of aldosterone in this process was also studied. We also evaluated its expression in rats subjected to diets with different concentrations of sodium or to alterations in aldosterone plasma levels. Total RNA isolated from whole kidney and/or dissected nephron segments of Wistar rats subjected to low- and high-sodium diets, furosemide treatment, adrenalectomy, and adrenalectomy with replacement by aldosterone were analyzed by the use of Western blot, ribonuclease protection assay (RPA) and/or reverse transcription followed by semi-quantitative polymerase chain reaction (RT-PCR). CNG-A3 sodium channel mRNA and protein expression, in whole kidneys of rats subjected to high-Na+ diet, were lower than those in animals given a low-salt diet. Renal CNG-A3 mRNA expression was also decreased in adrenalectomized rats, and was normalized by aldosterone replacement. Moreover, a CNG-A3 mRNA expression study in different nephron segments revealed that aldosterone modulation is present in the cortical thick ascending loop (cTAL) and cortical collecting duct (CCD). This result suggests that CNG-A3 is responsive to the same hormone signaling as the amiloride sensitive sodium channel ENaC and suggests the CNG-A3 may have a physiological role in sodium reabsorption.";
 	        
 		        if(trainingInfoMap.containsKey(abstractID)){
@@ -175,17 +181,27 @@ public class TellSentenceGenerator {
 		        	
 		        	if (S==1) titleOnly=true;
 		        	
+		        	boolean[] tellDone = new boolean[S];
+		        	
+		        	for (int i=0; i <S; ++i) tellDone[i]=false;
+		        	
 		        	String origsent="";
 		        	
-		        	String str="";
+		        	String tellFirst="", tellSecond="", tellThird="", tellFourth="";
 		        	
 		        	//String litagionVariant = getVariant(litagion, sentences, S);
 		        	
 		        	String litagionVariant=getStoredVariant(litagion);
 		        	
+		        	if (hasOneConfoundingLitagion(litagion,abstractText,litagionSuperStringMap, litagionSynonymMap)) hasConfound=true;
+		        	
 		        	for (int i=0; i <S; ++i){
+		        		
+		        		boolean lastThree=false;
 		        	
 		        		String sent=sentences[i].trim();
+		        		
+		        		if (i>S-4) lastThree=true;
 		        		
 		        		//sent="In contrast to many other peroxisome proliferating agents, APFO did not possess hypolipidemic activity.";
 		        		//sent="However, a reduction in postnatal body weights was seen in offspring from mothers with pregestational exposure.";
@@ -233,19 +249,47 @@ public class TellSentenceGenerator {
 			        	
 			        	//System.exit(1);
 			        	
-			        	if (isTellSentence(tType,sent,i,S)){
-			        	//if (isTellSentence(sent)){
+			        	if (isTellSentenceFirstPass(sent,i,S)){
+			        	
+			        		tellFirst=tellFirst+origsent+"|";
 			        		
-			        		//origsent = replaceHarmClass(harmClass, origsent, harmMap);
-				        	
-				        	//origsent = replaceLitagion(litagion, origsent, litagionSuperStringMap, litagionSynonymMap);
-				        	
-				        	//origsent = replaceDictionaryTerm(origsent, dictionaryMap);
-				        				        	
-			        		//if (litagionVariant.length()>1) origsent = origsent.replaceAll("[^a-zA-Z0-9]"+litagionVariant.toLowerCase()+"[^a-zA-Z0-9]","SPEC_LITAGION");
-				        		        		
-				        	str=str+origsent+"|";
-			        	} 
+			        		tellDone[i]=true;
+			        	}
+			        	
+			        	if ((!mutexTells) || (!tellDone[i])){
+			        	
+				        	if (hasConfound) {
+				        		
+				        		if (isTellSentenceSecondPass(sent,i,S)){
+					        	
+				        			tellSecond=tellSecond+origsent+"|";
+				        			
+				        			tellDone[i]=true;
+				        		}
+				        	}
+			        	}
+			        	
+			        	if (lastThree){
+			        		
+			        		if ((!mutexTells) || (!tellDone[i])){
+			        		
+			        			if (isTellSentenceThirdPass(sent,S)){
+				        		
+			        				tellThird=tellThird+origsent+"|";
+			        				
+			        				tellDone[i]=true;
+			        			}
+			        		}
+			        		
+			        		if ((!mutexTells) || (!tellDone[i])){
+				        		
+			        			if (isTellSentenceFourthPass(sent,i,S)){
+			        			
+			        				tellFourth=tellFourth+origsent+"|";
+			        			}
+			        		}
+			        	}
+			        	
 			        	
 			        	//System.out.println(sent); System.exit(1);
 		        	}
@@ -260,7 +304,7 @@ public class TellSentenceGenerator {
 		        	
 		        		++CA;
 			          
-		        		if (str.length()<2)  {
+		        		if (tellFirst.length()<2)  {
 		        			
 		        			String directionality=hmDir.get(abstractID+litagion+harmClass).toString();
 		        			//System.out.println("No tells: "+abstractID+" : "+abstractText);
@@ -273,7 +317,7 @@ public class TellSentenceGenerator {
 		        			
 		        			if (directionality.equals("1")|| directionality.equals("2")) {
 		        				
-		        				vvRes.add(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+str+"\n");
+		        				vvRes.add(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+tellFirst+"\n");
 		        				
 		        			}
 				        	
@@ -284,7 +328,9 @@ public class TellSentenceGenerator {
 			        			
 			        		if (directionality.equals("1")|| directionality.equals("2")) {
 			        			
-			        			vvRes.add(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+str+"\n");
+			        			//vvRes.add(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+tellFirst+"\n");
+  			
+			        			vvRes.add(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+"\nFirstpass: "+tellFirst+"\n"+"\nSecondpass: "+tellSecond+"\n"+"\nThirdpass: "+tellThird+"\n"+"\nFourthpass: "+tellFourth+"\n");
 		        				
 			        			//System.out.println(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+str+"\n");
 		        				
@@ -303,7 +349,7 @@ public class TellSentenceGenerator {
 		        }
 		    }
 		 
-		    io.WriteResults.writeTells(tType, "First", vvRes);
+		    io.WriteResults.writeTells(mutexTells, vvRes);
 		    
 			 System.out.println("Done !!\nTell Sentences generated and placed in <project folder>/<type>-tell-sentences-<datestamp>.txt");
 		   
@@ -432,7 +478,7 @@ public class TellSentenceGenerator {
 			        	
 			        	//System.exit(1);
 			        	
-			        	if (isTellSentenceSecondPass(tType,sent,i,S)){
+			        	if (isTellSentenceSecondPass(sent,i,S)){
 			        	//if (isTellSentence(sent)){
 			        		
 			        		//origsent = replaceHarmClass(harmClass, origsent, harmMap);
@@ -489,7 +535,7 @@ public class TellSentenceGenerator {
 		        }
 		    }
 
-			  io.WriteResults.writeTells(tType, "Second", vvRes);
+			 // io.WriteResults.writeTells(tType, "Second", vvRes);
 			   
 			 System.out.println("Done !!\nTell Sentences generated and placed in <project folder>/<type>-tell-sentences-<datestamp>.txt");
 		   
@@ -608,12 +654,11 @@ public class TellSentenceGenerator {
 			        	
 
 			        	
-			        	if (isTellSentenceThirdPass(tType,sent,S)){
+			        	if (isTellSentenceThirdPass(sent,S)){
 			             		
 				        	str=str+origsent+"|";
 			        	} 
 
-		        	
 		            String features=new SentenceTypeClassifier().getNewFeatures(sentencesList);
 		        		
 		        	litagion=origlitagion;
@@ -652,7 +697,7 @@ public class TellSentenceGenerator {
 		        }
 		    }
 		   
-			 io.WriteResults.writeTells(tType, "Third", vvRes);		   
+			 //io.WriteResults.writeTells(tType, "Third", vvRes);		   
 			  
 			 System.out.println("Done !!\nTell Sentences generated and placed in <project folder>/<type>-tell-sentences-<datestamp>.txt");
 		   
@@ -768,7 +813,7 @@ public class TellSentenceGenerator {
 			        	}
 			        	
 			        	
-			        	if (isTellSentenceFourthPass(tType,sent,S)){
+			        	if (isTellSentenceFourthPass(sent,i,S)){
 	        		
 				        	str=str+origsent+"|";
 			        	} 
@@ -815,7 +860,7 @@ public class TellSentenceGenerator {
 		        }
 		    }
 			  
-			 io.WriteResults.writeTells(tType, "Fourth", vvRes);
+			// io.WriteResults.writeTells(tType, "Fourth", vvRes);
 			   
 
 			 System.out.println("Done !!\nTell Sentences generated and placed in <project folder>/<type>-tell-sentences-<datestamp>.txt");
@@ -1072,19 +1117,23 @@ public class TellSentenceGenerator {
 				
 			list.add(litagion);
 			
+			boolean litPresent=false;
+			
 			for(String synonym : list){
 				
 				if (synonym.length()>5){
-				if(abstractText.contains(synonym)){
-					//System.out.println(synonym);
-					++K;
 					
+					if(abstractText.contains(synonym)){
+						//System.out.println(synonym);
+						litPresent=true;
+						
+					}			
 				}
-				}
-				
-				if (K>1) break;
 			}
 
+			if (litPresent) ++K;
+			
+			if (K>1) break;
 		}
 		
 		//partialMatch(abstractText,litagion);
@@ -1107,30 +1156,23 @@ public class TellSentenceGenerator {
 		
 			list.add(litagion);
 			
+			boolean litPresent=false;
+			
 			for(String synonym : list){
 				
 				if (synonym.length()>5){
 				
-					if(abstractText.contains(synonym)){
-					
-					//System.out.println(synonym);
-					++K;
-
+					if(abstractText.contains(synonym)) litPresent=true;
 				}
-				}
-				if (K>1) break;
+				
 			}
+			
+			if (litPresent) ++K;
 
-			if (K>1) break;
-		
+			if (K>1) break;		
 		}
 		
-		if (K==1) {
-			
-			//System.out.println("true");
-			
-			return true;
-		}
+		if (K==1) return true; 
 		
 		return false;
 	}
@@ -1287,78 +1329,18 @@ public class TellSentenceGenerator {
 	 * @param	S	is the number of sentences in the abstract
 	 * @return	boolean	is this a tell sentence (true/false)
 	 */
-	private static boolean isTellSentence(int type, String sent, int i, int S){
+	private static boolean isTellSentenceFirstPass(String sent, int i, int S){
 		
 		boolean cr1=false, cr2=false,cr3=false;
 		
-		switch (type){
+		if (sent.indexOf("IS_ACTION")>-1) cr2=true;
 		
-		case 1: if (sent.indexOf("IS_ARTICLE")>-1) cr1=true;
-			
-				if (sent.indexOf("IS_ACTION")>-1) cr2=true;
-				
-				if (sent.indexOf("IS_IND")>-1) cr2=true;
-				
-				if (sent.indexOf("_LIT")>-1) cr3=true;
-				
-				if (cr1 && cr2 && cr3)System.out.println("CASE 1  !! "+ sent);
+		if (sent.indexOf("IS_IND")>-1) cr3=true;
 		
-				return (cr1 && cr2 && cr3);
-				
-		case 2: if (sent.indexOf("IS_ACTION")>-1) cr2=true;
-		
-				if (sent.indexOf("IS_IND")>-1) cr2=true;
-		
-				if (sent.indexOf("_LIT")>-1) cr3=true;
+		if (sent.indexOf("_LIT")>-1) cr3=true;
 	
-				return (cr2 && cr3);	
-				
-		case 3: if (sent.indexOf("IS_ACTION")>-1) cr2=true;
+		return (cr2 && cr3);	
 		
-				if (sent.indexOf("IS_IND")>-1) cr2=true;
-
-				if (((float)(i)/(float)(S))>.74) cr3=true;
-				
-				if (S==3) if (i==2) cr3=true;
-				
-				if (S<12) if (i>8) {
-									
-					cr3=true;
-				}
-				
-				if (cr2 && cr3)System.out.println("CASE 3  !! "+i+"  "+S+"  "+ sent);
-
-				return (cr2 && cr3);
-				
-		case 4: if (sent.indexOf("SPEC_LIT")>-1) cr1=true;
-		
-				if (sent.indexOf("SPEC_HARM")>-1) cr2=true;
-					
-				if (((float)(i)/(float)(S))>0.70) cr3=true;
-				
-				if (S==3) if (i==2) cr3=true;
-				
-				return (cr1 && cr2 && cr3);
-				
-		case 5: 
-				if (sent.indexOf("IS_ACTION")>-1) cr2=true;
-		
-				if (sent.indexOf("IS_IND")>-1) cr2=true;
-		
-				if (sent.indexOf("_LIT")>-1) cr3=true;
-				
-				if (sent.indexOf("IS_ARTICLE_PHRASE")>-1) cr3=true;
-		
-				//if (cr2 && cr3)System.out.println("CASE *  !! "+ sent);
-
-				return (cr2 && cr3);		
-		
-		case 7: 
-				if (sent.indexOf("_NEG")>-1) cr1=true;
-				
-				return (cr1);		
-		}
-		return false;
 	}
 	
 	
@@ -1370,35 +1352,16 @@ public class TellSentenceGenerator {
 	 * @param	S	is the number of sentences in the abstract
 	 * @return	boolean	is this a tell sentence (true/false)
 	 */
-	private static boolean isTellSentenceSecondPass(int type, String sent, int i, int S){
+	private static boolean isTellSentenceSecondPass(String sent, int i, int S){
 		
 		boolean cr1=false, cr2=false,cr3=false;
 		
-		switch (type){
+		if (sent.indexOf("IS_ACTION")>-1) cr2=true;
 		
-		case 1: if (sent.indexOf("IS_ARTICLE")>-1) cr1=true;
-			
-				if (sent.indexOf("IS_ACTION")>-1) cr2=true;
-				
-				if (sent.indexOf("IS_IND")>-1) cr2=true;
-				
-				if (sent.indexOf("_LIT")>-1) cr3=true;
-				
-				if (cr1 && cr2 && cr3)System.out.println("CASE 1  !! "+ sent);
-		
-				return (cr1 && cr2 && cr3);
-				
-		case 2: if (sent.indexOf("IS_ACTION")>-1) cr2=true;
-		
-				if (sent.indexOf("IS_IND")>-1) cr2=true;
-		
-				//if (sent.indexOf("_LIT")>-1) cr3=true;
-	
-				return (cr2);	
-				
-		
-		}
-		return false;
+		if (sent.indexOf("IS_IND")>-1) cr2=true;
+
+		return (cr2);	
+
 	}
 	
 	
@@ -1410,47 +1373,15 @@ public class TellSentenceGenerator {
 	 * @param	S	is the number of sentences in the abstract
 	 * @return	boolean	is this a tell sentence (true/false)
 	 */
-	private static boolean isTellSentenceThirdPass(int type, String sent, int S){
+	private static boolean isTellSentenceThirdPass(String sent, int S){
 		
 		boolean cr1=false, cr2=false,cr3=false;
+				
+		if (sent.indexOf("IS_ACTION")>-1) cr2=true;
 		
-		switch (type){
-		
-		case 1: if (sent.indexOf("IS_ARTICLE")>-1) cr1=true;
-			
-				if (sent.indexOf("IS_ACTION")>-1) cr2=true;
-				
-				if (sent.indexOf("IS_IND")>-1) cr2=true;
-				
-				if (sent.indexOf("_LIT")>-1) cr3=true;
-				
-				if (cr1 && cr2 && cr3)System.out.println("CASE 1  !! "+ sent);
-		
-				return (cr1 && cr2 && cr3);
-				
-		case 2: //if (sent.indexOf("IS_ACTION")>-1) cr2=true;
-		
-				//if (sent.indexOf("IS_IND")>-1) cr2=true;
-		
-				if (sent.contains("risk")) cr2 = true;
-				
-				if (sent.contains("toxic")) cr2 = true;
-				
-				if (sent.contains("damag")) cr2 = true;
-				
-				if (sent.contains("expose")) cr2 = true;
-				
-				if (sent.contains("injur")) cr2 = true;
-			
-				if (sent.contains("mortality")) cr2 = true;
-				
-				if (sent.indexOf("SPEC_LIT")>-1) cr3=true;
-	
-				return (cr2 && cr3);	
-				
-		
-		}
-		return false;
+		if (sent.indexOf("IS_IND")>-1) cr2=true;
+
+		return (cr2);		
 	}
 	
 	
@@ -1462,32 +1393,12 @@ public class TellSentenceGenerator {
 	 * @param	S	is the number of sentences in the abstract
 	 * @return	boolean	is this a tell sentence (true/false)
 	 */
-	private static boolean isTellSentenceFourthPass(int type, String sent, int S){
+	private static boolean isTellSentenceFourthPass(String sent, int i,int S){
 		
 		boolean cr1=false, cr2=false,cr3=false;
 		
-		switch (type){
-		
-		case 1: if (sent.indexOf("IS_ARTICLE")>-1) cr1=true;
-			
-				if (sent.indexOf("IS_ACTION")>-1) cr2=true;
-				
-				if (sent.indexOf("IS_IND")>-1) cr2=true;
-				
-				if (sent.indexOf("_LIT")>-1) cr3=true;
-				
-				if (cr1 && cr2 && cr3)System.out.println("CASE 1  !! "+ sent);
-		
-				return (cr1 && cr2 && cr3);
-				
-		case 2: 
-		
-				if (sent.indexOf("IS_IND")>-1) cr2=true;
-	
-				return (cr2);	
-				
-		
-		}
+		if (S<7) if (i>S-3) return true;
+
 		return false;
 	}
 	

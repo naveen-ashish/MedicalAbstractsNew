@@ -1,0 +1,752 @@
+1	19540565	[18540-29-9]_[chromium hexavalent ion]	any_congenital	
+Firstpass: Furthermore, the chromium salt caused significant growth retardation at 25 microM exposure concentrations|This work further supports the hypothesis that Cr contamination of surface waters could contribute to explain the reported worldwide depletion of frog population|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+2	8349198	[74-83-9]_[methyl bromide]	reproductive	
+Firstpass: It was concluded that residues of 200 and 500 ppm total bromine in diets fumigated with methyl bromide are the no observed effect level and the minimum toxic level, respectively, for both parental rats and their offspring, and that bromine residues do not affect reproductive performance at dietary levels of up to 500 ppm|
+
+Secondpass: Compared with controls, food consumption was significantly lower in F1 parental females of the 500 ppm group during the second half of the dosing period, and F2 female pups of the 500 ppm group showed lower body weights throughout the lactation period|No other treatment related changes were found at any dietary level of total bromine in either parental animals (F0, F1) or their offspring (F1, F2) for any of the parameters studied (i|
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	19781568	[unknowncas]_[nano_silver]	neuro	
+Firstpass: However, the broad application of nanomaterials has also produced concern for nanoparticle toxicity due to increased exposure from large scale industry production|Selective genes associated with the dopaminergic system were investigated for expression changes and their correlation with dopamine depletion|These data suggest that Mn and Cu nanoparticles induced dopaminergic neurotoxicity may share some common mechanisms associated with neurodegeneration|
+
+Secondpass: 
+
+Thirdpass: Mn 40 also induced a down regulation of the expression of Park2|
+
+Fourthpass: 
+
+1	22101008	[80-05-7]_[bisphenol A]	any_congenital	
+Firstpass: Neonatal Bisphenol A exposure alters sexually dimorphic gene expression in the postnatal rat hypothalamus|Developmental exposure to Bisphenol A (BPA), a component of polycarbonate and epoxy resins, has been purported to adversely impact reproductive function in female rodents|
+
+Secondpass: 
+
+Thirdpass: Additionally, the discordant effects of EB and BPA indicate that BPA likely disrupts hypothalamic organization by a mechanism other than simply acting as an estrogen mimic|
+
+Fourthpass: 
+
+1	11331657	[80-05-7]_[bisphenol a]	breast	
+Firstpass: We have compared the oestrogenic potency of the synthetic oestrogen Zeranol, used as a growth promoter in meat production, and five related compounds, with the potency of 17beta oestradiol, diethylstilboestrol (DES), genistein, and Bisphenol A|
+
+Secondpass: 
+
+Thirdpass: The very high potency of Zeranol compared with other potential endocrine disrupters suggests that Zeranol intake from beef products could have greater impact on consumers than the amounts of the known or suspected endocrine disrupters that have been found in food|
+
+Fourthpass: 
+
+2	10188200	[1912-24-9]_[atrazine]	any_congenital	
+Firstpass: Neither atrazine nor 2,4 D had this effect|A previous study found that male alligators exposed to 14 ppm atrazine had elevated gonadal aromatase activity, but there was no difference in sex cord diameter in this or any other treatment group|Additionally, we observed that hepatic aromatase activity was not altered by in ovo exposure to any of the treatments|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	15534506	[7440-43-9]_[cadmium]	renal	
+Firstpass: Biologic markers of oxidative stress and nephrotoxicity as studied in biomonitoring of adverse effects of occupational exposure to lead and cadmium|In this work, we studied impregnation levels of workers occupationally exposed to lead (Pb) and cadmium (Cd), usefulness of early urinary markers of nephrotoxicity, and occurrence of oxidative stress as the underlying mechanism involved in Pb  or Cd induced adverse effects|Changes in malondialdehyde, glutathione status, 8 hydroxy 2' deoxyguanosine, and alpha glutathione S transferases were closely correlated with exposure levels and did not depend on tobacco consumption|Taken together, the data suggests the use of alpha glutathione S transferases excretion in urine as a hallmark of early changes in the proximal tubular integrity that could later lead to clinical disease if exposure is not reduced|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	2977116	[7440-43-9]_[cadmium]	renal	
+Firstpass: Effects of cadmium ingestion on blood pressure and ventricular mass in rabbits|Ingestion of cadmium (Cd) acetate in deionized drinking water (1 ppm) in rabbits resulted in the development of hypertension and increased left ventricular mass similar to what was observed in experimental renal hypertension (Grollman technique)|The increased mass of hearts and kidneys that was detected after an approximately 1 month period attests to the severity of these forms of experimental hypertension|These results demonstrate that the ingestion of drinking water contaminated with Cd can cause hypertension and an increase in left ventricular mass over a short time period in rabbits|
+
+Secondpass: 
+
+Thirdpass: However, only an increase in renal mass was observed in unilaterally nephrectomized animals|
+
+Fourthpass: 
+
+1	10462358	[1071-83-6]_[glyphosate]	gastrointestinal	
+Firstpass: Clinical impact of upper gastrointestinal tract injuries in glyphosate surfactant oral intoxication|The upper gastrointestinal tract injuries caused by glyphosate surfactant were minor in comparison with those by other strong acids|The WBC count, amount of glyphosate surfactant ingested, length of hospital stay and the occurrence of serious complications increased markedly in the group which had grade 2 esophageal injuries|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	15579410	[2921-88-2]_[chlorpyrifos]	reproductive	
+Firstpass: Studies of laboratory animals, in addition to limited human data, show an association between carbaryl exposure and decreased semen quality|In the present study we explored whether environmental exposures to 1 naphthol (1N), a metabolite of carbaryl and naphthalene, and 3,5,6 trichloro 2 pyridinol (TCPY), a metabolite of chlorpyrifos and chlorpyrifos methyl, are associated with decreased semen quality in humans|The observed associations between altered semen quality and 1N are consistent with previous studies of carbaryl exposure, although suggestive associations with TCPY are difficult to interpret because human and animal data are currently limited|
+
+Secondpass: 
+
+Thirdpass: The sperm motion parameter most strongly associated with 1N was straight line velocity|There were suggestive, borderline significant associations for TCPY with sperm concentration and motility, whereas sperm morphology was weakly and nonsignificantly associated with both TCPY and 1N|
+
+Fourthpass: 
+
+1	9654264	[7440-36-0]_[antimony]	heart_other	
+
+1	1642786	[7440-43-9]_[cadmium]	renal	
+Firstpass: A judgment of attribution of increase in urine beta 2 microglobulin after environmental cadmium exposure|This study suggests that after the stratification of the degrees of renal tubular injury according to the fractional beta 2 m excretion (FE beta 2 m) and coordination of clinical examination, FE beta 2 m could contribute to identifying renal tubular dysfunction due to Cd exposure and kidney lesion when both Cd exposure and original nephropathy exist|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: Of the 433 exposed persons, 74 cases with both urine Cd and beta 2 m exceeding the limit were matched by the control|
+
+1	19726707	[unknownCAS]_[dietary salt]	renal	
+Firstpass: High NaCl (6%, 1 wk) increased blood pressure (approximately 30%) in C57Bl/6J but not in SJL/J mice and urinary dopamine to greater extent in SJL/J than in C57Bl/6J mice|Absolute and fractional sodium excretions were lower in SJL/J than in C57Bl/6J mice|Renal expressions of D(1) like (D(1)R and D(5)R) and angiotensin II AT(1) receptors were similar on normal salt, but high salt increased D(5)R only in C57Bl/6J|GRK4 expression was lower on normal but higher on high salt in C57Bl/6J than in SJL/J mice|Salt increased the excretion of microalbumin and 8 isoprostane (oxidative stress marker) and the degree of renal injury to a greater extent in SJL/J than in C57Bl/6J mice|A D(1) like receptor agonist increased sodium excretion whereas a D(1) like receptor antagonist decreased sodium excretion in SJL/J but not in C57Bl/6J mice|These results show that defective D(1) like receptor function is a major cause of salt sensitivity in C57Bl/6J mice, decreased renal dopamine production might also contribute|
+
+Secondpass: 
+
+Thirdpass: In contrast, parathyroid hormone had a similar natriuretic effect in both strains|The relative resistance to renal injury of C57Bl/6J may be a consequence of decreased production of reactive oxygen species|
+
+Fourthpass: 
+
+1	10889517	[111-76-2]_[n-butoxyethanol]	hematologic	
+Firstpass: Recent studies have shown that female rats treated with BE exhibit a variety of histopathologic lesions that are absent in males and many of these lesions are attributed to the hemolytic effects of BE|These effects were also associated with a significant increase in the spleen weight to body weight ratio|In conclusion, these data suggest that female rats are more sensitive to hemolysis and morphological alterations of erythrocytes induced by BE during the first 24 h after exposure compared to males|It is likely that the greater sensitivity of female rats to BE effects on RBCs may account for the reported development of thrombosis and tissue infarction in female rats|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+2	6835254	[1912-24-9]_[atrazine]	reproductive	
+
+1	22197512	[1763-23-1]_[perfluorooctane sulfonic acid]	reproductive	
+Firstpass: The Italian project PREVIENI, funded by the Italian Environment Ministry, aims to link environment and human health through the investigation of selected endocrine disrupters (EDs) exposure and associated biomarkers related to human infertility conditions|In the early PREVIENI phase, PFOS and PFOA were determined in 53 couples affected by an infertility status, enrolled in a metropolitan area, according to established inclusion criteria and informed consensus|Our preliminary results related to the metropolitan area indicate that subjects affected by infertility factors tend to have both higher PFOS levels and higher gene expression of specific nuclear receptors|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+2	12712450	[79-06-1]_[Acrylamide]	breast	
+
+1	12952141	[50-00-0]_[formaldehyde]	lung	
+Firstpass: The results showed that benzene was the pollutant having the strongest association with respiratory diseases for the total study period, the relative risk of an interquartile increase of benzene was 1|This study provides further evidence for short term respiratory health effects of traffic related air pollution|
+
+Secondpass: 
+
+Thirdpass: Separate analyses for the second time period showed weaker association between these pollutants and the health outcome|
+
+Fourthpass: 
+
+1	17068093	[7439-97-6]_[mercury]	renal	
+Firstpass: Exposure to airborne mercury has been highlighted as a possible cause, although there is also concomitant exposure to solvents and other heavy metals in this population|These findings suggest that exposure to mercury is a possible cause of the excess kidney disease mortality in this population, indicating that there might still be a health legacy of the historically high levels of industrial activity in the Runcorn area|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	22242629	[32534-81-9]_[pentabromodiphenyl ether]	reproductive	
+Firstpass: A 2 fold increase in P4 secretion after 24 hours and no effect after 48 hours of exposure were observed|In conclusion, the present findings provide evidence that despite the initial stimulatory effect of PBDEs on the secretion of progesterone (due to the fact that the biochemical apparatus responsible for the conversion of cholesterol into pregnenolone remains uninterrupted)|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+2	11453297	[111-77-3]_[diethylene glycol monomethyl ether]	liver	
+Firstpass: Alternatives to glycol ethers, such as diethylene glycol monomethyl ether (M DE), were investigated for use as jet fuel system ice inhibiting agents (FSIIs)|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	14964646	[7439-92-1]_[lead]	reproductive	
+Firstpass: Adverse reproductive effects in female workers of lead battery plants|
+
+Secondpass: 
+
+Thirdpass: The incidence of spontaneous abortions was reported by 6 exposed female workers whereas it was not observed in the control group (p = 0|
+
+Fourthpass: 
+
+1	22615169	[7440-48-4]_[Cobalt]	bonejoint	
+
+1	23603811	[74-83-9]_[methyl bromide]	reproductive	
+Firstpass: Little is known about the effects of methyl bromide exposure during pregnancy|Participants were from the CHAMACOS (Center for the Health Assessment of Mothers and Children of Salinas) study (n = 442), a longitudinal cohort study examining the health effects of environmental exposures on pregnant women and their children in an agricultural community in northern California|
+
+Secondpass: 
+
+Thirdpass: These outcomes were also associated with moderate methyl bromide use during the second trimester|Residential proximity to methyl bromide use during the second trimester was associated with markers of restricted fetal growth in our study|
+
+Fourthpass: 
+
+1	21796124	[unknowncas]_[Sugar]	vascular	
+Firstpass: Hyperinsulinemia induces hypertension associated with neurogenic vascular dysfunction resulting from abnormal perivascular innervations in rat mesenteric resistance arteries|We previously reported that chronic hyperinsulinemia and insulin resistance induced by fructose drinking loading elicited hypertension associated with abnormal neuronal regulation of vascular tone in an in vivo study using pithed rats|Therefore, to further clarify the detailed mechanisms of perivascular nervous system malfunction induced by chronic hyperinsulinemia, we investigated the neurogenic vascular responses and distribution of perivascular nerves using mesenteric vascular beds isolated from fructose loaded rats with hyperinsulinemia|Male Wistar rats (6 weeks old) received 15% fructose solution as drinking fluid for 10 weeks (fructose drinking rats, FDR), which resulted in significant increases in plasma levels of insulin, the glucose insulin index, blood norepinephrine (NE) levels and systolic blood pressure, but not blood glucose levels, when compared with normal water drinking rats (control rats)|
+
+Secondpass: 
+
+Thirdpass: Immunohistochemistry studies showed increased density of neuropeptide Y immunopositive adrenergic fibers and reduced density of CGRP immunopositive fibers in mesenteric arteries of FDR|Furthermore, FDR showed decreased CGRP content in dorsal root ganglia|These findings suggest that dysfunction of the neuronal vascular control system resulting from abnormal innervation of mesenteric perivascular nerves induced by the hyperinsulinemic state is responsible for the development of hypertension in FDR|
+
+Fourthpass: 
+
+1	17602817	[22839-47-0]_[aspartame]	neuro	
+Firstpass: L Cysteine and glutathione restore the reduction of rat hippocampal Na+, K+ ATPase activity induced by aspartame metabolites|
+
+Secondpass: 
+
+Thirdpass: Addition of l cysteine (cys) or reduced glutathione (GSH) in ASP mixtures, related with high/toxic doses of the sweetener, completely or partially restored the inactivated membrane Na(+),K(+) ATPase, whereas the activated pure enzyme activity returned to normal|CSF concentrations of ASP metabolites related to common, abuse/toxic doses of the additive significantly reduced rat hippocampal Na(+),K(+) ATPase activity, whereas pure enzyme was activated|
+
+Fourthpass: 
+
+1	14736997	[50471-44-8]_[vinclozolin]	any_congenital	
+Firstpass: Interactive effects of vinclozolin and testosterone propionate on pregnancy and sexual differentiation of the male and female SD rat|Administration of testosterone during this period alters female development in a male like direction, whereas exposure to an androgen receptor antagonist like vinclozolin (V) demasculinizes and feminizes the male offspring|
+
+Secondpass: 
+
+Thirdpass: However, V induced changes in reproductive organ weights, AGD, atrophic testes, vaginal pouch, and agenesis of the sex accessory tissues were not antagonized by concurrent TP treatment in male offspring|We observed that the combination of V and TP, two chemicals with opposing endocrine action, antagonized one another during sexual differentiation, especially in the female offspring and induced cumulative effects on maternal and neonatal toxicity|We suspect that antagonism of V by TP would be enhanced in the male if lower dose levels of V were used, but then the antagonism of TP by V in the female would likely be attenuated|
+
+Fourthpass: 
+
+2	17498896	[80-62-6]_[methylmethacrylate]	ent_other	
+Firstpass: Methyl methacrylate (MMA) has been reported to cause histopathological changes in rodent nasal epithelium after inhalation challenges|The obtained data suggest that exposure of human respiratory epithelia in vitro to 50 ppm and to 200 ppm of MMA does not induce lasting upregulation of the inflammatory mediators measured in this study|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	19710386	[unknownCAS]_[dietary salt]	renal	
+Firstpass: Recovery from renal ischemia reperfusion injury is associated with altered renal hemodynamics, blunted pressure natriuresis, and sodium sensitive hypertension|Increasing renal perfusion pressure (RPP) from 107 to 141 mmHg resulted in a fourfold increase in urine flow and sodium excretion in sham control rats|Further experiments demonstrated that conscious I/R rats develop hypertension when sodium intake is increased|
+
+Secondpass: 
+
+Thirdpass: In contrast, GFR and RBF were significantly reduced whereas medullary perfusion and interstitial pressure demonstrated an attenuated response to RPP in post I/R rats|The present data indicate that the pressure natriuretic diuretic response in I/R rats is blunted because of a decrease in GFR and RBF and the depressed pressure dependent increase in medullary blood flow and interstitial pressure|
+
+Fourthpass: 
+
+1	21561829	[79-94-7]_[tetrabromobisphenol A]	endocrine	
+
+1	16542800	[7439-91-0]_[Lanthanum]	cognitive	
+Firstpass: The distributions of brain elements such as Ca, Fe and Zn were significantly altered after lanthanum exposure|
+
+Secondpass: 
+
+Thirdpass: the function of the central cholinergic system was also noticeably disturbed and the contents of some monoamines neurotransmitters were significantly decreased|These findings indicate that chronic exposure to lanthanum could possibly impair the learning ability and this deficit may be possibly attributed to the disturbance of the homeostasis of trace elements, enzymes and neurotransmitter systems in brain|
+
+Fourthpass: 
+
+1	2209008	[12427-38-2]_[maneb]	immune	
+
+1	8896717	[95-50-1]_[2-dichlorobenzene]	liver	
+
+1	11936219	[75-26-3]_[2-bromopropane]	hematologic	
+Firstpass: Immunotoxic effects of 2 bromopropane in male Sprague Dawley rats: a 28 day exposure study|Immunotoxic effects of 2 bromopropane were investigated in male Sprague Dawley rats|The body and thymus weights were significantly reduced by treatment with 2 bromopropane at the highest dose|In addition, the numbers of splenic and thymic cells were decreased by 2 bromopropane|Among the serum clinical parameters, the levels of chloride ion were significantly increased by 2 bromopropane|The numbers of most cell types were significantly decreased in the spleen when animals were treated with 2 bromopropane at 1,000 mg/kg|Likewise, all cell types of thymus were significantly decreased by 2 bromopropane|
+
+Secondpass: In hematology, the numbers of white blood cells, red blood cells, and platelets were significantly reduced|With immunized animals, immunophenotyping of splenic and thymic cells was performed to investigate the changes of the number of macrophages, B cells, and T cells in spleen and the number of CD4+ and CD8+ cells in thymus|
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	22730197	[80-05-7]_[bisphenol A]	reproductive	
+Firstpass: Effect of neonatal exposure on male rats to bisphenol A on the expression of DNA methylation machinery in the postimplantation embryo|Our previous studies have demonstrated that neonatal exposure of male rats to BPA causes decrease in sperm count and motility, increase in postimplantation loss (POL), ultimately leading to subfertility during adulthood|The results of the present study demonstrate that neonatal exposure of male rats to BPA down regulates the gene expression of Dnmts and related transcription factors in resorbed embryos as compared with the viable embryo|Thereby, suggesting that BPA may have altered the sperm epigenome, which might have affected the embryo development and leading to an increase in the POL|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	3959125	[79-06-1]_[Acrylamide]	reproductive	
+
+1	1332651	[131-18-0]_[di-n-pentyl phthalate]	reproductive	
+Firstpass: All four treatments resulted in reductions in relative testis weight (RTW) and produced morphological changes similar to those which have been previously reported|We conclude that creatine is associated with the cells of the seminiferous epithelium, and that elevated urinary excretion of creatine may serve as a non invasive marker for damage to these cells in vivo|
+
+Secondpass: 
+
+Thirdpass: In addition, MAA, DPP and 1,3 DNB all caused significant elevations in urinary creatine excretion and the urinary creatine:creatinine ratio (Cr/Crn) within 24 h|EDS had no such effect|
+
+Fourthpass: 
+
+1	1710574	[7439-92-1]_[lead]	any_congenital	
+Firstpass: Pre  and postnatal lead exposure affects the serotonergic system in the immature rat brain|The effect of pre  and postnatal lead exposure on the development of the serotonergic system in striatum and brain stem was investigated|A significant decrease of 5 HT was detected in the brain stem at postnatal day 28|
+
+Secondpass: 
+
+Thirdpass: At both days 6 and 28 postnatal, 5 HIAA was reduced in striatum and brain stem|
+
+Fourthpass: The results provide support to the hypothesis that developing 5 HT neurons are sensitive to relatively low levels of lead exposure|
+
+1	21871921	[7439-96-5]_[Manganese]	neuro	
+Firstpass: Occupational manganese (Mn) exposure has been associated with motor deficits in adult workers, but data on the potential effects of environmental exposure to Mn on the developing motor function for a children population is scarce|In adults, the main effect of environmental Mn exposure has been associated with motor skills, but these results suggest that such alterations are not the main effect on children|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	19165735	[84-74-2]_[dibutyl phthalate]	any_congenital	
+Firstpass: Dose dependent effects on cell proliferation, seminiferous tubules, and male germ cells in the fetal rat testis following exposure to di(n butyl) phthalate|Adult male rats gestationally exposed to di(n butyl)phthalate (DBP) have dysgenetic testes characterized by seminiferous epithelial degeneration, clustering of Leydig cells, and decreased spermatogenesis|Gestational exposure to high dose DBP inhibited proliferation of fetal testicular somatic cells but did not affect apoptosis|The number of multinucleated gonocytes in DBP exposed fetal testes increased after exposure to &gt|Decreased proliferation, rather than increased apoptosis, is the underlying mechanism of altered fetal development of DBP exposed seminiferous tubules contributing to testicular dysgenesis|
+
+Secondpass: 
+
+Thirdpass: DBP reversibly inhibits proliferation of somatic cells in the fetal rat testis|
+
+Fourthpass: 
+
+1	2593968	[7439-97-6]_[mercury]	cognitive	
+Firstpass: [Evaluation of the effects on the nervous system from exposure to low concentrations of mercury in employees manufacturing fluorescent lights]|In order to evaluate the effects of low inorganic mercury concentrations on workers employed in the manufacture of fluorescent lamps, a stratified sample of workers was selected at random and assigned to three groups according to the level of exposure|Moreover, the prevalence of symptoms related to low mercury exposure, collected by a questionnaire, was higher in the two exposed groups|Conversely, if a true mercury effect does indeed exist, the similarity of the performance between the second and third groups (both consisting of exposed blue collar workers) could be explained if we assume that the high turn over inside the factory could have caused a similar previous exposure to mercury vapours|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	22078113	[unknowncas]_[nano_silver]	reproductive	
+Firstpass: Silver nanoparticles (AgNPs) are being used in an increasing number of industrial and commercial applications|this has resulted in an increased release of AgNPs into the environment|Understanding the interaction of AgNPs with biological surfaces is important, as such understanding will facilitate predictions of the further effects of nanoparticles on biological systems|This is, to the best of our knowledge, the first report to investigate the nanotoxicity of cAgNPs as related to biological surfaces of C|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	10210694	[140-66-9]_[4-tert-octylphenol]	reproductive	
+Firstpass: VTG levels in serum of male fish increased with increasing OP exposure concentration and decreased after OP exposure was discontinued|Finally, OP caused a significant increase in the number of abnormally developing embryos, suggesting that OP may be genotoxic as well as estrogenic|
+
+Secondpass: 
+
+Thirdpass: OP induced VTG synthesis and reproductive impairment appear to be closely linked phenomena|Histological examination indicated spermatogenesis in OP exposed fish was inhibited, and some exposed fish had oocytes in their testes|
+
+Fourthpass: 
+
+1	22275533	[unknownCAS]_[dietary salt]	renal	
+Firstpass: High dietary salt and angiotensin II chronically increase renal sympathetic nerve activity: a direct telemetric study|Although recent studies suggest that high dietary salt may alter cardiovascular responses to Ang II, direct evidence demonstrating chronic activation of sympathetic nerve activity is lacking|The objective of this study was to determine whether a low dose of Ang II, on a background of high salt intake, would result in a chronic increase in renal sympathetic nerve activity (RSNA)|In the Salt+Ang group, mean arterial pressure increased over the first week and remain elevated by 18|RSNA was not significantly different between groups on day 7 but was significantly elevated in the Salt+Ang group on day 21 (13|Our results support the hypothesis that elevated Ang II levels, in conjunction with a high salt diet, have the ability to chronically increase RSNA and, thus, potentially contribute to the maintenance of hypertension|
+
+Secondpass: 
+
+Thirdpass: Baroreflex control of RSNA showed a rightward shift on day 21, but not day 7, and baroreflex responses indicated that RSNA could not be completely suppressed when arterial pressure was increased|No changes were observed in either mean arterial pressure or RSNA variables in the Control group|
+
+Fourthpass: 
+
+1	11021525	[106-93-4]_[ethylene dibromide]	reproductive	
+Firstpass: Mannose receptor expression by capacitated spermatozoa increased linearly with seminal plasma zinc levels, and correlated inversely with lead levels|Mannose receptor expression was not affected by dibromoethane and dibromochloropropane if the cholesterol content of the sperm membrane was high, but mannose receptor expression was decreased in low cholesterol spermatozoa by exposures below estimated permissive exposure limits|Mannose receptor expression on the external surface of the human sperm plasma membrane is a biomarker for the effects of transition and heavy metals and organic toxicants on sperm fertility potential|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	9255479	[12427-38-2]_[maneb]	immune	
+Firstpass: Exposure related increases in conjunctivitis (7% of applicators, 0% in other groups), dermatitis (68% of exposed and 55% of applicators versus 31% of controls, p &lt|Agricultural fungicide application in high exposure situations can contribute to dermatitis prevalence among farm populations|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+2	6540744	[60-51-5]_[dimethoate]	reproductive	
+Firstpass: No evidence of potential genetic effects was obtained in a dominant lethal mutation assay|
+
+Secondpass: 
+
+Thirdpass: At the maximum tolerated doses, Luxan Tue Taons (60 mg/kg), Metadipterex (15 mg/kg), Dynafos (50 mg/kg) and Phosan Plus (100 mg/kg) did not induce chromosome aberrations in bone marrow cells, spermatogonia or primary spermatocytes of the mice|
+
+Fourthpass: 
+
+1	12883018	[unknowncas]_[emf not rf]	hematologic_cancer	
+Firstpass: Study subjects considered probably ever exposed to electromagnetic fields at work were not at increased risk of acute leukaemia compared to those considered never exposed|there was no evidence of a dose response effect using increasing number of years exposed|However, relative to women considered never exposed, a significant excess of acute lymphoblastic leukaemia was observed among women probably exposed to electromagnetic fields at work that remained increased irrespective of time prior to diagnosis or job ever held|While an excess of acute lymphoblastic leukaemia among women was observed, it is unlikely that occupational exposure to electromagnetic fields was responsible, given that increased risks remained during periods when exposure above background levels was improbable|
+
+Secondpass: 
+
+Thirdpass: This large population based case control study found little evidence to support an association between occupational exposure to electromagnetic fields and acute leukaemia|
+
+Fourthpass: 
+
+1	18593212	[1763-23-1]_[perfluorooctane sulfonic acid]	reproductive	
+Firstpass: 31 mg/L for PFOS, which was approximately seven times lower than the effect concentrations observed over the 21 d exposure in D|Two generation fish toxicity tests showed that parental exposure to both compounds affected the performance of offspring|Unexposed progeny generation (F1) fish exhibited elevated mortality and histopathological changes that were correlated with exposure in the parental generation (F0)|Continuous exposure from F0 through F1 generations increased the extent of adverse effects|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	18053681	[18540-29-9]_[chromium hexavalent ion]	lung_cancer	
+Firstpass: Occupational exposure to hexavalent chromium (Cr (VI)) compounds is associated with increased risk of pulmonary disease|Exposure to chromium did not change expression level of ErbB4 receptor in A549 cell line|
+
+Secondpass: 
+
+Thirdpass: Instead, ErbB3 receptor was overexpressed after 1h, returned to basal level after 4h and increased its level after 24h|The present data suggests that expression changes in ErbB receptors might have a role in the carcinogenic effects induced by this pneumotoxic agent|
+
+Fourthpass: 
+
+1	15805048	[25154-52-3]_[nonylphenol]	any_congenital	
+Firstpass: Effects of nonylphenol on rates of tail resorption and metamorphosis in Rana catesbeiana tadpoles|Nonylphenol (NP) is a persistent, lipophilic, and toxic chemical that can be endocrine disrupting (estrogenic) at sublethal concentrations|Since amphibian metamorphosis is a hormone driven process and a delicate balance of hormone levels is required for successful metamorphosis, exposure of larval amphibians to NP might disrupt metamorphic processes|In the absence of exogenous T3, NP significantly increased the rate of tail growth (as measured by tail length) at 936 microg/L|There was no significant effect of NP alone on tail width, limb development, or the process of cranial transformation|When T3 was added to the treatments, increasing NP concentrations were associated with a significant decrease in the rate of cranial transformation, and at the highest dose, the rate of tail resorption was significantly lower than in the controls|Overall, NP had an inhibitory effect on the rate of bullfrog tadpole metamorphic progression and tail resorption|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	15071173	[7439-97-6]_[mercury]	cognitive	
+Firstpass: Susceptibility of metallothionein null mice to the behavioral alterations caused by exposure to mercury vapor at human relevant concentration|The present study aimed to examine neurobehavioral effects of prolonged, low level Hg0 exposure in mice and to evaluate the protective role of metallothionein I,II (MT I,II) against Hg0 induced neurotoxicity, using a knock out strain of mice|Neurobehavioral effects were evaluated at 12 and 23 weeks of exposure using open field test and passive avoidance test|These effects were slightly exaggerated in MT null mice, which showed less induction of MT, lower brain Hg concentration, and lower calculated concentration of MT unbound cytosolic Hg|The results showed, for the first time, that a concentration of Hg0 relevant to human exposure level could cause neurobehavioral effects in adult mice|The higher susceptibility of MT null mice suggested that MT I,II have protective roles in the metal induced neurobehavioral toxicity, which cannot be entirely explained by kinetic mechanisms, thus suggesting an involvement of nonkinetic mechanisms|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+2	10873135	[unknowncas]_[emf not rf]	breast	
+Firstpass: Exposure to electromagnetic fields (EMFs) from use of electric blankets and other in home electrical appliances has been hypothesized to increase breast cancer risk|In conclusion, exposure to EMFs from in home electrical appliance use was not found to increase breast cancer risk in this study|
+
+Secondpass: 
+
+Thirdpass: The authors also did not find an association between use of other major in home electrical appliances and breast cancer risk|
+
+Fourthpass: 
+
+1	18409622	[25637-99-4]_[hexabromocyclododecane]	endocrine	
+Firstpass: Biotransformation enzymes and thyroid axis disruption in juvenile rainbow trout (Oncorhynchus mykiss) exposed to hexabromocyclododecane diastereoisomers|Potential effects of HBCD on phase I and II biotransformation enzyme activities and thyroid axis disruption were examined|Disruption of the thyroid axis was most evident in the gamma HBCD exposed group, as indicated by lower circular FT4 and higher FT3 as well as an increase in thyroid epithelial cell height|However, fish fed the alpha HBCD enriched diet also exhibited altered glucuronyltransferase activity and thyroid epithelial cell heights and the beta HBCD group had altered FT4 and FT3 and glucuronyltransferase activity|T4ORD activity was not affected after 14 days, but was significantly lower among all HBCD exposed fish compared to the reference fish after 56 days|
+
+Secondpass: 
+
+Thirdpass: Results from these experiments indicate that all isomers have the potential to disrupt thyroid homeostasis|
+
+Fourthpass: 
+
+1	10523872	[111-76-2]_[n-butoxyethanol]	hematologic	
+Firstpass: Microscopic examination revealed treatment related effects in the eyes, in addition to other known effects of BE exposure such as disseminated thrombosis and necrosis and infarction in various organs|
+
+Secondpass: 
+
+Thirdpass: Histological changes suggestive of the retinal ischemic infarctive process were also noted|Possible pathogenic mechanisms of 2 butoxyethanol induced retinopathy are discussed|
+
+Fourthpass: 
+
+1	19760618	[688-73-3]_[tributyltin]	endocrine	
+Firstpass: Tributyltin causes obesity and hepatic steatosis in male mice|However, few studies addressing the effects of TBT on growth and metabolism have been reported|This study was conducted to investigate the effects of TBT at low doses (0|The results showed that exposure to TBT for 45 days resulted in an increase in body weight gain and hepatic steatosis accompanied with hyperinsulinemia and hyperleptinemia|These results suggest that chronic and repeat exposure to low doses of TBT can result in obesity and hepatic steatosis and induce the occurrence of insulin and leptin resistance|
+
+Secondpass: 5, 5, and 50 μg/kg) on body weight gain in male mice exposed as from puberty and to determine the alterations in related hormones|Reduction of hepatic adiponectin levels in a dose dependent manner was related to the lipid increase in the liver|
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	9418944	[8018-01-7]_[mancozeb]	endocrine	
+Firstpass: Mancozeb, an ethylenebisdithiocarbamate (EBDC), has been studied for its effects on rat thyroid|Mancozeb at repeated oral doses of 500, 1000 and 1500 mg kg( 1) day( 1) for periods of 30, 90, 180 and 360 days has produced dose dependent signs of toxicity and death of animals|Reduced levels of thyroid radioiodine ([125]I) uptake, serum protein bound iodine (PB[125]I), thyroxine (T4) and reduced activity of thyroid peroxidase (TPO) have also been observed after exposure to mancozeb|Thus, mancozeb has been shown to produce marked structural and functional changes in thyroid of rats|
+
+Secondpass: 
+
+Thirdpass: The fungicide caused a significant increase in thyroid/body weight ratio and histopathological changes|
+
+Fourthpass: 
+
+1	18308961	[431-03-8]_[Diacetyl]	lung	
+
+1	16815981	[unknowncas]_[sugar]	vascular	
+Firstpass: Gonadectomy prevents endothelial dysfunction in fructose fed male rats, a factor contributing to the development of hypertension|Insulin resistance has been shown to be associated with increased blood pressure (BP)|Both gonadectomized and sham operated male Wistar rats fed with a high fructose diet developed insulin resistance, but BP increased only in the sham operated rats|Fructose feeding did not affect plasma testosterone levels|Insulin resistance induced endothelial dysfunction in the mesenteric arteries of sham operated rats, which was prevented by gonadectomy, thus suggesting a key role for testosterone in the pathogenesis of secondary vascular complications|Subsequent to blocking the actions of endothelium dependent hyperpolarizing factor (EDHF), relaxation to acetylcholine (ACh) was lower in sham operated fructose fed rats compared with other groups, suggesting the involvement of nitric oxide (NO) in vasorelaxation|In summary, testosterone is essential in vivo for the development of endothelial dysfunction and hypertension secondary to insulin resistance, suggesting a facilitatory role for testosterone in increasing BP in fructose fed male rats|
+
+Secondpass: 
+
+Thirdpass: Inhibition of NO synthesis nearly abolished the ACh evoked relaxation in both fructose fed groups, thus suggesting a testosterone independent impairment of EDHF mediated relaxation|The improvement in endothelial function following gonadectomy could be ascribed to a NO component, although plasma nitrite and nitrate levels were unchanged|
+
+Fourthpass: 
+
+1	11021515	[80-05-7]_[bisphenol A]	reproductive	
+Firstpass: Sertoli cell viability was not affected after 24 h exposure to lindane, DDT, ethinyloestradiol or bisphenol A in the concentration range analysed (up to 100, 25 or 50 microM, respectively)|With the exception of the pesticide DDT, all chemicals investigated induced a significant dose dependent increase in lactate production after 24 h exposure to Sertoli cells|
+
+Secondpass: 
+
+Thirdpass: In contrast, the heavy metals mercury(II) and platinum(II) markedly decreased inhibin B levels|This sharp decrease was already significant at metal concentrations that reduced Sertoli cell viability only moderately (10 15%)|
+
+Fourthpass: 
+
+1	7074487	[1934-21-0]_[tartrazine]	lung	
+
+1	20701988	[2921-88-2]_[chlorpyrifos]	any_congenital	
+Firstpass: Organophosphate pesticides (OPs) are environmental toxicants known to inhibit the catalytic activity of acetylcholinesterase (AChE) resulting in hypercholinergic toxicity symptoms|In order to understand the neurological pathways affected by OP exposure during embryogenesis, we developed a subacute model of OP developmental exposure in zebrafish by exposing embryos to a dose of the OP metabolite chlorpyrifos oxon (CPO) that is non lethal and significantly inhibited AChE enzymatic activity compared to control embryos (43% at 1 day post fertilization (dpf) and 11% at 2dpf)|The result that developmental CPO exposure affected RB neurogenesis without affecting muscle fiber or nAChR cluster formation demonstrates that zebrafish are a strong model system for characterizing subtle neurological pathologies resulting from environmental toxicants|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	22008236	[unknownCAS]_[dietary salt]	vascular	
+Firstpass: Eplerenone prevents salt induced vascular stiffness in Zucker diabetic fatty rats: a preliminary report|The aim of this study was to examine the effect of the aldosterone antagonist eplerenone on structural and mechanical properties of resistance arteries of ZDF rats on normal and high salt diet|Both, eplerenone and hydralazine prevented salt induced vascular hypertrophy|The strain curve of arteries of salt loaded ZDF rats was significantly lower when compared to ZL and when compared to ZDF+S+E, but was not different compared to ZDF+S+H|This indicates increased vascular stiffness in salt loaded ZDF rats, which could be prevented by eplerenone but not by hydralazine|Collagen content was increased in ZL and ZDF rats on high salt diet|Eplerenone and hydralazine prevented increased media to lumen ratio in salt loaded ZDF rats, indicating a regression of vascular hypertrophy, which is likely mediated by the blood pressure lowering effect|Eplerenone has additionally the potential to prevent increased vascular stiffness in salt loaded ZDF rats|
+
+Secondpass: 
+
+Thirdpass: This suggests an effect of the specific aldosterone antagonist on adverse vascular wall remodelling|
+
+Fourthpass: 
+
+1	19908531	nano_copper	renal	
+Firstpass: However, only in the high dose group of copper nanoparticles (40 mg/kg body weight instilled for three times in one week), the body weight of mice were retarded and significant pathological changes were observed|There were hydropic degeneration around the central vein and the spotty necrosis of hepatocytes in the liver and swelling in the renal glomerulus, while, severe lesion associated with the decreased number of olfactory cells and the dilapidated laminated structure were also observed in the olfactory bulb|
+
+Secondpass: Potential health impact on mice after nasal instillation of nano sized copper particles and their translocation in mice|The copper contents of the liver, kidneys and the olfactory bulb increase significantly at the group of 40 mg/kg compared to the control group, which is in agreement with the histological changes|Therefore, the data indicate that nasal inhaled copper particles at very high dosage can translocate to other organs and tissues and further induce certain lesions|
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	1560321	[75-35-4]_[vinylidene chloride]	lung	
+Firstpass: Staining was reduced after exposure to 75 and 125 mg/kg 1,1 DCE, and at higher doses it was abolished in alveolar septa and retained in bronchiolar epithelium, albeit at considerably reduced intensities|Progressive increases in covalent binding and decreases in GSH content correlated with increasing severities of Clara cell injury|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	1862801	[unknowncas]_[emf not rf]	breast	
+Firstpass: Chronic exposure to 60 Hz electromagnetic fields has been hypothesized to increase breast cancer risk by suppressing the normal nocturnal rise in pineal melatonin|Those who reported daily use in season, continuously throughout the night for the past 10 years did not have significantly elevated risk (OR = 1|These findings do not support the hypothesis that electric blanket use is associated with an increased risk for breast cancer|The slightly elevated estimate of risk for the most frequent electric blanket users and the potential public health significance of electromagnetic field exposure suggest that further inquiries be undertaken|
+
+Secondpass: 
+
+Thirdpass: Adjustment for the Quetelet index and reproductive risk factors did not alter the results|
+
+Fourthpass: 
+
+2	10568701	[25154-52-3]_[nonylphenol]	any_congenital	
+Firstpass: The effects of 4 nonylphenol in rats: a multigeneration reproduction study|These data show that NP had limited effects on the reproductive system in the presence of measurable nephrotoxicity|
+
+Secondpass: 
+
+Thirdpass: or imply heretofore unknown pharmacokinetics or toxicodynamics|
+
+Fourthpass: 
+
+1	12852728	[unknowncas]_[mold]	lung	
+
+1	6654740	[79-06-1]_[acrylamide]	neuro	
+Firstpass: Effects of acrylamide and botulinum toxin on horseradish peroxidase labelling of trigeminal motor neurons in the rat|After 7 days of acrylamide (5 daily injections of 30 mg acrylamide/kg body weight), the pattern of HRP labelling was altered from normal, and this changed pattern persisted without further alteration when survival time and dosage were increased to 14 and 21 days (equivalent to 10 X 30 mg/kg and 15 X 30 mg/kg respectively)|
+
+Secondpass: 
+
+Thirdpass: 05 microgram botulinum toxin type A, HRP labelling in the trigeminal motor neurons was unaffected, although at three days after toxin, mild chromatolytic changes could be seen in a few of the neurons|
+
+Fourthpass: 
+
+1	1115684	[7440-43-9]_[cadmium]	renal	
+Firstpass: Cadmium induced metallothionein may have a paradoxical role in the pathogenesis of cadmium toxicity|Mice are protected from cadmium induced testicular necrosis by metallothionein, but in this experiment it was shown that cadmium metallothionein complex injected into mice results in higher cadmium levels in renal cortex and more severe renal tubular cell injury than a comparable dose of cadmium chloride administered by the same route|1 mg/kg of body weight or more of cadmium bound to metallothionein was fatal to male CGA mice within seven days whereas five times this dose of cadmium administered as cadmium chloride was needed to produce a similar effect|A reason for the difference in renal effects of these two forms of cadmium has not been determined but may be related to differences in absorption or transport by renal tubular lining cells|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+2	17465985	[54-64-8]_[thimerosal]	mental_disorder	
+Firstpass: Gesell Developmental Score was not significantly correlated with total parenteral EtHg/unit of body mass neither with the relative increase in hair Hg (as an additional challenge to prenatal Hg exposure)|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	12645100	[106-89-8]_[epichlorohydrin]	lung	
+
+1	22420031	[7439-97-6]_[Mercury]	any_congenital	
+Firstpass: N acetyl cysteine treatment reduces mercury induced neurotoxicity in the developing rat hippocampus|Mercury is an environmental toxicant that can disrupt brain development|We previously developed an animal model in which we defined the sequence of events underlying neurotoxicity: Methylmercury (MeHg) injection in postnatal rat acutely induced inhibition of mitosis and stimulated apoptosis in the hippocampus, which later resulted in intermediate term deficits in structure size and cell number|
+
+Secondpass: 
+
+Thirdpass: Moreover, the intermediate term decrease in hippocampal cell number provoked by MeHg was fully blocked by NAC|
+
+Fourthpass: 
+
+1	22723843	[79-06-1]_[Acrylamide]	hematologic_cancer	
+Firstpass: We found indications that acrylamide may increase the risk of multiple myeloma and follicular lymphoma in men|
+
+Secondpass: The aim of this prospective study is to investigate for the first time the association between dietary acrylamide intake and the risk of several histological subtypes of lymphatic malignancies|This is the first epidemiological study to investigate the association between dietary acrylamide intake and the risk of lymphatic malignancies, and more research into these observed associations is warranted|
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	7966444	[117-81-7]_[diethylhexyl phthalate]	any_congenital	
+
+1	11961222	[32534-81-9]_[pentabromodiphenyl ether]	any_congenital	
+Firstpass: Neonatal exposure to the brominated flame retardant 2,2',4,4',5 pentabromodiphenyl ether causes altered susceptibility in the cholinergic transmitter system in the adult mouse|We have recently reported that neonatal exposure to 2,2',4,4',5 pentaBDE (PBDE 99) can induce persistent aberrations in spontaneous behavior and also affect learning and memory functions in the adult animal|Neonatal exposure of male NMRI mice on postnatal day 10, to 2,2',4,4',5 pentaBDE (8 mg/kg bw) was shown to alter the response to a cholinergic agent, nicotine, at an adult age|These findings show similarities to observations made from neonatal exposure to PCBs and nicotine, compounds shown to affect cholinergic nicotinic receptors|This indicates that PBDE 99 can affect the cholinergic system and might thereby interact with other environmental toxicants|
+
+Secondpass: 
+
+Thirdpass: The nicotine induced behavior test revealed a hypoactive response to nicotine in PBDE 99 treated animals, whereas the response of controls was an increased activity|
+
+Fourthpass: 
+
+1	11961221	[32534-81-9]_[pentabromodiphenyl ether]	any_congenital	
+Firstpass: In a recent study, we have seen that neonatal exposure to some brominated flame retardants can cause permanent aberrations in spontaneous motor behavior that seem to worsen with age|Thus, the behavioral disturbances observed in adult mice following neonatal exposure to 2,2',4,4',5 pentaBDE are induced during a defined critical period of neonatal brain development|
+
+Secondpass: 
+
+Thirdpass: Seven days after the administration, 2,2',4,4',5 penta[(14)C]BDE or its metabolites could still be detected in the brain|
+
+Fourthpass: 
+
+1	16900247	[unknownCAS]_[dietary salt]	heart_chf	
+Firstpass: Effect of AT2 blockade on cardiac hypertrophy as induced by high dietary salt in the proatrial natriuretic peptide (ANP) gene disrupted mouse|Through employment of an AT2 antagonist, the present study explored a possible involvement of the AT2 receptor during salt induced cardiac hypertrophy in the proatrial natriuretic peptide gene disrupted mouse (ANP / )|These data suggest that AT2 blockade is involved in significant changes in myocardial extracellular matrix components translating into decreases in tissue mass in the salt sensitive ANP /  animal|
+
+Secondpass: 
+
+Thirdpass: Collagen type I was decreased in the latter tissues, likely contributing to the regression in mass|Several players essential in the maintenance of myocardial extracellular matrix homeostasis including B type natriuretic peptide, matrix metalloproteinase 2, tumour necrosis factor, and transforming growth factor were also significantly altered by PD123319|
+
+Fourthpass: 
+
+1	6335754	[131-57-7]_[oxybenzone]	integument	
+
+1	9072378	[unknownCAS]_[dietary salt]	vascular	
+Firstpass: Comparison of the effects of hypercholesterolaemia on relaxation responses in aortas of spontaneously hypertensive rats and Dahl salt sensitive rats|The high cholesterol diet did not change the blood pressure of SHR, but increased that of hypertensive DSR fed a high salt diet|In aortas of SHR, the high cholesterol diet did not change the endothelium dependent and  independent relaxation induced by acetylcholine (ACh) and sodium nitroprusside (SNP), respectively|These results suggest that hypercholesterolaemia causes greater impairment of endothelium dependent relaxation in rat aorta with salt induced hypertension than genetic hypertension|
+
+Secondpass: 
+
+Thirdpass: In aortas of hypertensive DSR, the high cholesterol diet notably reduced the ACh induced relaxations and slightly reduced SNP induced relaxation|
+
+Fourthpass: 
+
+1	4906438	[7440-48-4]_[cobalt]	heart_other	
+Firstpass: [Cobalt induced heart disease in chronic beer drinkers]|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	12212974	[50-00-0]_[formaldehyde]	lung	
+Firstpass: Domestic exposure to formaldehyde significantly increases the risk of asthma in young children|The results suggest that domestic exposure to formaldehyde increases the risk of childhood asthma|
+
+Secondpass: An association between exposure to formaldehyde and asthma in young children has been suggested|or = 60 microg x m( 3) are at increased risk of having asthma|
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	3439199	[71-43-2]_[benzene]	any_congenital	
+Firstpass: The cytogenetic effects of benzene and toluene on bone marrow cells in rats|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	6093740	[79-06-1]_[Acrylamide]	neuro	
+Firstpass: Significant increases in phospholipid content were observed in both the proximal and distal portions of peripheral nerve of the acrylamide intoxicated cats|
+
+Secondpass: 
+
+Thirdpass: This effect was present even when the phospholipid content was expressed in terms of total protein, dry weight or total lipid|Total weight of nerve segments, however, was significantly decreased in the neuropathic animals|
+
+Fourthpass: 
+
+1	21081930	[unknownCAS]_[dietary salt]	gastrointestinal_cancer	
+Firstpass: main food items/groups contributing to dietary sodium intake|63) were associated with an increased gastric cancer risk|
+
+Secondpass: 
+
+Thirdpass: Our results support the view that salt intake is an important dietary risk factor for gastric cancer, and confirms the evidence of no differences in risk according to H|
+
+Fourthpass: 
+
+1	6745232	[7440-48-4]_[cobalt]	lung	
+Firstpass: The results indicate that Cd2+ induces a reaction pattern similar to that seen following exposure to Ni2+, in addition to which Cd2+ causes interstitial alveolitis|Exposure to Cu2+ and Co2+ only affected the type II cells|
+
+Secondpass: 
+
+Thirdpass: However, no significant increase in volume density occurred|The possible association between this abnormal growth pattern and early tumor formation deserves further investigation|
+
+Fourthpass: 
+
+1	11434993	[18540-29-9]_[chromium hexavalent ion]	hematologic	
+
+1	18804091	[80-05-7]_[bisphenol a]	any_congenital	
+Firstpass: Bisphenol A (BPA) is one of endocrine disrupting chemicals, being distributed widely in the environment|We have been studying the low dose effects of BPA on murine forebrain development|Here, we have investigated the genome wide effect of maternal exposure to BPA on the epigenome in mouse forebrain at E12|The mRNA expression of two functionally related genes changed with development as well as the exposure to BPA|In both genes, changes at the transcriptional level correlated well with the changes in NotI methylation status|Taken together, epigenetic alterations in promoter associated CGIs after exposure to BPA may underlie some effects on brain development|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+2	20434143	[7439-97-6]_[mercury]	cognitive	
+Firstpass: The converging evidence from performance  and questionnaire data confirms that core elements of ADHD are adversely affected by low environmental PbB even below 10mug/dl, but not by other neurotoxic trace metals|Observed effect sizes are considerably larger than those typically found for lead related IQ deficit, thus suggesting that attention deficit could be the more basic adverse effect of lead in children|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+2	6745235	[7440-48-4]_[cobalt]	lung	
+Firstpass: Following nickel exposure the lysozyme level was significantly decreased in lavage fluid, macrophages, and in culture medium from incubated macrophages but remained unchanged in the mucous membrane|After exposure to cadmium, copper, and cobalt, lysozyme levels increased or were unchanged|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	6277333	[118-74-1]_[hexachlorobenzene]	liver	
+Firstpass: If either HCB or ethanol was incorporated into the isolated hepatocytes of the healthy control animals, the fluidity of the hepatocyte membranes increased|The order parameter decrease (compared to the control) for the hepatocyte membranes of the animals treated chronically with HCB or ethanol can be ascribed to the direct membrane fluidizing effect of HCB or ethanol, and also to the altered lipid metabolism|With regard to the difference in the mechanisms of action of HCB and ethanol, on the basis of the experimentally proved membrane damaging effect of the porphyrinogenic HCB it is probable that, besides other factors, the membrane damage may play an important role in the pathogenesis of porphyria cutanea tarda|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	9585110	[unknowncas]_[nano_silicon dioxide]	lung	
+Firstpass: Respirable, crystalline quartz, produced significant increases in lung permeability, persistent surface inflammation, progressive increases in pulmonary surfactant and activities of epithelial marker enzymes up to 12 weeks after primary exposure|Ultrafine amorphous silica did not induce progressive effects but it promoted initial epithelial damage with permeability changes and these regressed with time after exposure|By contrast, ultrafine/fine carbon black had little, if any, effect on lung permeability, epithelial markers or inflammation, despite being given at a dose which readily translocated the epithelium and which has been reported to induce inflammation|
+
+Secondpass: 
+
+Thirdpass: Similarly, diesel exhaust particles produced only minimal changes in lavage components, although they were smaller individual particles and differed in surface chemistry from carbon black|
+
+Fourthpass: 
+
+1	21351110	[80-05-7]_[bisphenol a]	heart_other	
+Firstpass: Bisphenol A decreases atrial contractility involving NO dependent G cyclase signaling pathway|Even though BPA is reported to produce reproductive and behavioral toxicity in experimental animals, the direct effect of BPA on the cardiovascular system is not known|The present study was therefore undertaken to evaluate the effect of BPA, on spontaneously beating rat right atrial preparations|The BPA induced changes were not blocked by atropine (muscarinic receptor blocker)|However, pretreatment with N ω nitro L arginine methyl ester (L NAME, a nitric oxide synthase inhibitor) or methylene blue (a guanylyl cyclase inhibitor) blocked the BPA induced changes in rate and force|Further, the BPA induced changes were not due to the solvent (ethanol) used to dissolve it|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	9804429	[unknowncas]_[nano_titanium dioxide]	lung	
+Firstpass: Single intratracheal exposure of UF TiO2 (2 mg per rat) caused cytotoxicity to pulmonary AMs|The level of glutathione remained decreased in UF TiO2 exposed rat AMs|
+
+Secondpass: 
+
+Thirdpass: However, this enhancement of antioxidant enzymes could not diminish the enhanced lipid peroxidation and increased rate of hydrogen peroxide generation|
+
+Fourthpass: 
+
+1	21539910	[50471-44-8]_[vinclozolin]	any_congenital	
+Firstpass: The impact of early exposure to endocrine disruptor mixtures on mammary gland development is poorly known|Here, we identify the effects of a conception to weaning exposure of rats to the phytoestrogen genistein (G) and/or the antiandrogen vinclozolin (V) at 1mg/kg d, alone or in association|Thus, gestational and lactational exposure to low doses of genistein plus vinclozolin may seriously affect peripubertal development of the rat mammary gland|
+
+Secondpass: 
+
+Thirdpass: 
+
+Fourthpass: 
+
+1	16619813	[7439-92-1]_[lead]	neuro	
+
