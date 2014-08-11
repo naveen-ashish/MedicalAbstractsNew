@@ -1,11 +1,15 @@
 package io;
 
 import java.util.Date;
-import java.util.*;
+import java.util.Vector;
+
+import utilities.IO;
 
 public class WriteResults{
 	
-	public static void writeTells(boolean mutexTells, Vector vTells){
+	private IO io = new IO();
+	
+	public void writeTells(boolean mutexTells, Vector vTells){
 		
 		Date myDate = new Date();
 		
@@ -19,15 +23,15 @@ public class WriteResults{
 		
 		System.out.println(">>>> "+tfname);
 		
-		utilities.IO.writeFile_Basic(tfname, vTells);
+		io.writeFile_Basic(tfname, vTells);
 	}
 	
 	
-	public static void writeProximityFeatures(Integer proxchoice,Vector vvFeat) {
+	public void writeProximityFeatures(Integer proxchoice,Vector vvFeat) {
 		
 
-		utilities.IO.writeFile_Basic("output/NewProxFeatures-"+proxchoice+".csv", vvFeat);
+		io.writeFile_Basic("output/NewProxFeatures-"+proxchoice+".csv", vvFeat);
 		
-		//utilities.IO.writeFile_Basic("output/InferredMesh.txt", vv);
+		//io.writeFile_Basic("output/InferredMesh.txt", vv);
 	}
 }

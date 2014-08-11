@@ -17,28 +17,30 @@ import edu.stanford.nlp.trees.Tree;
 public class NLParser
 
 {
-	// private static LexicalizedParser lp = new
+	// private LexicalizedParser lp = new
 	// LexicalizedParser("models/englishPCFG.ser.gz");
-	private static LexicalizedParser lp;
+	private LexicalizedParser lp;
 
-	private static Stack stkSuper = new Stack();
+	private Stack stkSuper = new Stack();
 
-	private static Stack stkMaster = new Stack();
+	private Stack stkMaster = new Stack();
 
-	public static Stack getAction() {
+	public Stack getAction() {
 
 		return stkSuper;
 	}
 
-	private static Stack stkIndicatorWords;
+	private Stack stkIndicatorWords;
 
-	private static Stack stkCauseWords;
+	private Stack stkCauseWords;
+	
+	private IO io = new IO();
 
-	public static void initialize() {
+	public void initialize() {
 
-		stkIndicatorWords = IO.readFileStk("lexicons/IndicatorWords.txt");
+		stkIndicatorWords = io.readFileStk("lexicons/IndicatorWords.txt");
 
-		stkCauseWords = IO.readFileStk("lexicons/CauseWords.txt");
+		stkCauseWords = io.readFileStk("lexicons/CauseWords.txt");
 	}
 
 	/*
@@ -47,7 +49,7 @@ public class NLParser
 	 * @return: the parser tree representation of the sentence
 	 */
 
-	public static String getParseTree(String sent) {
+	public String getParseTree(String sent) {
 
 		lp.setOptionFlags(new String[] { "-maxLength", "80", "-retainTmpSubcategories" });
 
@@ -62,7 +64,7 @@ public class NLParser
 	 * 
 	 * @return String with POS tags for sentence
 	 */
-	public static String tagText(String inputSentence) {
+	public String tagText(String inputSentence) {
 		/*
 		 * lp.setOptionFlags(new String[] { "-maxLength", "80",
 		 * "-retainTmpSubcategories" });
@@ -85,7 +87,7 @@ public class NLParser
 		return "";
 	}
 
-	private static void printPhrases() {
+	private void printPhrases() {
 
 		int S = stkSuper.size();
 
@@ -96,7 +98,7 @@ public class NLParser
 	/*
 	 * @functionality: chunk noun clauses together
 	 */
-	private static String chunkNouns(String inputSentence, ArrayList<String> nounsList) {
+	private String chunkNouns(String inputSentence, ArrayList<String> nounsList) {
 
 		String nounsChunckedSentence = inputSentence;
 
@@ -111,7 +113,7 @@ public class NLParser
 		return nounsChunckedSentence;
 	}
 
-	private static String chunkRemaining(String inputSentence, ArrayList<String> nounsList, String nounsChunckedSentence) {
+	private String chunkRemaining(String inputSentence, ArrayList<String> nounsList, String nounsChunckedSentence) {
 
 		String allChunckedSentence = nounsChunckedSentence;
 
@@ -146,7 +148,7 @@ public class NLParser
 	 * 
 	 * @return ArralyList an array of chunks
 	 */
-	private static ArrayList<String> chunkSentence(Tree t) {
+	private ArrayList<String> chunkSentence(Tree t) {
 
 		int M = stkMaster.size();
 
@@ -241,7 +243,7 @@ public class NLParser
 		return nounsList;
 	}
 
-	private static void processAction(String phrase) {
+	private void processAction(String phrase) {
 
 		phrase = phrase.replaceAll("[^A-Za-z() ]", "");
 
@@ -282,7 +284,7 @@ public class NLParser
 	 * 
 	 * @return boolean true/false if the phrase is an indicator phrase/not
 	 */
-	private static boolean isIndicator(String phrase) {
+	private boolean isIndicator(String phrase) {
 
 		int S = stkIndicatorWords.size();
 
@@ -305,7 +307,7 @@ public class NLParser
 	 * 
 	 * @return boolean true/false if the phrase is a causal phrase/not
 	 */
-	private static boolean isCause(String phrase) {
+	private boolean isCause(String phrase) {
 
 		int S = stkCauseWords.size();
 
@@ -325,7 +327,7 @@ public class NLParser
 	 * 
 	 * @return boolean true/false if the phrase is negated/not
 	 */
-	private static boolean isNegated(String phrase) {
+	private boolean isNegated(String phrase) {
 
 		phrase = phrase.replaceAll("[^A-Za-z ]", "");
 
@@ -356,7 +358,7 @@ public class NLParser
 	 * 
 	 * @return: true/false if the phrase has a negated entity (noun) / not
 	 */
-	private static boolean isNegatedEntity(String phrase) {
+	private boolean isNegatedEntity(String phrase) {
 
 		Stack patterns = new Stack();
 
@@ -419,7 +421,7 @@ public class NLParser
 	 * 
 	 * @return: true/false if the phrase is negated/not
 	 */
-	public static boolean isNegatedSentence(String phrase) {
+	public boolean isNegatedSentence(String phrase) {
 
 		Stack patterns = new Stack();
 

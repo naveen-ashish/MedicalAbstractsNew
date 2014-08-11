@@ -7,40 +7,51 @@
 
 package utilities.mesh;
 
-import java.io.BufferedReader;
+import io.ReadResources;
 
-import java.util.*;
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.SortedMap;
+import java.util.Stack;
+import java.util.TreeMap;
+import java.util.Vector;
 
 import org.apache.commons.lang3.StringUtils;
+
+import utilities.IO;
 
 
 public class MeSHTerms {
 
-	public static Map<String, String> meshData = new HashMap();
+	public Map<String, String> meshData = new HashMap();
 	
-	public static Map<String, String> meshDataAuto = new HashMap();
+	public Map<String, String> meshDataAuto = new HashMap();
 	
-	public static Map<String, Stack> meshEntryTerms = new HashMap();
+	public Map<String, Stack> meshEntryTerms = new HashMap();
 	
-	private static io.ReadResources RR = new io.ReadResources();
+	private ReadResources RR = new ReadResources();
+	
+	private IO io = new IO();
 		
 	public static void main(String[] args) throws IOException {
 		
 		//readMeshData();
-
 		
-		meshData = RR.meshData;
+		MeSHTerms meshTerms = new MeSHTerms();
 		
-		meshEntryTerms=RR.meshEntryTerms;
+		meshTerms.meshData = meshTerms.RR.meshData;
+		
+		meshTerms.meshEntryTerms= meshTerms.RR.meshEntryTerms;
 		
 		//System.out.println(meshData.size());
 		//System.out.println(meshEntryTerms.size());
@@ -51,17 +62,17 @@ public class MeSHTerms {
 //		printAutoMesh();
 //		System.exit(1);
 		
-		processMeshTermFile("resources/MeSH_terms/MeshNaresh.txt");
-		processMeshTermFile("resources/MeSH_terms/AllMesh.txt");
-		processMeshTermFile("resources/MeSH_terms/AllPMIDMesh.txt");
-		processMeshTermFile("resources/MeSH_terms/MeSH_Animal.txt");
-		processMeshTermFile("resources/MeSH_terms/MeSH_CellCulture.txt");
-		processMeshTermFile("resources/MeSH_terms/MeSH_Human.txt");
-		processMeshTermFile("resources/MeSH_terms/MeSH_InVitro.txt");
-		processMeshTermFile("resources/MeSH_terms/MeSH_Mammal.txt");
-		processMeshTermFile("resources/MeSH_terms/SelectedMesh-1.txt");
-		processMeshTermFile("resources/MeSH_terms/SelectedMesh-2.txt");
-		processMeshTermFile("resources/MeSH_terms/SelectedMesh-3.txt");
+		meshTerms.processMeshTermFile("resources/MeSH_terms/MeshNaresh.txt");
+		meshTerms.processMeshTermFile("resources/MeSH_terms/AllMesh.txt");
+		meshTerms.processMeshTermFile("resources/MeSH_terms/AllPMIDMesh.txt");
+		meshTerms.processMeshTermFile("resources/MeSH_terms/MeSH_Animal.txt");
+		meshTerms.processMeshTermFile("resources/MeSH_terms/MeSH_CellCulture.txt");
+		meshTerms.processMeshTermFile("resources/MeSH_terms/MeSH_Human.txt");
+		meshTerms.processMeshTermFile("resources/MeSH_terms/MeSH_InVitro.txt");
+		meshTerms.processMeshTermFile("resources/MeSH_terms/MeSH_Mammal.txt");
+		meshTerms.processMeshTermFile("resources/MeSH_terms/SelectedMesh-1.txt");
+		meshTerms.processMeshTermFile("resources/MeSH_terms/SelectedMesh-2.txt");
+		meshTerms.processMeshTermFile("resources/MeSH_terms/SelectedMesh-3.txt");
 		
 		//inferMeshTerms();
 
@@ -70,7 +81,7 @@ public class MeSHTerms {
 	/*
 	 * @functionality	write out auto mesh tags
 	 */
-	private static void printAutoMesh(){
+	private void printAutoMesh(){
 		
 		Vector vv = new Vector();
 		
@@ -87,14 +98,14 @@ public class MeSHTerms {
 			vv.add(pmid+"\t"+mesht);
 		}
 		
-		utilities.IO.writeFile_Basic("resources/AutoMeshStored.txt", vv);
+		io.writeFile_Basic("resources/AutoMeshStored.txt", vv);
 	}
 	
 	/*
 	 * @functionality	read in Mesh terms from file dump
 	 * @see	Mesh, NIH
 	 */
-	public static void readMeshData() throws IOException {
+	public void readMeshData() throws IOException {
 		
 		BufferedReader br = new BufferedReader(new FileReader("resources/MeSH_data/d2014.bin"));
 		
@@ -148,12 +159,12 @@ public class MeSHTerms {
 	
 	
 	
-	public static void readMeshDataAutoTagged(){
+	public void readMeshDataAutoTagged(){
 		
 		Vector vv = new Vector(), vv2=new Vector();
 		
 		//Stack stk = utils.IO.readFileStk("resources/OutBalancedSet.txt");
-		Stack stk = utilities.IO.readFileStk("resources/TextOut6000.txt");
+		Stack stk = io.readFileStk("resources/TextOut6000.txt");
 		
 		int S=stk.size();
 		
@@ -218,9 +229,9 @@ public class MeSHTerms {
 			}
 		}
 		
-		utilities.IO.writeFile_Basic("resources/MeSH_terms/MeshNaresh.txt", vv);
+		io.writeFile_Basic("resources/MeSH_terms/MeshNaresh.txt", vv);
 		
-		utilities.IO.writeFile_Basic("StillEntryTerms.txt", vv2);
+		io.writeFile_Basic("StillEntryTerms.txt", vv2);
 	}
 
 	/*
@@ -228,7 +239,7 @@ public class MeSHTerms {
 	 * @param	br is the mesh file handle
 	 * @return	String 	the following mesh tree number
 	 */
-	private static String readNextTreeNumbers(String firstTreeNumber, BufferedReader br) throws IOException {
+	private String readNextTreeNumbers(String firstTreeNumber, BufferedReader br) throws IOException {
 		
 		List<String> treeNumbers = new ArrayList();
 		
@@ -247,7 +258,7 @@ public class MeSHTerms {
 	/*
 	 * @param filePath	is the location of the MeSH dump
 	 */
-	private static void processMeshTermFile(String filePath) throws IOException {
+	private void processMeshTermFile(String filePath) throws IOException {
 		
 		List<String> terms = readTerms(filePath);
 		
@@ -256,7 +267,7 @@ public class MeSHTerms {
 		generateTreeNumberFile(treeNumbers, filePath);
 	}
 
-	private static void generateTreeNumberFile(List<String> treeNumbers, String meshFilePath) throws IOException {
+	private void generateTreeNumberFile(List<String> treeNumbers, String meshFilePath) throws IOException {
 		
 		BufferedWriter bw = new BufferedWriter(new FileWriter(new File(meshFilePath + "-treenumber.txt"), false));
 		
@@ -274,7 +285,7 @@ public class MeSHTerms {
 	 * @param	terms	is a list of mesh terms
 	 * @return	List	of corresponding mesh tree numbers
 	 */
-	private static List<String> lookupTreeNumbers(List<String> terms) {
+	private List<String> lookupTreeNumbers(List<String> terms) {
 	
 		List<String> treeNumbers = new ArrayList(terms.size());
 		
@@ -288,7 +299,7 @@ public class MeSHTerms {
 		return treeNumbers;
 	}
 
-	private static List<String> readTerms(String filePath) throws IOException {
+	private List<String> readTerms(String filePath) throws IOException {
 		
 		BufferedReader br = new BufferedReader(new FileReader(filePath));
 		
@@ -306,9 +317,9 @@ public class MeSHTerms {
 		return terms;
 	}
 	
-	private static void inferMeshTerms(){
+	private void inferMeshTerms(){
 		
-		//Stack stk=utilities.IO.readFileStk("all_abstracts2.txt");
+		//Stack stk=io.readFileStk("all_abstracts2.txt");
 		
 		Stack stk = RR.allAbstracts2Stk;
 		
@@ -326,7 +337,7 @@ public class MeSHTerms {
 		}
 	}
 	
-	public static String getMeshTerms(String abstractText){
+	public String getMeshTerms(String abstractText){
 		
 		abstractText=abstractText.toLowerCase();
 		
@@ -363,7 +374,7 @@ public class MeSHTerms {
 		return res;
 	}
 	
-	private static float scoreMeshMatch(String abstractText,Stack stk){
+	private float scoreMeshMatch(String abstractText,Stack stk){
 		
 		int S=stk.size();
 		
@@ -383,12 +394,12 @@ public class MeSHTerms {
 		return 0;
 	}
 	
-	public static boolean isMeshTerm(String term){
+	public boolean isMeshTerm(String term){
 		
 		return meshData.containsKey(term);
 	}
 	
-	public static String getMeshTermByEntryTerm(String term){
+	public String getMeshTermByEntryTerm(String term){
 		
 		Collection c = meshEntryTerms.keySet();
 		

@@ -3,9 +3,10 @@ package utilities;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
-
+import java.util.Stack;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
@@ -23,20 +24,17 @@ import org.json.simple.parser.JSONParser;
 
 import utlities.nlp.Segmenter;
 
-
 import com.jayway.jsonpath.JsonPath;
-
-
-
-import java.util.*;
 
 public class SentenceLitHarmReplacer {
 	private final String FREEBASE_API_KEY = "AIzaSyAAZHVqpUvpIvUwOtUwYzU2FMVxhcxCCzE";
 	private String TOPIC_ID = "";
 	
-	private static HashMap hmIndHarm = new HashMap();
+	private HashMap hmIndHarm = new HashMap();
 	
-	private static HashMap hmIndLit = new HashMap();
+	private HashMap hmIndLit = new HashMap();
+	
+	private IO io = new IO();
 	
 	public void init(){
 		
@@ -45,9 +43,9 @@ public class SentenceLitHarmReplacer {
 		//System.exit(1);
 	}
 	
-	private static void readIndicators() {
+	private void readIndicators() {
 		
-		Stack stk = IO.readFileStk("resources/HarmIndicators.txt");
+		Stack stk = io.readFileStk("resources/HarmIndicators.txt");
 		
 		while (!stk.isEmpty()) {
 			
@@ -66,7 +64,7 @@ public class SentenceLitHarmReplacer {
 			hmIndHarm.put(hClass,variants);
 		}
 		
-		stk = IO.readFileStk("resources/LitIndicators.txt");
+		stk = io.readFileStk("resources/LitIndicators.txt");
 		
 		while (!stk.isEmpty()) {
 			
@@ -96,7 +94,7 @@ public class SentenceLitHarmReplacer {
 		}
 	}
 	
-	public static String tagIndicatorsBased(String post, String specHarm, String specLit) {
+	public String tagIndicatorsBased(String post, String specHarm, String specLit) {
 		
 		if (specLit.indexOf("|")>-1) {
 			

@@ -31,8 +31,9 @@ import edu.stanford.nlp.tagger.maxent.MaxentTagger;
 
 
 public class ProximityTFIDFCalculator {
-	private static HashMap<String, Stack<String>> hmInd;
-	private static Vector<String> vInd;
+	private HashMap<String, Stack<String>> hmInd;
+	private Vector<String> vInd;
+	private IO io = new IO();
 	
 	/*
 	 *************************************************************
@@ -144,7 +145,7 @@ public class ProximityTFIDFCalculator {
 		return hm;
 	}
 	
-	private static void processDistribution(String term, HashMap<String, Double> hm){
+	private void processDistribution(String term, HashMap<String, Double> hm){
 		Collection c = hm.keySet();
 		Iterator it = c.iterator();
 		Double max=0.0, total=0.0;
@@ -165,7 +166,7 @@ public class ProximityTFIDFCalculator {
 		}
 	}
 	
-	private static void addClass(String hClass,String term){
+	private void addClass(String hClass,String term){
 		if (hmInd.get(hClass)==null) {
 			Stack<String> stk = new Stack<String>();
 			stk.push(term);
@@ -178,7 +179,7 @@ public class ProximityTFIDFCalculator {
 		}
 	}
 	
-	private static void printFinal(String fileName){
+	private void printFinal(String fileName){
 		Collection c = hmInd.keySet();
 		Iterator it = c.iterator();
 		while (it.hasNext()) {
@@ -191,7 +192,7 @@ public class ProximityTFIDFCalculator {
 			vInd.add(str);
 			System.out.println(vInd.size());
 		}
-		utilities.IO.writeFile_Basic("resources/" + fileName + ".txt", vInd);
+		io.writeFile_Basic("resources/" + fileName + ".txt", vInd);
 	}
 	
 	

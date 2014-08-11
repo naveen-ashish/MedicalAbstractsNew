@@ -6,23 +6,31 @@
  */
 
 package utilities.mesh;
-import java.util.*;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Stack;
+import java.util.Vector;
+
+import utilities.IO;
 
 public class MeSHTrees{
 	
-	private static HashMap<String,Vector> hmEntireTree = new HashMap<String,Vector>();
+	private HashMap<String,Vector> hmEntireTree = new HashMap<String,Vector>();
 	
-	private static HashMap<String,Vector> hmTree = new HashMap<String,Vector>();
+	private HashMap<String,Vector> hmTree = new HashMap<String,Vector>();
 	
-	private static HashMap<String,Vector> hmMeshMap = new HashMap<String,Vector>();
+	private HashMap<String,Vector> hmMeshMap = new HashMap<String,Vector>();
 	
-	private static Stack stkAllTreenos=new Stack();
+	private Stack stkAllTreenos=new Stack();
 	
-	private static Stack stkMesh = new Stack();
+	private Stack stkMesh = new Stack();
 	
-	private static io.ReadResources RR = new io.ReadResources();
+	private io.ReadResources RR = new io.ReadResources();
 	
-	public static void createGroupsEntireMeshTree(){
+	private IO io = new IO();
+	
+	public void createGroupsEntireMeshTree(){
 		
 		//Stack stk=utilities.IO.readFileStk("resources/MeSH_data/mtrees2014.bin");
 		
@@ -64,7 +72,7 @@ public class MeSHTrees{
 	/*
 	 * @param	stk	is a stack of tree nodes
 	 */
-	public static void createGroups(Stack stk){
+	public void createGroups(Stack stk){
 			
 		int S=stk.size();
 		
@@ -101,7 +109,7 @@ public class MeSHTrees{
 	}
 	
 	
-	public static void createMeshMap(){
+	public void createMeshMap(){
 		
 		//Stack stk=utilities.IO.readFileStk("resources/MeSH_terms/Mesh-Animal.txt-treenumber.txt");
 		
@@ -141,7 +149,7 @@ public class MeSHTrees{
 		}
 	}
 	
-	private static String getParent(String node){
+	private String getParent(String node){
 		
 		int ind=node.lastIndexOf(".");
 		
@@ -159,7 +167,7 @@ public class MeSHTrees{
 	 * @param	node	is a tree node
 	 * @return	Vector	of ancestors of tree node
 	 */
-	private static Vector getAncestors(String node){
+	private Vector getAncestors(String node){
 		
 		Vector vv = new Vector();
 		
@@ -186,7 +194,7 @@ public class MeSHTrees{
 	 * @param	node	is the tree node
 	 * @param	parent	is the parent of node
 	 */
-	private static void insertTree(HashMap hmTree,String node,String parent){
+	private void insertTree(HashMap hmTree,String node,String parent){
 		
 		if (hmTree.get(parent)==null){
 			
@@ -210,7 +218,7 @@ public class MeSHTrees{
 	}
 	
 	
-	private static Stack printTree(String coll){
+	private Stack printTree(String coll){
 		
 		Stack stkSeen = new Stack();
 		
@@ -265,13 +273,13 @@ public class MeSHTrees{
 
 		vvRes=purgeRedundant(vvRes);
 		
-		utilities.IO.writeFile_BasicAppend("Generalized-"+coll+".txt", vvRes);
+		io.writeFile_BasicAppend("Generalized-"+coll+".txt", vvRes);
 		
 		return stk;
 	}
 	
 	
-	private static Vector purgeRedundant(Vector vv){
+	private Vector purgeRedundant(Vector vv){
 		
 		int V=vv.size();
 		
@@ -318,7 +326,7 @@ public class MeSHTrees{
 		return vvNew;
 	}
 	
-	public static void main(String[] args){
+	public void main(String[] args){
 		
 		String coll="MeSH_Human";
 		
@@ -383,7 +391,7 @@ public class MeSHTrees{
 		
 	}
 
-	private static void processColl(String coll) {
+	private void processColl(String coll) {
 		
 		//Stack stk=utilities.IO.readFileStk("resources/MeSH_terms/"+coll+".txt-treenumber.txt");
 		
@@ -410,7 +418,7 @@ public class MeSHTrees{
 		process(stk);
 	}
 
-	private static void process(Stack stk) {
+	private void process(Stack stk) {
 			
 		hmTree.clear();
 		

@@ -11,7 +11,7 @@ import java.util.Vector;
 
 public class IO {
 	
-	public static Stack readFileStk(String fname) {
+	public Stack readFileStk(String fname) {
 		
 		  Stack stk = new Stack();
 		
@@ -37,7 +37,7 @@ public class IO {
 			    return stk;
 	}
 	
-	public static void writeFile_Basic(String fname,Vector<String> trace) {
+	public void writeFile_Basic(String fname,Vector<String> trace) {
 		
 		int V=trace.size();
 		
@@ -57,7 +57,7 @@ public class IO {
 		 
 	}
 	
-public static void writeFile_BasicAppend(String fname,Vector<String> trace) {
+public void writeFile_BasicAppend(String fname,Vector<String> trace) {
 		
 		int V=trace.size();
 		

@@ -25,17 +25,19 @@ import java.util.*;
 
 public class TFIDFCalculatorFn {
 	
-	private static HashMap hmInd = new HashMap();
+	private HashMap hmInd = new HashMap();
 	
-	private static Vector vInd = new Vector();
+	private Vector vInd = new Vector();
 	
-	private static Stemmer stem = new Stemmer();
+	private Stemmer stem = new Stemmer();
 	
-	private static Statement stmt = null;
+	private Statement stmt = null;
 	
-	private static int K=0;
+	private int K=0;
 	
-	private static void addClass(String hClass,String term){
+	private IO io = new IO();
+	
+	private void addClass(String hClass,String term){
 		
 		if (hmInd.get(hClass)==null) {
 			
@@ -336,7 +338,7 @@ public class TFIDFCalculatorFn {
 		return hm;
 	}
 	
-	private static void processDistribution(String term, HashMap hm){
+	private void processDistribution(String term, HashMap hm){
 		
 		Collection c = hm.keySet();
 		
@@ -374,7 +376,7 @@ public class TFIDFCalculatorFn {
 		}
 	}
 	
-	private static void printFinal(){
+	private void printFinal(){
 		
 		Collection c= hmInd.keySet();
 		
@@ -406,7 +408,7 @@ public class TFIDFCalculatorFn {
 		
 		//vInd.add("</indicators>");
 		
-		IO.writeFile_Basic("HarmIndicators3.xml", vInd);
+		io.writeFile_Basic("HarmIndicators3.xml", vInd);
 		
 		//IO.writeFile_Basic("resources/LitIndicators.txt", vInd);
 	}
@@ -435,9 +437,10 @@ public class TFIDFCalculatorFn {
 	public static void main(String[] args) {
 		//new TFIDFCalculator().calculate2();
 		
-		new TFIDFCalculatorFn().calculateLit();
+		TFIDFCalculatorFn tfidfCalculatorFn = new TFIDFCalculatorFn();
+		tfidfCalculatorFn.calculateLit();
 		
-		printFinal();
+		tfidfCalculatorFn.printFinal();
 	}
 
 }

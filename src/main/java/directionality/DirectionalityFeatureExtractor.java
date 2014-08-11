@@ -24,45 +24,47 @@ import utlities.nlp.NLParser;
 
 public class DirectionalityFeatureExtractor {
 	
-	private static Stack stkAnywhere = new Stack();
+	private Stack stkAnywhere = new Stack();
 	
-	private static Stack stkBegin = new Stack();
+	private Stack stkBegin = new Stack();
 	
-	private static Stack stkCause = new Stack();
+	private Stack stkCause = new Stack();
 	
-	private static HashMap hmLitHarm = new HashMap();
+	private HashMap hmLitHarm = new HashMap();
 	
-	private static HashMap hmTell = new HashMap();
+	private HashMap hmTell = new HashMap();
 	
-	private static HashMap hmDirectionality = new HashMap();
+	private HashMap hmDirectionality = new HashMap();
 	
-	private static HashMap hmTailInd = new HashMap();
+	private HashMap hmTailInd = new HashMap();
 	
-	private static HashMap hmSentenceScore = new HashMap();
+	private HashMap hmSentenceScore = new HashMap();
 	
-	private static NLParser nlParser = new NLParser();
+	private NLParser nlParser = new NLParser();
 	
-	private static Vector strTraining=new Vector();
+	private Vector strTraining=new Vector();
 	
-	private static Vector strIDs=new Vector();
+	private Vector strIDs=new Vector();
 	
-	private static FeatureFunctionsLibrary ffl = new FeatureFunctionsLibrary();
+	private FeatureFunctionsLibrary ffl = new FeatureFunctionsLibrary();
 	
-	private static SentenceLitHarmReplacer slhr = new SentenceLitHarmReplacer();
+	private SentenceLitHarmReplacer slhr = new SentenceLitHarmReplacer();
 	
-	private static int startPoint=0;
+	private int startPoint=0;
+	
+	private IO io = new IO();
 	
 	/*
 	 * @functionality: Read in the manually created lexicons in different categories
 	 * @notes: Lexicons contain indicative words and phrases
 	 */
-	private static void initialize(){
+	private void initialize(){
 		
-		stkAnywhere = IO.readFileStk("lexicons/anywhere.txt");
+		stkAnywhere = io.readFileStk("lexicons/anywhere.txt");
 		
-		stkBegin = IO.readFileStk("lexicons/begin.txt");
+		stkBegin = io.readFileStk("lexicons/begin.txt");
 		
-		stkCause = IO.readFileStk("lexicons/cause.txt");
+		stkCause = io.readFileStk("lexicons/cause.txt");
 		
 		nlParser.initialize();
 	}
@@ -70,9 +72,9 @@ public class DirectionalityFeatureExtractor {
 	/*
 	 * @functionality: Read in specified Litagion and Harm for each PMID
 	 */
-	private static void readLitHarm() {
+	private void readLitHarm() {
 		
-		Stack stk = IO.readFileStk("resources/Training.txt");
+		Stack stk = io.readFileStk("resources/Training.txt");
 		
 		while (!stk.isEmpty()) {
 			
@@ -96,10 +98,10 @@ public class DirectionalityFeatureExtractor {
 	 * @functionality	For each abstract, take all tell sentences and process all tell sentences 
 	 * to generate feature vector for abstract
 	 */
-	private static void processTell(String tellFname){
+	private void processTell(String tellFname){
 		
 		// Read in tell sentences 
-		Stack stk = IO.readFileStk(tellFname);
+		Stack stk = io.readFileStk(tellFname);
 		
 		int S=stk.size();
 		
@@ -187,10 +189,10 @@ public class DirectionalityFeatureExtractor {
 	 * @functionality: For each abstract, take all tell sentences and process all tell sentences 
 	 * to generate feature vector for abstract
 	 */
-	private static void processTellNew(String tellFname){
+	private void processTellNew(String tellFname){
 		
 		// Read in tell sentences 
-		Stack stk = IO.readFileStk(tellFname);
+		Stack stk = io.readFileStk(tellFname);
 		
 		int S=stk.size();
 		
@@ -242,7 +244,7 @@ public class DirectionalityFeatureExtractor {
 	 * @param	litharm	is a string with litagion and harm separated by :
 	 * @return	String	litagion and harm, separated as in array
 	 */
-	private static String[] getLitHarm(String litharm){
+	private String[] getLitHarm(String litharm){
 		
 		String[] parts = litharm.split(" : ");
 		
@@ -258,7 +260,7 @@ public class DirectionalityFeatureExtractor {
 	 * @return: a code [0-7] indicating the type of tell sentence
 	 */
 	
-	private static int getSentenceTypeCode(String tellsent) {
+	private int getSentenceTypeCode(String tellsent) {
 		
 		
 		
@@ -292,7 +294,7 @@ public class DirectionalityFeatureExtractor {
 	 * @return: feature vector (comma separated string) for abstract
 	 */
 	
-	private static String getFeatureVectorAbstract(String key, Stack stkTell) {
+	private String getFeatureVectorAbstract(String key, Stack stkTell) {
 		
 		Double numNegated=0.0, numIndNegated=0.0,numCauseNegated=0.0,numTrigger=0.0;
 		
@@ -429,7 +431,7 @@ public class DirectionalityFeatureExtractor {
 	 * @param: lim is the number of abstracts to be processed
 	 * @param: if negOnly is true then only process abstracts with Directionality=2
 	 */
-	private static void processAbstracts(int lim, boolean negOnly) {
+	private void processAbstracts(int lim, boolean negOnly) {
 		
 		Collection c = hmTell.keySet();
 		
@@ -472,7 +474,7 @@ public class DirectionalityFeatureExtractor {
 	 * @param: lim is the number of abstracts to be processed
 	 * @param: if negOnly is true then only process abstracts with Directionality=2
 	 */
-	private static void processAbstractsNew(int lim, boolean negOnly) {
+	private void processAbstractsNew(int lim, boolean negOnly) {
 		
 		Collection c = hmTell.keySet();
 		
@@ -528,7 +530,7 @@ public class DirectionalityFeatureExtractor {
 	 * @return: a string that is the feature vector
 	 */
 	
-	private static String getFeatureVectorSentence(String sent){
+	private String getFeatureVectorSentence(String sent){
 		
 		String featureVec = "";
 		
@@ -620,7 +622,7 @@ public class DirectionalityFeatureExtractor {
 	/*
 	 * 
 	 */
-	private static boolean isSummary(String sentence){
+	private boolean isSummary(String sentence){
 		
 		sentence = sentence.toLowerCase().trim();
 		
@@ -645,7 +647,7 @@ public class DirectionalityFeatureExtractor {
 	 * @param: key is the extended string in which the PMID is embedded
 	 * @return: the actual PMID
 	 */
-	private static String getKey(String key){
+	private String getKey(String key){
 		
 		int ind= key.indexOf(" --- ");
 		
@@ -667,7 +669,7 @@ public class DirectionalityFeatureExtractor {
 		return key;
 	}
 	
-	public static void main (String[] args) {
+	public void main (String[] args) {
 		
 		initialize();
 		
@@ -698,7 +700,7 @@ public class DirectionalityFeatureExtractor {
 	/*
 	 * @functionality: Create a CSV file of features and directionality that can be used by classifiers
 	 */
-	private static void createTrainingFile(String fname) {
+	private void createTrainingFile(String fname) {
 		
 		strTraining.remove(0);
 		
@@ -710,8 +712,8 @@ public class DirectionalityFeatureExtractor {
 		
 		if (startPoint==0) strTraining.add(0,col);
 		
-		IO.writeFile_BasicAppend(fname, strTraining);
+		io.writeFile_BasicAppend(fname, strTraining);
 		
-		IO.writeFile_Basic("IDs.csv", strIDs);
+		io.writeFile_Basic("IDs.csv", strIDs);
 	}
 }
