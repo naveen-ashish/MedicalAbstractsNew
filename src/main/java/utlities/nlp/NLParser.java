@@ -8,6 +8,7 @@
 package utlities.nlp;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Stack;
 
 import utilities.IO;
@@ -21,18 +22,17 @@ public class NLParser
 	// LexicalizedParser("models/englishPCFG.ser.gz");
 	private LexicalizedParser lp;
 
-	private Stack stkSuper = new Stack();
+	private List<String> stkSuper = new ArrayList<String>();
+	private List<String> stkMaster = new ArrayList<String>();
 
-	private Stack stkMaster = new Stack();
-
-	public Stack getAction() {
+	public List<String> getAction() {
 
 		return stkSuper;
 	}
 
-	private Stack stkIndicatorWords;
+	private List<String> stkIndicatorWords;
 
-	private Stack stkCauseWords;
+	private List<String> stkCauseWords;
 	
 	private IO io = new IO();
 
@@ -92,7 +92,7 @@ public class NLParser
 		int S = stkSuper.size();
 
 		for (int i = 0; i < S; ++i)
-			System.out.println("[" + stkSuper.elementAt(i).toString() + "]");
+			System.out.println("[" + stkSuper.get(i) + "]");
 	}
 
 	/*
@@ -156,7 +156,7 @@ public class NLParser
 
 		for (int i = 0; i < M; ++i) {
 
-			String phrase = stkMaster.elementAt(i).toString();
+			String phrase = stkMaster.get(i);
 
 			if (phrase.indexOf(t.toString()) > -1) {
 
@@ -189,18 +189,18 @@ public class NLParser
 
 					// System.out.println("IND: "+t.toString());
 
-					stkMaster.push(t.toString());
+					stkMaster.add(t.toString());
 				} else {
 
 					sign = sign + "CAUSE";
 
 					// System.out.println("CAUSE: "+t.toString());
 
-					stkMaster.push(t.toString());
+					stkMaster.add(t.toString());
 
 				}
 
-				stkSuper.push(sign);
+				stkSuper.add(sign);
 			}
 
 			processAction(t.toString());
@@ -218,18 +218,18 @@ public class NLParser
 
 					// System.out.println("IND: "+t.toString());
 
-					stkMaster.push(t.toString());
+					stkMaster.add(t.toString());
 				} else {
 
 					sign = sign + "CAUSE";
 
 					// System.out.println("CAUSE: "+t.toString());
 
-					stkMaster.push(t.toString());
+					stkMaster.add(t.toString());
 
 				}
 
-				stkSuper.push(sign);
+				stkSuper.add(sign);
 			}
 
 			nounsList.add(t.yield().toString().trim());
@@ -266,14 +266,14 @@ public class NLParser
 
 		for (int i = 0; i < S; ++i) {
 
-			String elem = stkSuper.elementAt(i).toString();
+			String elem = stkSuper.get(i);
 
 			if (elem.indexOf(phrase) > -1)
 				contained = true;
 		}
 
 		if (!contained)
-			stkSuper.push(phrase);
+			stkSuper.add(phrase);
 
 		// System.out.println("["+phrase+"]");
 
@@ -293,7 +293,7 @@ public class NLParser
 
 		for (int i = 0; i < S; ++i) {
 
-			String indword = stkIndicatorWords.elementAt(i).toString();
+			String indword = stkIndicatorWords.get(i);
 
 			if (phrase.indexOf(indword) > -1)
 				return true;
@@ -313,7 +313,7 @@ public class NLParser
 
 		for (int i = 0; i < S; ++i) {
 
-			String indword = stkCauseWords.elementAt(i).toString();
+			String indword = stkCauseWords.get(i);
 
 			if (phrase.indexOf(indword) > -1)
 				return true;

@@ -7,18 +7,16 @@
 
 package directionality;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Stack;
-
-
-
-
 
 import utilities.IO;
 import utlities.nlp.NLParser;
 
 public class FeatureFunctionsLibrary {
 	
-	private Stack stkTriggerWords = new Stack();
+	private List<String> stkTriggerWords = new ArrayList<String>();
 	private NLParser nlParser = new NLParser();
 	private IO io = new IO();
 	
@@ -56,7 +54,7 @@ public class FeatureFunctionsLibrary {
 		
 		//NLParser.tagText(sent);
 		
-		Stack stkAction = nlParser.getAction();
+		List<String> stkAction = nlParser.getAction();
 		
 		if (stkAction.contains(" --> NEGIND")) return true;
 
@@ -71,7 +69,7 @@ public class FeatureFunctionsLibrary {
 		
 		//NLParser.tagText(sent);
 		
-		Stack stkAction = nlParser.getAction();
+		List<String> stkAction = nlParser.getAction();
 		
 		if (stkAction.contains(" --> NEGCAUSE")) return true;
 
@@ -90,7 +88,7 @@ public class FeatureFunctionsLibrary {
 			
 			for (int i=0; i <S; ++i) {
 				
-				String trigger = stkTriggerWords.elementAt(i).toString();
+				String trigger = stkTriggerWords.get(i);
 				
 				if (sent.toLowerCase().indexOf(trigger)>-1) return true;
 			}

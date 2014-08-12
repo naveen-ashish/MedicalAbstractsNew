@@ -164,14 +164,14 @@ public class MeSHTerms {
 		Vector vv = new Vector(), vv2=new Vector();
 		
 		//Stack stk = utils.IO.readFileStk("resources/OutBalancedSet.txt");
-		Stack stk = io.readFileStk("resources/TextOut6000.txt");
+		List<String> stk = io.readFileStk("resources/TextOut6000.txt");
 		
 		int S=stk.size();
 		
 		
 		for (int i=0; i <S; ++i) {
 			
-			String str = stk.elementAt(i).toString();
+			String str = stk.get(i);
 			
 			String[] parts = str.split("\t");
 			
@@ -321,13 +321,13 @@ public class MeSHTerms {
 		
 		//Stack stk=io.readFileStk("all_abstracts2.txt");
 		
-		Stack stk = RR.allAbstracts2Stk;
+		List<String> stk = RR.allAbstracts2Stk;
 		
 		int S=stk.size();
 		
 		for (int i=0; i <S; ++i){
 			
-			String str = stk.elementAt(i).toString();
+			String str = stk.get(i);
 			
 			String[] parts = str.split("\t");
 			

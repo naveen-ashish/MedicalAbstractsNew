@@ -42,13 +42,13 @@ public class ReadResources {
 
 	public HashMap meshData, meshEntryTerms, meshDataAuto = new HashMap();
 
-	public Stack mtrees2014Stk, meshData2014Stk, meshHumanNumber, meshAnimalNumber, meshCellNumber, meshInvitroNumber,
-			autoMeshStored = new Stack();
+	public List<String> mtrees2014Stk, meshData2014Stk, meshHumanNumber, meshAnimalNumber, meshCellNumber,
+			meshInvitroNumber, autoMeshStored = new ArrayList<String>();
 
-	public Stack meshMammalNumber, meshAllMeshNumber, meshNareshNumber, SM1, SM2, SM3 = new Stack();
+	public List<String> meshMammalNumber, meshAllMeshNumber, meshNareshNumber, SM1, SM2, SM3 = new ArrayList<String>();
 
-	public Stack topNodesAnimalStk, topNodesHumanStk, topNodesIVStk, textout6000Stk, allAbstracts2Stk,
-			allAbstractsMeshStk, selectedMeshStk = new Stack();
+	public List<String> topNodesAnimalStk, topNodesHumanStk, topNodesIVStk, textout6000Stk, allAbstracts2Stk,
+			allAbstractsMeshStk, selectedMeshStk = new ArrayList<String>();
 
 	private IO io = new IO();
 
@@ -430,11 +430,11 @@ public class ReadResources {
 
 		HashMap hm = new HashMap();
 
-		Stack stk = io.readFileStk(litAbbrevLoc);
+		List<String> stk = io.readFileStk(litAbbrevLoc);
 
-		while (!stk.isEmpty()) {
+		for (int i = stk.size() - 1; i > 0; i--) {
 
-			String str = stk.pop().toString();
+			String str = stk.get(i);
 
 			String[] parts = str.split(":");
 
@@ -611,13 +611,13 @@ public class ReadResources {
 		Vector vv = new Vector(), vv2 = new Vector();
 
 		// Stack stk = utils.IO.readFileStk("resources/OutBalancedSet.txt");
-		Stack stk = io.readFileStk("resources/TextOut6000.txt");
+		List<String> stk = io.readFileStk("resources/TextOut6000.txt");
 
 		int S = stk.size();
 
 		for (int i = 0; i < S; ++i) {
 
-			String str = stk.elementAt(i).toString();
+			String str = stk.get(i);
 
 			String[] parts = str.split("\t");
 

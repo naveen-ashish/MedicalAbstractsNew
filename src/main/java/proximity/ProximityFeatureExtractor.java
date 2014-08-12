@@ -12,29 +12,29 @@ import java.util.*;
 
 public class ProximityFeatureExtractor {
 
-	private Stack stkSelectedMesh = new Stack();
+	private List<String> stkSelectedMesh = new ArrayList<String>();
 
-	private Stack stkSelectedMesh1 = new Stack();
+	private List<String> stkSelectedMesh1 = new ArrayList<String>();
 
-	private Stack stkSelectedMesh2 = new Stack();
+	private List<String> stkSelectedMesh2 = new ArrayList<String>();
 
-	private Stack stkSelectedMesh3 = new Stack();
+	private List<String> stkSelectedMesh3 = new ArrayList<String>();
 
-	private Stack stkAllTreenos = new Stack();
+	private List<String> stkAllTreenos = new ArrayList<String>();
 
-	private Stack stkCell = new Stack();
+	private List<String> stkCell = new ArrayList<String>();
 
-	private Stack stkInvitro = new Stack();
+	private List<String> stkInvitro = new ArrayList<String>();
 
-	private Stack stkHuman = new Stack();
+	private List<String> stkHuman = new ArrayList<String>();
 
-	private Stack stkAnimal = new Stack();
+	private List<String> stkAnimal = new ArrayList<String>();
 
-	private Stack stkMammal = new Stack();
+	private List<String> stkMammal = new ArrayList<String>();
 
-	private Stack stkRoots = new Stack();
+	private List<String> stkRoots = new ArrayList<String>();
 
-	private Stack stkUniqueTreenums = new Stack();
+	private List<String> stkUniqueTreenums = new ArrayList<String>();
 
 	private HashMap hmMeshTree = new HashMap();
 
@@ -45,7 +45,7 @@ public class ProximityFeatureExtractor {
 	private int SM, SM1, SM2, SM3, SM4, SM5, SM6, SM7, SM8;
 
 	private io.ReadResources RR;
-	
+
 	private WriteResults writeResults = new WriteResults();
 
 	private void readAutoMesh() {
@@ -56,7 +56,7 @@ public class ProximityFeatureExtractor {
 
 		// Stack stk = utilities.IO.readFileStk("resources/AutoMeshStored.txt");
 
-		Stack stk = RR.autoMeshStored;
+		List<String> stk = RR.autoMeshStored;
 
 		int S = stk.size();
 
@@ -64,7 +64,7 @@ public class ProximityFeatureExtractor {
 
 		for (int i = 0; i < S; ++i) {
 
-			String mesh = stk.elementAt(i).toString();
+			String mesh = stk.get(i);
 
 			String[] parts = mesh.split("\t");
 
@@ -102,7 +102,7 @@ public class ProximityFeatureExtractor {
 
 		for (int i = 0; i < S; ++i) {
 
-			String mesh = stk.elementAt(i).toString();
+			String mesh = stk.get(i);
 
 			String[] parts = mesh.split("\t");
 
@@ -138,13 +138,13 @@ public class ProximityFeatureExtractor {
 		// Stack
 		// stk=utilities.IO.readFileStk("resources/MeSH_data/mtrees2014.bin");
 
-		Stack stk = RR.mtrees2014Stk;
+		List<String> stk = RR.mtrees2014Stk;
 
 		int S = stk.size();
 
 		for (int i = 0; i < S; ++i) {
 
-			String str = stk.elementAt(i).toString();
+			String str = stk.get(i).toString();
 
 			String[] parts = str.split(":");
 
@@ -164,7 +164,7 @@ public class ProximityFeatureExtractor {
 
 					// System.out.println(treeNo + " | "+getParent(treeNo));
 
-					stkAllTreenos.push(treeNo);
+					stkAllTreenos.add(treeNo);
 				}
 			}
 		}
@@ -195,7 +195,7 @@ public class ProximityFeatureExtractor {
 		String col = "";
 
 		for (Integer I = 0; I < FS; ++I)
-			col = col + stkRoots.elementAt(I).toString() + ",";
+			col = col + stkRoots.get(I) + ",";
 
 		col = col + "IVMENTION" + ",";
 
@@ -205,7 +205,8 @@ public class ProximityFeatureExtractor {
 
 		vvFeat.add(col);
 
-		Stack stk = new Stack(), stk2 = new Stack();
+		List<String> stk = new ArrayList<String>();
+		List<String> stk2 = new ArrayList<String>();
 
 		try {
 			// stk=utilities.IO.readFileStk("resources/all_abstracts2.txt");
@@ -223,9 +224,8 @@ public class ProximityFeatureExtractor {
 
 		int S2 = stk2.size();
 
-		while (!stk2.isEmpty()) {
-
-			String str = stk2.pop().toString();
+		for (int i = stk2.size(); i > 0; i--) {
+			String str = stk2.get(i);
 
 			String[] parts = str.split("\t");
 
@@ -376,20 +376,18 @@ public class ProximityFeatureExtractor {
 			}
 		}
 
-		
-		
 		writeResults.writeProximityFeatures(proxchoice, vvFeat);
 	}
 
 	private void getUniqueTreeNumbers() {
 
-		Stack stk = new Stack();
+		List<String> stk = new ArrayList<String>();
 
 		String[] lexC = { "Mesh_Human", "Mesh_Animal", "Mesh_InVitro" };
 
 		System.out.println(stkRoots.size());
 
-		Stack newStk = getCuratedRoots();
+		List<String> newStk = getCuratedRoots();
 
 		stkRoots.addAll(newStk);
 
@@ -401,7 +399,7 @@ public class ProximityFeatureExtractor {
 
 		for (int i = 0; i < S; ++i) {
 
-			String str = stk.elementAt(i).toString();
+			String str = stk.get(i);
 
 			String[] parts = str.split(":");
 
@@ -433,7 +431,7 @@ public class ProximityFeatureExtractor {
 					// System.out.println(depth+" "+absdepth+" "+reldepth);
 
 					if (!stkUniqueTreenums.contains(anctreenum))
-						stkUniqueTreenums.push(anctreenum);
+						stkUniqueTreenums.add(anctreenum);
 				} else {
 
 					hmMeshTreeDepth.put(node, 0);
@@ -461,19 +459,19 @@ public class ProximityFeatureExtractor {
 		return anctreenum;
 	}
 
-	private Stack getCuratedRoots() {
+	private List<String> getCuratedRoots() {
 
-		Stack finStk = new Stack();
+		List<String> finStk = new ArrayList<String>();
 
 		// Stack stk=utilities.IO.readFileStk("resources/topNodes_human.txt");
 
-		Stack stk = RR.topNodesHumanStk;
+		List<String> stk = RR.topNodesHumanStk;
 
 		int S = stk.size();
 
 		for (int i = 0; i < S; ++i) {
 
-			String str = stk.elementAt(i).toString();
+			String str = stk.get(i);
 
 			String[] parts = str.split(":");
 
@@ -487,7 +485,7 @@ public class ProximityFeatureExtractor {
 
 				String treenum = noparts[j].trim();
 
-				finStk.push(treenum);
+				finStk.add(treenum);
 			}
 		}
 
@@ -499,7 +497,7 @@ public class ProximityFeatureExtractor {
 
 		for (int i = 0; i < S; ++i) {
 
-			String str = stk.elementAt(i).toString();
+			String str = stk.get(i);
 
 			String[] parts = str.split(":");
 
@@ -513,7 +511,7 @@ public class ProximityFeatureExtractor {
 
 				String treenum = noparts[j].trim();
 
-				finStk.push(treenum);
+				finStk.add(treenum);
 			}
 		}
 
@@ -525,7 +523,7 @@ public class ProximityFeatureExtractor {
 
 		for (int i = 0; i < S; ++i) {
 
-			String str = stk.elementAt(i).toString();
+			String str = stk.get(i);
 
 			String[] parts = str.split(":");
 
@@ -539,7 +537,7 @@ public class ProximityFeatureExtractor {
 
 				String treenum = noparts[j].trim();
 
-				finStk.push(treenum);
+				finStk.add(treenum);
 			}
 		}
 
@@ -560,7 +558,7 @@ public class ProximityFeatureExtractor {
 
 		for (int i = 0; i < S; ++i) {
 
-			String node = stkAllTreenos.elementAt(i).toString();
+			String node = stkAllTreenos.get(i);
 
 			if (node.indexOf(treeNo) == 0) {
 
@@ -590,7 +588,7 @@ public class ProximityFeatureExtractor {
 
 		for (int i = 0; i < S; ++i) {
 
-			String anc = stkRoots.elementAt(i).toString();
+			String anc = stkRoots.get(i);
 
 			if (treenum.indexOf(anc) > -1)
 				return anc;

@@ -12,6 +12,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Map;
 import java.util.Stack;
 import java.util.Vector;
@@ -30,15 +31,15 @@ public class TellSentenceGenerator {
 
 	private HashMap hmLitAbbreviations = new HashMap();
 
-	private Stack stkAnywhere = new Stack();
+	private List<String> stkAnywhere = new ArrayList<String>();
 
-	private Stack stkBegin = new Stack();
+	private List<String> stkBegin = new ArrayList<String>();
 
-	private Stack stkCause = new Stack();
+	private List<String> stkCause = new ArrayList<String>();
 
-	private Stack stkBigrams1 = new Stack();
+	private List<String> stkBigrams1 = new ArrayList<String>();
 
-	private Stack stkBigrams2 = new Stack();
+	private List<String> stkBigrams2 = new ArrayList<String>();
 
 	private HashMap hmBigrams1 = new HashMap();
 
@@ -77,7 +78,7 @@ public class TellSentenceGenerator {
 	private WriteResults writeResults = new WriteResults();
 
 	private boolean mutexTells = false;
-	
+
 	private IO io = new IO();
 
 	/*
@@ -1039,11 +1040,11 @@ public class TellSentenceGenerator {
 
 	private void readAbbreviations() {
 
-		Stack stk = io.readFileStk(litAbbrevLoc);
+		List<String> stk = io.readFileStk(litAbbrevLoc);
 
-		while (!stk.isEmpty()) {
+		for (int i = stk.size() - 1; i > 0; i--) {
 
-			String str = stk.pop().toString();
+			String str = stk.get(i);
 
 			String[] parts = str.split(":");
 
@@ -1107,7 +1108,7 @@ public class TellSentenceGenerator {
 
 		for (int j = 0; j < A; ++j) {
 
-			String pattern = stkAnywhere.elementAt(j).toString();
+			String pattern = stkAnywhere.get(j);
 
 			if (sentence.indexOf(pattern) > -1)
 				return true;
