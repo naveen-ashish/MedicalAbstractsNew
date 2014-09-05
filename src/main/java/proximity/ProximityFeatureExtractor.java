@@ -8,6 +8,9 @@ package proximity;
 
 import java.util.*;
 
+import models.FeatureValues;
+import models.FeatureVector;
+
 public class ProximityFeatureExtractor {
 	
 	private static Stack stkSelectedMesh = new Stack();
@@ -183,6 +186,7 @@ public class ProximityFeatureExtractor {
 		String ivMention="F";
 				
 		Vector vvFeat = new Vector();
+		ArrayList<FeatureValues> featureValuesList = new ArrayList<FeatureValues>();
 		
 		Vector vv = new Vector();
 		
@@ -330,19 +334,31 @@ public class ProximityFeatureExtractor {
 					}
 					
 					String res="";
+					LinkedHashSet<String> values = new LinkedHashSet<String>();
+					for (int j=0; j <FS; ++j){
+						values.add(feat[j]);
+						res=res+feat[j]+",";
+					}
 					
-					for (int j=0; j <FS; ++j) res=res+feat[j]+",";
-		
+					FeatureValues featureValues = new FeatureValues();
+					featureValues.setValues(values);
+					featureValues.setAbstractId(pmid);
+					featureValues.setIvMention(ivMention);
+					featureValues.setProximity(prox);
+					
 					res=res+ivMention+","+prox+","+pmid;
-					
 					//System.out.println(res);
+					featureValuesList.add(featureValues);
 					
 					vvFeat.add(res);
 		
 				}
 			}
 		}
-
+		FeatureVector featureVector = new FeatureVector();
+		featureVector.setVector(featureValuesList);
+		io.WriteResults.writeProximityFeatures(featureVector);
+		
 		io.WriteResults.writeProximityFeatures(proxchoice, vvFeat);
 	}
 	

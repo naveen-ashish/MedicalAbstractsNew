@@ -24,6 +24,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.*;
 
+import models.Tell;
+import models.TellDetail;
 import utilities.IO;
 import utilities.SentenceLitHarmReplacer;
 import utilities.SentenceTypeClassifier;
@@ -123,6 +125,7 @@ public class TellSentenceGenerator {
 		int CX=0,C1=0,C2=0,CA=0,C0=0,P1=0,P2=0;
 		
 		Vector vvRes = new Vector();
+		ArrayList<TellDetail> tellSentences = new ArrayList<TellDetail>();
 		
 		try{
 			
@@ -308,6 +311,13 @@ public class TellSentenceGenerator {
 		        			if (directionality.equals("1")|| directionality.equals("2")) {
 		        				
 		        				vvRes.add(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+tellFirst+"\n");
+		        				TellDetail tellDetail = new TellDetail();
+		        				tellDetail.setDirectionality(directionality);
+		        				tellDetail.setPmid(abstractID);
+		        				tellDetail.setLitagion(litagion);
+		        				tellDetail.setHarm(harmClass);
+		        				tellDetail.setPass1(tellFirst);
+		        				tellSentences.add(tellDetail);
 		        				
 		        			}
 				        	
@@ -321,7 +331,18 @@ public class TellSentenceGenerator {
 			        			//vvRes.add(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+tellFirst+"\n");
   			
 			        			vvRes.add(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+"\nFirstpass: "+tellFirst+"\n"+"\nSecondpass: "+tellSecond+"\n"+"\nThirdpass: "+tellThird+"\n"+"\nFourthpass: "+tellFourth+"\n");
-		        				
+			        			TellDetail tellDetail = new TellDetail();
+		        				tellDetail.setDirectionality(directionality);
+		        				tellDetail.setPmid(abstractID);
+		        				tellDetail.setLitagion(litagion);
+		        				tellDetail.setHarm(harmClass);
+		        				tellDetail.setPass1(tellFirst);
+		        				tellDetail.setPass2(tellSecond);
+		        				tellDetail.setPass3(tellThird);
+		        				tellDetail.setPass4(tellFourth);
+		        				tellSentences.add(tellDetail);
+			        			
+			        			
 			        			//System.out.println(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+str+"\n");
 		        				
 			        			
@@ -338,8 +359,12 @@ public class TellSentenceGenerator {
 		        	}
 		        }
 		    }
-		 
+			Tell tell = new Tell();
+			tell.setTellSentences(tellSentences);
+			tell.setMultualExclusionAcrossPasses(mutexTells);
+			
 		    io.WriteResults.writeTells(mutexTells, vvRes);
+		    io.WriteResults.writeTell(tell);
 		    
 			 System.out.println("Done !!\nTell Sentences generated and placed in <project folder>/<type>-tell-sentences-<datestamp>.txt");
 		   

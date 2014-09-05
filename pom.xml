@@ -6,6 +6,12 @@
   <packaging>jar</packaging>
   <name>com.cognie.medicalabstracts</name>
   <description>medical-abstracts</description>
+   <repositories>
+	<repository>
+		<id>codehaus</id>
+		<url>http://repository.codehaus.org/org/codehaus</url>
+	</repository>
+  </repositories>
   <build>
     <plugins>
       <plugin>
@@ -109,6 +115,11 @@
 		<groupId>org.apache.commons</groupId>
 		<artifactId>commons-lang3</artifactId>
 		<version>3.3.1</version>
+	</dependency>
+	<dependency>
+		<groupId>org.codehaus.jackson</groupId>
+		<artifactId>jackson-mapper-asl</artifactId>
+		<version>1.8.5</version>
 	</dependency>
   </dependencies>
 </project>
