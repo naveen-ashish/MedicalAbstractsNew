@@ -1,12 +1,12 @@
 package models;
 
-import java.util.LinkedHashSet;
+import java.util.LinkedList;
 
 public class FeatureValues {
 	private String abstractId;
 	private String proximity;
 	private String ivMention;
-	private LinkedHashSet<String> values = new LinkedHashSet<String>();
+	private LinkedList<String> values = new LinkedList<String>();
 	
 	public String getProximity() {
 		return proximity;
@@ -26,10 +26,10 @@ public class FeatureValues {
 	public void setAbstractId(String abstractId) {
 		this.abstractId = abstractId;
 	}
-	public LinkedHashSet<String> getValues() {
+	public LinkedList<String> getValues() {
 		return values;
 	}
-	public void setValues(LinkedHashSet<String> values) {
+	public void setValues(LinkedList<String> values) {
 		this.values = values;
 	}
 }

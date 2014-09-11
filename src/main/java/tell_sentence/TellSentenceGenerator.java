@@ -319,6 +319,8 @@ public class TellSentenceGenerator {
 		        				tellDetail.setPass1(tellFirst);
 		        				tellSentences.add(tellDetail);
 		        				
+//		        				System.out.println(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+tellFirst+"\n");
+		        				
 		        			}
 				        	
 			        	} else {
@@ -343,7 +345,7 @@ public class TellSentenceGenerator {
 		        				tellSentences.add(tellDetail);
 			        			
 			        			
-			        			//System.out.println(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+str+"\n");
+//			        			System.out.println(directionality+"\t"+abstractID+"\t"+litagion+"\t"+harmClass+"\t"+"\nFirstpass: "+tellFirst+"\n"+"\nSecondpass: "+tellSecond+"\n"+"\nThirdpass: "+tellThird+"\n"+"\nFourthpass: "+tellFourth+"\n");
 		        				
 			        			
 		        				String dirn="";
@@ -356,12 +358,14 @@ public class TellSentenceGenerator {
 		        			}
 				        	
 			        	}
+		        		System.out.println(tellSentences.size());
 		        	}
 		        }
 		    }
 			Tell tell = new Tell();
 			tell.setTellSentences(tellSentences);
 			tell.setMultualExclusionAcrossPasses(mutexTells);
+			tell.setTimestamp("");
 			
 		    io.WriteResults.writeTells(mutexTells, vvRes);
 		    io.WriteResults.writeTell(tell);

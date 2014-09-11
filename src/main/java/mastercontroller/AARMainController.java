@@ -10,7 +10,7 @@ public class AARMainController {
 		
 		RR.readAllResources();
 		
-		new tell_sentence.TellSentenceGenerator().execute(RR);
+//		new tell_sentence.TellSentenceGenerator().execute(RR);
 		
 		new proximity.ProximityFeatureExtractor().execute(RR);
 	}

@@ -5,6 +5,14 @@ import java.util.ArrayList;
 public class Tell {
 	private boolean multualExclusionAcrossPasses;
 	private ArrayList<TellDetail> tellSentences = new ArrayList<TellDetail>();
+	private String timestamp;
+	
+	public String getTimestamp() {
+		return timestamp;
+	}
+	public void setTimestamp(String timestamp) {
+		this.timestamp = timestamp;
+	}
 	
 	public boolean isMultualExclusionAcrossPasses() {
 		return multualExclusionAcrossPasses;

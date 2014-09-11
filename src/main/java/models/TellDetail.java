@@ -9,7 +9,7 @@ public class TellDetail {
 	private String pass3;
 	private String pass4;
 	private String directionality;
-	
+
 	public String getDirectionality() {
 		return directionality;
 	}

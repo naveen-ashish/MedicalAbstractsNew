@@ -187,12 +187,16 @@ public class ProximityFeatureExtractor {
 				
 		Vector vvFeat = new Vector();
 		ArrayList<FeatureValues> featureValuesList = new ArrayList<FeatureValues>();
+		LinkedList<String> columnNames = new LinkedList<String>();
 		
 		Vector vv = new Vector();
 		
 		String col="";
 		
-		for (Integer I=0; I <FS;++I) col=col+stkRoots.elementAt(I).toString()+",";
+		for (Integer I=0; I <FS;++I){
+			col=col+stkRoots.elementAt(I).toString()+",";
+			columnNames.add(stkRoots.elementAt(I).toString());
+		}
 		
 		col=col+"IVMENTION"+",";
 		
@@ -334,7 +338,7 @@ public class ProximityFeatureExtractor {
 					}
 					
 					String res="";
-					LinkedHashSet<String> values = new LinkedHashSet<String>();
+					LinkedList<String> values = new LinkedList<String>();
 					for (int j=0; j <FS; ++j){
 						values.add(feat[j]);
 						res=res+feat[j]+",";
@@ -357,6 +361,9 @@ public class ProximityFeatureExtractor {
 		}
 		FeatureVector featureVector = new FeatureVector();
 		featureVector.setVector(featureValuesList);
+		featureVector.setJobId("");
+		featureVector.setTimestamp("");
+		featureVector.setColumns(columnNames);
 		io.WriteResults.writeProximityFeatures(featureVector);
 		
 		io.WriteResults.writeProximityFeatures(proxchoice, vvFeat);
